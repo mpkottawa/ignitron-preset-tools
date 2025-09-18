@@ -2,9 +2,8 @@ Ignitron Preset Picker v1.0
 ===========================
 
 this tool will build your preset banks and overwrite presetlist.txt and PresetListUUIDs.txt files with the selected banks and presets. put !gnitron_preset_picker.exe
-in your ignitron /data folder and run !gnitron_preset_picker.exe.  you can choose all your banks and presets, then overwritee the presetlist.txt and PresetListUUIDs.txt files, ready to be uploaded to the Ignitron pedal.
-
-A simple tool to build and export Spark-compatible preset lists.
+in your ignitron /data folder and run !gnitron_preset_picker.exe.  you can choose all your banks and presets, then overwritee the presetlist.txt and PresetListUUIDs.txt 
+files, ready to be uploaded to the Ignitron pedal.
 
 
 How to Use
@@ -38,4 +37,5 @@ Features
 - Dynamic banks (add/remove)
 - Drag & drop preset assignment
 - Auto-fill empty slots with last preset
+
 
