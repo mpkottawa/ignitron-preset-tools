@@ -1,2 +1,0 @@
-this tool will build your preset banks and overwrite presetlist.txt and PresetListUUIDs.txt files with the selected banks and presets. put !gnitron_preset_builder.py
-in your ignitron /data folder and it pulls the presets in that folder and gui to set presets, and then save the 2 files, ready to be uploaded to the esp32.
