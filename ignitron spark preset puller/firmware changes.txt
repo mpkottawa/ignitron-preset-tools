@@ -1,0 +1,17 @@
+
+ble setting to connect android match uuid with amp...............
+
+
+in  SparkBTControl.h:
+
+
+const string SPARK_BLE_SERVICE_UUID = "FFC0";
+const string SPARK_BLE_WRITE_CHAR_UUID = "FFC1";
+const string SPARK_BLE_NOTIF_CHAR_UUID = "FFC2";
+
+
+TO:
+
+const string SPARK_BLE_SERVICE_UUID      = "0000ffc0-0000-1000-8000-00805f9b34fb";
+const string SPARK_BLE_WRITE_CHAR_UUID   = "0000ffc1-0000-1000-8000-00805f9b34fb";
+const string SPARK_BLE_NOTIF_CHAR_UUID   = "0000ffc2-0000-1000-8000-00805f9b34fb";
