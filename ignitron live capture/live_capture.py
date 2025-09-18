@@ -12,6 +12,7 @@ and generates:
 
 Usage:
     python live_capture.py
+    python live_capture.py --fast   # skip splash delays
 """
 
 import os
@@ -339,6 +340,27 @@ def live_serial_capture_and_save(port: str,
         open_folder(out_dir)
 
 # ==========================================================
+# ------------------ Splash Screen -------------------------
+# ==========================================================
+def splash_screen(fast=False):
+    print("="*60)
+    print("    🎸  Ignitron Live Capture  🎛️")
+    print("    \"Because tone should be saved, not lost.\"")
+    print("="*60, "\n")
+
+    steps = [
+        "Plugging in the cable... 🎤",
+        "Warming up the tubes... 🔥",
+        "Tuning the strings... 🎵",
+        "Ready to rock! 🤘"
+    ]
+    for step in steps:
+        print("   " + step)
+        if not fast:
+            time.sleep(0.8)
+    print()
+
+# ==========================================================
 # ------------------ Entry Point ---------------------------
 # ==========================================================
 def choose_serial_port():
@@ -361,6 +383,8 @@ def choose_serial_port():
         print("Invalid choice. Try again.")
 
 if __name__ == "__main__":
+    fast_mode = "--fast" in sys.argv
+    splash_screen(fast=fast_mode)
     print_divider("Ignitron Standalone Live Capture")
 
     print("Pull mode:")
