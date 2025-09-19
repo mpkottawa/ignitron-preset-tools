@@ -1,6 +1,12 @@
 
 
-change the following settings in iIgnitron.ino file to enable sending "LISTPRESETS" and "LISTBANKS" to trigger dumping presetlist over serial.
+add the following settings in /Ignitron/Ignitron.ino file to enable sending "LISTPRESETS" and "LISTBANKS" to trigger dumping presetlist over serial, as well as streaming the app and saving presets selected.
+
+
+
+preset pulling setup:
+......................
+
 
 ****add this line to the include librarys at start of file:
 
@@ -131,3 +137,53 @@ static void handleSerialCommands() {
 // === END: LISTPRESETS serial support =========================================
 
 
+
+======================================================================================================================================
+
+spark app streaming setup:
+..........................
+
+
+**** edit SparkPresetControl.cpp located in /ignitron/src:
+
+add:  
+
+        // 🔧 Added for App Scraper
+    Serial.println("received from app:");
+    Serial.println(appReceivedPreset_.json.c_str());
+	
+	
+	
+	on the line after(around line 400) :
+	
+	
+	void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
+    presetEditMode_ = PRESET_EDIT_STORE;
+    appReceivedPreset_ = presetBuilder.getPresetFromJson(presetJson);
+    DEBUG_PRINTLN("received from app:");
+    DEBUG_PRINTLN(appReceivedPreset_.json.c_str());
+	
+	**insert here**
+
+-----------------------------------------------
+
+****the final snippet should look like this:
+
+
+void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
+    presetEditMode_ = PRESET_EDIT_STORE;
+    appReceivedPreset_ = presetBuilder.getPresetFromJson(presetJson);
+
+    DEBUG_PRINTLN("received from app:");
+    DEBUG_PRINTLN(appReceivedPreset_.json.c_str());
+
+    // 🔧 Added for App Scraper
+    Serial.println("received from app:");
+    Serial.println(appReceivedPreset_.json.c_str());
+
+    presetNumToEdit_ = 0;
+}
+	
+	
+	
+	
