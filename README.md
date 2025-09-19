@@ -181,8 +181,12 @@ Enjoy!
 # Ignitron Preset Tools Operation
 
 ## Overview
-- Ensure your pedal connects to your device running the Spark app (BLE or SRL).  
-- Preset pulling only works when the pedal is connected via USB in **AMP mode** (hold switch 1 while booting).  
+- Ensure your pedal connects to your device running the Spark app (BLE or SRL). I have only tested this over SRL. 
+
+- Preset pulling only works when the pedal is connected via USB in **AMP mode** (hold switch 1 while booting). 
+
+-before plugging in the usb, put the pedal in AMP mode(power it on while holding switch 1) 
+
 - Keep switch 1 pressed while the tool starts its connection. The pedal will reboot, and you can release switch 1 after the screen cycles.  
 
 ---
