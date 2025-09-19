@@ -208,4 +208,43 @@ When you run `ignitron_preset_tools.exe`, you’ll see 4 options:
 Load your `/data` folder of presets, organize them in the GUI, and export the 2 files needed to build your preset banks.
 <img width="1914" height="1025" alt="Screenshot 2025-09-19 185020" src="https://github.com/user-attachments/assets/c4d7df5b-296b-4690-9aad-0d835d0a1afb" />
 
+**OPERATION**
+it starts with asking for how many banks, select 1-30.
+
+<img width="218" height="142" alt="Screenshot 2025-09-19 184915" src="https://github.com/user-attachments/assets/3f0d051a-cc6f-4793-a56b-81f4f25aa419" />
+
+then asks for your data folder, point it to /ignitron/data/.
+
+<img width="779" height="498" alt="Screenshot 2025-09-19 184957" src="https://github.com/user-attachments/assets/a641fc86-161d-4f8b-95d0-d70b108447b2" />
+
+after it opens up, you can see all presets from that folder on the left. you can then drag each preset to where you want it, if you double click it will 
+add that preset to the next available slot. you can add or delete banks.  a button to fill all empty slots with random presets, will fill with unused presets from 
+the left , then fill the rest with all presets in random locations to fill the grid.
+
+when you're happy with your setup, hit the export button to update the /data/presetlist.txt, and the /data/PresetListUUIDs.txt, ready to upload to the pedal.  
+Recompile and upload to the pedal and all your banks are where you put them.
+
+---
+
+### 2. Preset Scraper
+**Description**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
