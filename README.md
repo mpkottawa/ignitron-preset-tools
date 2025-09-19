@@ -21,7 +21,6 @@ handleSerialCommands();   // so it will react to LISTPRESETS
 ****add the following at the end of the file:
 
 
-}
 
 // === BEGIN: LISTPRESETS serial support =======================================
 
