@@ -1,27 +1,37 @@
 
-<img width="1024" height="1024" alt="IPT" src="https://github.com/user-attachments/assets/7a0a1a7d-8483-4dad-b62c-11ff872207f9" />
+<img width="1024" height="1024" alt="IPT" src="https://github.com/user-attachments/assets/232fbc66-9883-433b-a46b-68cead18deec" />
 
 
-================================================================================================================
+to enable pulling presets and streaming presets from the app, we have to midify 2 files in the ignitron firmware:
 
-add the following code in your /ignitron/Ignitron.ino file to enable sending "LISTPRESETS" and "LISTBANKS" to trigger dumping presetlist over serial.
+  -ignitron.ino - 3 strings                  in the main ignitron folder
+  -SparkPresetControl.cpp - 1 string         in the /src folder
 
-****add this line to the include librarys at start of file:
+add the following settings in /Ignitron/Ignitron.ino file to enable sending "LISTPRESETS" and "LISTBANKS" to trigger dumping presetlist over serial, 
+  you can also just copy the 2 files ignitron.ino and SparkPresetControl.cpp into their respective folders:
+
+preset pulling setup  (edit /ignitron/ignitron.ino):
+...................................................
+
+1. ****add this line to the include librarys at start of file:
 
 #include <LittleFS.h>
 
+
+
 ----------------------------------------------------------------------------------------------------------------
 
-****add this line right after void loop() {  :
+2. ****add this line right after void loop() {  :
 
 handleSerialCommands();   // so it will react to LISTPRESETS
 
+
+
 ----------------------------------------------------------------------------------------------------------------
 
 
-****add the following at the end of the file:
-
-
+3. ****add the following after the end of the file:
+   
 
 // === BEGIN: LISTPRESETS serial support =======================================
 
@@ -133,4 +143,59 @@ static void handleSerialCommands() {
 }
 
 // === END: LISTPRESETS serial support =========================================
+
+
+
+======================================================================================================================================
+
+as well as streaming the app and saving presets selected.
+
+spark app streaming setup to enable saving presets as they are selected in the app:
+..........................
+
+
+1. **** edit SparkPresetControl.cpp located in /ignitron/src:
+
+add:  
+
+        // 🔧 Added for App Scraper
+    Serial.println("received from app:");
+    Serial.println(appReceivedPreset_.json.c_str());
+	
+	on the line after(around line 400) :
+
+
+	void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
+    presetEditMode_ = PRESET_EDIT_STORE;
+    appReceivedPreset_ = presetBuilder.getPresetFromJson(presetJson);
+    DEBUG_PRINTLN("received from app:");
+    DEBUG_PRINTLN(appReceivedPreset_.json.c_str());
+	
+	**insert here**
+
+-------
+
+****the final snippet should look like this:
+
+
+void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
+    presetEditMode_ = PRESET_EDIT_STORE;
+    appReceivedPreset_ = presetBuilder.getPresetFromJson(presetJson);
+
+    DEBUG_PRINTLN("received from app:");
+    DEBUG_PRINTLN(appReceivedPreset_.json.c_str());
+
+    // 🔧 Added for App Scraper
+    Serial.println("received from app:");
+    Serial.println(appReceivedPreset_.json.c_str());
+
+    presetNumToEdit_ = 0;
+}
+
+
+---------------------------------------------------------------------------------------------------------------
+
+then compile and flash to pedal.  enjoy
+	
+	
 
