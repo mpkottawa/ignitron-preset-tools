@@ -4,7 +4,8 @@
 Ignitron Preset Tools:
 ----------------------
 
-to enable the pedal to pull current pedal presets and streaming presets from the app, we have to modify 2 files in the ignitron firmware:
+-To enable the ignitron pedal to pull current pedal presetsas well as streaming presets from the app, we have to modify 2 files in the ignitron firmware:
+
 
   -ignitron.ino - 3 strings                  in the main ignitron folder
   -SparkPresetControl.cpp - 1 string         in the /src folder
@@ -195,5 +196,46 @@ void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
 
 then compile and flash to pedal.  enjoy
 	
-	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Igniitron preset tools operation:
+---------------------------------
+OVERVIEW
+______________
+
+-first of all, make sure your pedal can connect to your device running the spark app over ble or srl properly. 
+
+- pulling presets only works when the pedal is connected over usb to your computer in AMP mode (holding switch 1 when booting the
+  ignitron pedal on. i recomend making sure it is already in amp mode when you connect the usb cable.
+
+-for this application, we need to be holding switch 1 down when the tool starts the usb connection. the pedal will do a reboot when connection is started so 
+  you need to be holding down the switch when starting it so it wil lremain in AMP mode(should also indicate the bt connection on screen(SRL/BLE)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
