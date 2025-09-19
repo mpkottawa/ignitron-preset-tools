@@ -27,7 +27,7 @@ You can either manually edit these files as described below, or replace them ent
 
 ---
 
-### 2. Add this line inside `void loop()`:
+### 2. Add this line right below `void loop()`:
 ```cpp
 handleSerialCommands();   // so it will react to LISTPRESETS
 ```
