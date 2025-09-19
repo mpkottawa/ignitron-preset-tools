@@ -4,7 +4,9 @@
 Ignitron Preset Tools:
 ----------------------
 
--To enable the ignitron pedal to pull current pedal presetsas well as streaming presets from the app, we have to modify 2 files in the ignitron firmware:
+-you can put the "Ignitron Preset Tools.exe" in the root directory of your ignitron folder(/ignitron)
+
+-To enable the ignitron pedal to pull current pedal presets, as well as streaming presets from the app, we have to modify 2 files in the ignitron firmware:
 
 
   -ignitron.ino - 3 strings                  in the main ignitron folder
@@ -203,14 +205,35 @@ Igniitron preset tools operation:
 OVERVIEW
 ______________
 
--first of all, make sure your pedal can connect to your device running the spark app over ble or srl properly. 
+  -first of all, make sure your pedal can connect to your device running the spark app over BLE or SRL properly. 
 
-- pulling presets only works when the pedal is connected over usb to your computer in AMP mode (holding switch 1 when booting the
-  ignitron pedal on. i recomend making sure it is already in amp mode when you connect the usb cable.
+   -pulling presets only works when the pedal is connected over usb to your computer in AMP mode (holding switch 1 when booting the
+    ignitron pedal on. i recomend making sure it is already in amp mode when you connect the usb cable. when the specific tool starts connection, 
+    you will need to be holding down switch 1 as well.
 
--for this application, we need to be holding switch 1 down when the tool starts the usb connection. the pedal will do a reboot when connection is started so 
-  you need to be holding down the switch when starting it so it wil lremain in AMP mode(should also indicate the bt connection on screen(SRL/BLE)  
+   -holding switch 1 down when the tool starts the connection, the pedal will do a reboot and you can release switch 1 when you see the screen do a 
+   reboot.(should also indicate the bt connection on screen(SRL/BLE), but not necessarily the bluetooth symbol
+   
+   
+--------------------------------------------------------------------------------------------   
+   
+    OPERATION
+___________________
 
+main menu
+--------------
+
+- open ignitron_preset_tools.exe.  it will open with 4 options.
+
+   1- Preset Picker
+   2- Preset Puller
+   3- App Scraper
+   4- Exit
+   
+   
+1 - Preset Picker
+------------------------
+discription: use this tool load your /data folder of presets, organise all them in the gui, and export the 2 files to build your presets.
 
 
 
