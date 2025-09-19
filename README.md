@@ -198,10 +198,14 @@ When you run `ignitron_preset_tools.exe`, you’ll see 4 options:
 3. App Scraper
 4. Exit
 ```
-<img width="499" height="353" alt="Screenshot 2025-09-19 184609" src="https://github.com/user-attachments/assets/cac45345-25c9-4df6-99c4-29ff9922642e" />
+<img width="499" height="314" alt="Screenshot 2025-09-19 184609" src="https://github.com/user-attachments/assets/6603eb06-333a-4743-b41c-c4548728ce74" />
+
 
 ---
 
 ### 1. Preset Picker
 **Description:**  
 Load your `/data` folder of presets, organize them in the GUI, and export the 2 files needed to build your preset banks.
+<img width="1914" height="1025" alt="Screenshot 2025-09-19 185020" src="https://github.com/user-attachments/assets/c4d7df5b-296b-4690-9aad-0d835d0a1afb" />
+
+
