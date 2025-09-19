@@ -1,4 +1,7 @@
 
+<img width="1024" height="1024" alt="IPT" src="https://github.com/user-attachments/assets/7a0a1a7d-8483-4dad-b62c-11ff872207f9" />
+
+
 
 change the following settings in iIgnitron.ino file to enable sending "LISTPRESETS" and "LISTBANKS" to trigger dumping presetlist over serial.
 
