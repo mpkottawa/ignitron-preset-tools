@@ -8,7 +8,7 @@ The **Ignitron Preset Tools.exe** can be placed in the root directory of your `i
 /ignitron
 ```
 
-To enable the Ignitron pedal to pull current pedal presets, as well as stream presets from the app, two firmware files must be modified:
+To enable the Ignitron pedal to pull current pedal presets(by responding to the calls: LISTPRESETS and LISTBANKS), as well as stream presets from the app, two firmware files must be modified:
 
 - `ignitron.ino` (main Ignitron folder) → **3 edits**  
 - `SparkPresetControl.cpp` (in `/src` folder) → **1 edit**
