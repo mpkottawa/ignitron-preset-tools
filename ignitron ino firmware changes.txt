@@ -1,4 +1,4 @@
-to enable pulling presets and streaming presets from the app, we have to midify 2 files in the firmware:
+to enable pulling presets and streaming presets from the app, there are 2 files in the firmware:
 
   -ignitron.ino                   in the main ignitron folder3
   -SparkPresetControl.cpp         in the /src folder
@@ -199,4 +199,5 @@ void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
 then compile and flash to pedal.  enjoy
 	
 	
+
 
