@@ -1,16 +1,18 @@
 
 <img width="1024" height="1024" alt="IPT" src="https://github.com/user-attachments/assets/232fbc66-9883-433b-a46b-68cead18deec" />
 
+Ignitron Preset Tools:
+----------------------
 
-to enable pulling presets and streaming presets from the app, we have to midify 2 files in the ignitron firmware:
+to enable the pedal to pull current pedal presets and streaming presets from the app, we have to midify 2 files in the ignitron firmware:
 
   -ignitron.ino - 3 strings                  in the main ignitron folder
   -SparkPresetControl.cpp - 1 string         in the /src folder
 
 add the following settings in /Ignitron/Ignitron.ino file to enable sending "LISTPRESETS" and "LISTBANKS" to trigger dumping presetlist over serial, 
-  you can also just copy the 2 files ignitron.ino and SparkPresetControl.cpp into their respective folders:
+you can also just copy the 2 files ignitron.ino and SparkPresetControl.cpp into their respective folders, and modify the bits that are specific to your pedal(pins, leds, screen etc):
 
-preset pulling setup  (edit /ignitron/ignitron.ino):
+A. preset pulling setup  (edit /ignitron/ignitron.ino):
 ...................................................
 
 1. ****add this line to the include librarys at start of file:
@@ -18,13 +20,11 @@ preset pulling setup  (edit /ignitron/ignitron.ino):
 #include <LittleFS.h>
 
 
-
 ----------------------------------------------------------------------------------------------------------------
 
 2. ****add this line right after void loop() {  :
 
 handleSerialCommands();   // so it will react to LISTPRESETS
-
 
 
 ----------------------------------------------------------------------------------------------------------------
@@ -148,9 +148,7 @@ static void handleSerialCommands() {
 
 ======================================================================================================================================
 
-as well as streaming the app and saving presets selected.
-
-spark app streaming setup to enable saving presets as they are selected in the app:
+B: spark app streaming setup to enable saving presets as they are selected in the app:
 ..........................
 
 
