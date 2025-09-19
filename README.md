@@ -198,6 +198,7 @@ When you run `ignitron_preset_tools.exe`, you’ll see 4 options:
 3. App Scraper
 4. Exit
 ```
+<img width="499" height="353" alt="Screenshot 2025-09-19 184609" src="https://github.com/user-attachments/assets/cac45345-25c9-4df6-99c4-29ff9922642e" />
 
 ---
 
