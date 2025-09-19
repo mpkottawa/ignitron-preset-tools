@@ -1,16 +1,19 @@
+to enable pulling presets and streaming presets from the app, we have to midify 2 files in the firmware:
 
+  -ignitron.ino                   in the main ignitron folder3
+  -SparkPresetControl.cpp         in the /src folder
 
-add the following settings in /Ignitron/Ignitron.ino file to enable sending "LISTPRESETS" and "LISTBANKS" to trigger dumping presetlist over serial, as well as streaming the app and saving presets selected.
+add the following settings in /Ignitron/Ignitron.ino file to enable sending "LISTPRESETS" and "LISTBANKS" to trigger dumping presetlist over serial, 
+  you can also just copy the 2 files ignitron.ino and SparkPresetControl.cpp into their respective folders:
 
-
-
-preset pulling setup:
-......................
-
+preset pulling setup  (edit /ignitron/ignitron.ino):
+...................................................
 
 ****add this line to the include librarys at start of file:
 
 #include <LittleFS.h>
+
+
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -18,10 +21,13 @@ preset pulling setup:
 
 handleSerialCommands();   // so it will react to LISTPRESETS
 
+
+
 ----------------------------------------------------------------------------------------------------------------
 
 
-****add the following at the end of the file:
+****add the following after the end of the file:
+
 
 
 
@@ -138,9 +144,14 @@ static void handleSerialCommands() {
 
 
 
+
+
+
 ======================================================================================================================================
 
-spark app streaming setup:
+as well as streaming the app and saving presets selected.
+
+spark app streaming setup(edit SparkPresetControl.cpp located in /ignitron/src):
 ..........................
 
 
@@ -152,11 +163,9 @@ add:
     Serial.println("received from app:");
     Serial.println(appReceivedPreset_.json.c_str());
 	
-	
-	
 	on the line after(around line 400) :
-	
-	
+
+
 	void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
     presetEditMode_ = PRESET_EDIT_STORE;
     appReceivedPreset_ = presetBuilder.getPresetFromJson(presetJson);
@@ -165,7 +174,7 @@ add:
 	
 	**insert here**
 
------------------------------------------------
+-------
 
 ****the final snippet should look like this:
 
@@ -183,7 +192,11 @@ void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
 
     presetNumToEdit_ = 0;
 }
+
+
+---------------------------------------------------------------------------------------------------------------
+
+then compile and flash to pedal.  enjoy
 	
 	
-	
-	
+
