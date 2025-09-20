@@ -3,9 +3,9 @@
 # Ignitron Preset Tools
 
 this program was coded 100% with chatgpt. I wanted a way to backup presets with ignitron, and struggled with pulling data back from the esp32 and converting it.  i simply asked chatgpt if it could
-convert extracted raw preset data into usable .json files .  i just kept asking for more.
+convert extracted raw preset data into usable .json files .  Then I just kept asking for more.
 
-
+it includes the 3 standalone .exe's(preset_picker.exe, and preset_puller.exe, app_scraper.exe) which are all integrated with Ignitron Preset Tools.exe.  
 The **Ignitron Preset Tools.exe** can be placed in the root directory of your `ignitron` folder:
 
 ```
