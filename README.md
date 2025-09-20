@@ -8,10 +8,10 @@ this program was coded 100% with chatgpt. I wanted a way to backup presets with 
 convert extracted raw preset data into usable .json files .  Then I just kept asking for more.
 
 it includes the 3 standalone .exe's(preset_picker.exe, and preset_puller.exe, app_scraper.exe) which are all integrated with Ignitron Preset Tools.exe.  
-The **Ignitron Preset Tools.exe** can be placed in the root directory of your `ignitron` folder:
+To use, run  Ignitron Preset Tools.exe, which should be located inside the Ignitron Preset Tools which can be placed in the root directory of your `ignitron` folder:
 
 ```
-/ignitron
+/ignitron/Ignitron Preset Tools/ignitron_preset_tools.exe
 ```
 
 To enable the Ignitron pedal to pull current pedal presets(by responding to the calls: LISTPRESETS and LISTBANKS), as well as stream presets from the app, two firmware files must be modified:
@@ -247,11 +247,15 @@ preset puller starts and asks pull mode:
 
 <img width="586" height="562" alt="Screenshot 2025-09-19 204658" src="https://github.com/user-attachments/assets/3024e33a-39b6-46ba-bebe-8c331e9ccfb9" />
 
+
  it then asks for your connection port, enter the corresponding number for that port
 
  
-<img width="536" height="242" alt="Screenshot 2025-09-19 205046" src="https://github.com/user-attachments/assets/08c7e2d9-21be-4c0a-ab62-a1407f40fcde" />
+<img width="578" height="187" alt="Screenshot 2025-09-19 205323" src="https://github.com/user-attachments/assets/00ef57e0-18df-4fb8-9602-a4cd8bf34267" />
 
+
+ at this point, hold down switch 1 on the pedal and hit enter, keep holding 1 until you see the screen reboot and be in AMP mode(shows BLE or SRL.
+ it will display the results after.  
 
 
 
