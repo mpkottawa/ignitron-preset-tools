@@ -229,6 +229,14 @@ the left , then fill the rest with all presets in random locations to fill the g
 when you're happy with your setup, hit the export button to update the /data/presetlist.txt, and the /data/PresetListUUIDs.txt, ready to upload to the pedal.  
 Recompile and upload to the pedal and all your banks are where you put them.
 
+it makes a presetlist.txt file like:
+<img width="361" height="722" alt="Screenshot 2025-09-19 211613" src="https://github.com/user-attachments/assets/eeb15bff-ed62-4fc0-a372-c4fce5920a67" />
+
+and the PresetListUUIDs.txt file like:
+<img width="690" height="684" alt="Screenshot 2025-09-19 211746" src="https://github.com/user-attachments/assets/d68d71a6-bfbc-4f44-9d12-d7c4d5dd2ffa" />
+
+which are formatted correctly, and directly ready to upload to your pedal upon save
+
 ---
 
 ### 2. Preset Scraper
