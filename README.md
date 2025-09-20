@@ -2,6 +2,8 @@
 
 # Ignitron Preset Tools
 
+this program was coded exclusively with chatgpt. I wanted a way to backup presets with ignitron, and struggled with pulling data back from the esp32.  i simply asked chatgpt how to do it. 
+
 The **Ignitron Preset Tools.exe** can be placed in the root directory of your `ignitron` folder:
 
 ```
