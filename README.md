@@ -295,6 +295,9 @@ and saves selected presets to your computer. click a preset in the app, it saves
 **important- before you select option 3 and hit enter for app scraper, your pedal needs to be already connected and in AMP mode.**
 **once again, this tool you have to be holding preset 1 as you hit enter so it will save presets properly.                      **  
 
+start with the pedal booted in AMP mode and connect the usb cable.  press 3 in the main menu, press and hold switch 1, and then hit enter. it will connect over usb, restart and boot to AMP mode. you will notice the screen reset, release switch 1 after it reboots.
+
+
 
 
 
