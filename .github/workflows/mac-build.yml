@@ -28,4 +28,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: IgnitronPresetTools-macOS
-        path: dist/IgnitronPresetTools
+        path: dist/ignitron_preset_tools
