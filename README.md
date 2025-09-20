@@ -244,8 +244,13 @@ preset puller starts and asks pull mode:
 
    2. All presets on the pedal
 
+
 <img width="586" height="562" alt="Screenshot 2025-09-19 204658" src="https://github.com/user-attachments/assets/3024e33a-39b6-46ba-bebe-8c331e9ccfb9" />
 
+ it then asks for your connection port, enter the corresponding number for that port
+
+ 
+<img width="536" height="242" alt="Screenshot 2025-09-19 205046" src="https://github.com/user-attachments/assets/08c7e2d9-21be-4c0a-ab62-a1407f40fcde" />
 
 
 
