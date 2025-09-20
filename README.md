@@ -197,7 +197,6 @@ Enjoy!
 
 ---
 
-## Operation
 
 ### Main Menu
 When you run `ignitron_preset_tools.exe`, you’ll see 4 options:
