@@ -234,8 +234,17 @@ Recompile and upload to the pedal and all your banks are where you put them.
 ### 2. Preset Scraper
 **Description**
 
+use this tool to retrieve, convert, and save presets from your ignitron pedal to your computer.  It pulls your presets saved to preset banks on the pedal, or pull all presets in the entire system.
 
+**OPERATION**
 
+preset puller starts and asks pull mode:
+
+   1. Only presets in pedal's presetlist.txt
+
+   2. All presets on the pedal
+
+<img width="586" height="562" alt="Screenshot 2025-09-19 204658" src="https://github.com/user-attachments/assets/3024e33a-39b6-46ba-bebe-8c331e9ccfb9" />
 
 
 
