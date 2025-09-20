@@ -294,15 +294,24 @@ and saves selected presets to your computer. click a preset in the app, it saves
 
 !this has only been tested with SRL not BLE!
 
-**important- before you select option 3 and hit enter for app scraper, your pedal needs to be already connected and in AMP mode.**
-**once again, this tool you have to be holding preset 1 as you hit enter so it will save presets properly.                      **  
+important- before you select option 3 and hit enter for app scraper, your pedal needs to be already connected and in AMP mode.
+once again, this tool you have to be holding preset 1 as you hit enter so it will save presets properly.                        
 
-start with the pedal booted in AMP mode and connect the usb cable.  press 3 in the main menu, press and hold switch 1, and then hit enter. it will connect over usb, restart and boot to AMP mode. you will notice the screen reset, release switch 1 after it reboots. it is now streaming the usb connection, waiting to convert and save preset messages
+start with the pedal booted in AMP mode and connect the usb cable.  
+Press and hold switch 1, enter 3 in the main menu and then hit enter. it will connect over usb, restart and boot to AMP mode. you will see the screen reset, 
+release switch 1 after it reboots. it is now streaming the usb connection, waiting to convert and save preset messages
+
+
+<img width="1112" height="630" alt="Screenshot 2025-09-19 222040" src="https://github.com/user-attachments/assets/29be511e-2ec0-4d07-9bcc-ca0235bc36ca" />
+
 
 now open the spark app on your device, and connect to ignitron pedal.
 
-once connected, when you select any preset in the app, it reads the request, converts it and saves it as a proper .json file on your computer.
+once connected, when you select any preset in the app, it reads the request, converts it and saves it as a proper .json file on your computer.  it will
+save it to a timestamped preset folder inside /ignitron preset tools with all the saved presets of that session.
 
+
+<img width="1119" height="319" alt="Screenshot 2025-09-19 222249" src="https://github.com/user-attachments/assets/68a605e7-7b73-46e1-94e2-ff6ed4336e62" />
 
 
 
