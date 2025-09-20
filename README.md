@@ -312,6 +312,9 @@ save it to a timestamped preset folder inside /ignitron preset tools with all th
 
 
 <img width="1119" height="319" alt="Screenshot 2025-09-19 222249" src="https://github.com/user-attachments/assets/68a605e7-7b73-46e1-94e2-ff6ed4336e62" />
+<img width="783" height="447" alt="Screenshot 2025-09-19 223034" src="https://github.com/user-attachments/assets/49df7074-5310-4780-bfda-4b8e1eb18db4" />
+<img width="407" height="858" alt="Screenshot 2025-09-19 223217" src="https://github.com/user-attachments/assets/7ace1cac-c9b9-44fc-9554-700d7a142a5c" />
+
 
 
 
