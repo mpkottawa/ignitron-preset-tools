@@ -258,7 +258,13 @@ preset puller starts and asks pull mode:
  it will display the results after.  
 
 
+<img width="682" height="291" alt="Screenshot 2025-09-19 210222" src="https://github.com/user-attachments/assets/655a60e7-1a0f-451e-8e2d-8049cbae2f0b" />
 
+
+it will then open the save folder which should be time stamped.
+
+
+<img width="959" height="860" alt="Screenshot 2025-09-19 210209" src="https://github.com/user-attachments/assets/68e1246a-3708-424e-830d-f377f69218ba" />
 
 
 
