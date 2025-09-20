@@ -1,0 +1,31 @@
+name: macOS Build
+
+on:
+  push:
+    branches: [ mac_support ]
+  pull_request:
+    branches: [ mac_support ]
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt pyinstaller
+
+    - name: Build with PyInstaller
+      run: pyinstaller --onefile ignitron_preset_tools.py
+
+    - name: Upload build artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: IgnitronPresetTools-macOS
+        path: dist/IgnitronPresetTools
