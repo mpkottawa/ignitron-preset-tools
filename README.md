@@ -2,6 +2,8 @@
 
 # Ignitron Preset Tools
 
+*Shoutout to stangreg for this great project https://github.com/stangreg/Ignitron *
+
 this program was coded 100% with chatgpt. I wanted a way to backup presets with ignitron, and struggled with pulling data back from the esp32 and converting it.  i simply asked chatgpt if it could
 convert extracted raw preset data into usable .json files .  Then I just kept asking for more.
 
