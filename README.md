@@ -268,7 +268,15 @@ it will then open the save folder which should be time stamped.
 
 
 
+all these can be moved to your data folder and used with preset picker to save them to the pedal.(although they were pulled from the pedal.
 
+
+---
+
+## 3. App Scraper
+**Description:**  
+this tool is my favourite.  you connect to the pedal over usb, connect the app to the pedal over bluetooth, it monitors for preset chitchat, converts 
+and saves selected presets to your computer. click a preset in the app, it saves directly to your computer.
 
 
 
