@@ -237,6 +237,8 @@ and the PresetListUUIDs.txt file like:
 
 which are formatted correctly, and directly ready to upload to your pedal upon save
 
+
+
 ---
 
 ### 2. Preset Scraper
@@ -277,6 +279,8 @@ it will then open the save folder which should be time stamped.
 
 
 all these can be moved to your data folder and used with preset picker to save them to the pedal.(although they were pulled from the pedal.
+
+
 
 
 ---
