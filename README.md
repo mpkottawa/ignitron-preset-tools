@@ -209,11 +209,11 @@ When you run `ignitron_preset_tools.exe`, you’ll see 4 options:
 ```
 
 ### 1. Preset Picker
-**Description:**  
+**DESCRIPTION:**  
 Load your `/data` folder of presets, organize them in the GUI, and export the 2 files needed to build your preset banks.
 <img width="1914" height="1025" alt="Screenshot 2025-09-19 185020" src="https://github.com/user-attachments/assets/c4d7df5b-296b-4690-9aad-0d835d0a1afb" />
 
-**OPERATION**
+**OPERATION:**
 it starts with asking for how many banks, select 1-30.
 
 <img width="218" height="142" alt="Screenshot 2025-09-19 184915" src="https://github.com/user-attachments/assets/3f0d051a-cc6f-4793-a56b-81f4f25aa419" />
@@ -241,12 +241,12 @@ which are formatted correctly, and directly ready to upload to your pedal upon s
 
 ---
 
-### 2. Preset Scraper
-**Description**
+### 2. Preset Puller
+**DESCRIPTION:**
 
 use this tool to retrieve, convert, and save presets from your ignitron pedal to your computer.  It pulls your presets saved to preset banks on the pedal, or pull all presets in the entire system.
 
-**OPERATION**
+**OPERATION:**
 
 preset puller starts and asks pull mode:
 
@@ -290,6 +290,10 @@ all these can be moved to your data folder and used with preset picker to save t
 this tool is my favourite.  you connect to the pedal over usb, connect the app to the pedal over bluetooth, it monitors for preset chitchat, converts 
 and saves selected presets to your computer. click a preset in the app, it saves directly to your computer.
 
+**OPERATION:**
+
+**important- before you select option 3 and hit enter for app scraper, your pedal needs to be already connected and in AMP mode.**
+**once again, this tool you have to be holding preset 1 as you hit enter so it will save presets properly.                      **  
 
 
 
