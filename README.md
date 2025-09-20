@@ -299,7 +299,9 @@ and saves selected presets to your computer. click a preset in the app, it saves
 
 start with the pedal booted in AMP mode and connect the usb cable.  press 3 in the main menu, press and hold switch 1, and then hit enter. it will connect over usb, restart and boot to AMP mode. you will notice the screen reset, release switch 1 after it reboots. it is now streaming the usb connection, waiting to convert and save preset messages
 
-now open the app, and connect to ignitron
+now open the spark app on your device, and connect to ignitron pedal.
+
+once connected, when you select any preset in the app, it reads the request, converts it and saves it as a proper .json file on your computer.
 
 
 
