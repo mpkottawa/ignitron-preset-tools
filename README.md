@@ -308,7 +308,8 @@ release switch 1 after it reboots. it is now streaming the usb connection, waiti
 now open the spark app on your device, and connect to ignitron pedal.
 
 once connected, when you select any preset in the app, it reads the request, converts it and saves it as a proper .json file on your computer.  it will
-save it to a timestamped preset folder inside /ignitron preset tools with all the saved presets of that session.
+save it to a timestamped preset folder inside /ignitron preset tools with all the saved presets of that session. in this instance i clicked on the preset 
+bush machinehead in my saved presets in the app, heres what it reads and outputs: 
 
 
 <img width="1119" height="319" alt="Screenshot 2025-09-19 222249" src="https://github.com/user-attachments/assets/68a605e7-7b73-46e1-94e2-ff6ed4336e62" />
