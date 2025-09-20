@@ -1,6 +1,7 @@
 <img width="1024" height="1024" alt="IPT" src="https://github.com/user-attachments/assets/232fbc66-9883-433b-a46b-68cead18deec" />
 
 # Ignitron Preset Tools
+for mac support see https://github.com/mpkottawa/ignitron-preset-tools/blob/main/README_mac.md
 
 *Shoutout to stangreg for this great project https://github.com/stangreg/Ignitron *
 
