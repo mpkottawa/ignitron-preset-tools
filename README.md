@@ -182,9 +182,14 @@ void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
 After edits, **compile and flash to pedal**.  
 Enjoy!
 
----
+---‐---------------------------------------------------------------
+============================================
 
 # Ignitron Preset Tools Operation
+
+••••••••••••••••••••••••••••••••••••••••••••
+##**this tool will only pull presets in amp mode. you'll have to hold preset 1 on any boot.  I have installed and programmed an amp mode toggle switch, enabling it to boot to amp mode automatically by leaving the switch on.  see installation section for setup.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ## Overview
 - Ensure your pedal connects to your device running the Spark app (BLE or SRL). I have only tested this over SRL. 
