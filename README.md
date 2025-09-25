@@ -220,12 +220,15 @@ After edits, **compile and flash to pedal**.
 Enjoy!
 
 ---‐---------------------------------------------------------------
-============================================
+==========================================
+---
+---
 
 # Ignitron Preset Tools Operation
 
 ••••••••••••••••••••••••••••••••••••••••••••
-##**this tool will only pull presets in amp mode. you'll have to hold preset 1 on any boot.  I have installed and programmed an amp mode toggle switch, enabling it to boot to amp mode automatically by leaving the switch on.  see installation section for setup.
+##**this tool will only pull presets in amp mode. you'll have to hold preset 1 on any boot.  I have installed and programmed an amp mode toggle switch, enabling it to boot 
+to amp mode automatically by leaving the switch on.  see installation section for setup.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ## Overview
@@ -286,7 +289,8 @@ which are formatted correctly, and directly ready to upload to your pedal upon s
 ### 2. Preset Puller
 **DESCRIPTION:**
 
-use this tool to retrieve, convert, and save presets from your ignitron pedal to your computer.  It pulls your presets saved to preset banks on the pedal, or pull all presets in the entire system.
+use this tool to retrieve, convert, and save presets from your ignitron pedal to your computer.  It pulls your presets saved to preset banks on the pedal, or pull all presets 
+in the entire system.
 
 **OPERATION:**
 
