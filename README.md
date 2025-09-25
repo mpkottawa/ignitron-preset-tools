@@ -176,7 +176,7 @@ void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
 }
 ```
 
-## D. AMP Mode Toggle Switch
+## C. AMP Mode Toggle Switch
 
 add a toggle switch for amp mode (spst 2 way rocker switch)
 ============================================================
