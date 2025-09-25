@@ -176,6 +176,40 @@ void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
 }
 ```
 
+## D. AMP Mode Toggle Switch
+
+add a toggle switch for amp mode (spst 2 way rocker switch)
+============================================================
+to enable allowing a rocker switch to activate AMP mode any time it boots up, modify ignitron firmware by modifying one file,
+ignitron.ino in the root folder (/ignitron/ignitron.ino).  
+
+add this after the first string of includes in ignitron.ino:
+------------------------------------------------------------
+
+
+#ifndef AMP_MODE_SWITCH_PIN
+#define AMP_MODE_SWITCH_PIN 34    // <- change to the GPIO you wired; SPST to GND
+#endif
+
+----------------------------------------------------------------
+
+in ignitron.ino, add the following string(around line 59), the next line after:        operationMode = spark_bh.checkBootOperationMode(); 
+
+
+// --- Amp Mode toggle on GPIO35 ---
+pinMode(AMP_MODE_SWITCH_PIN, INPUT);  // external pull-up to 3.3V
+int _ampToggleState = digitalRead(AMP_MODE_SWITCH_PIN);  // HIGH=open, LOW=closed
+if (_ampToggleState == LOW) {
+    operationMode = SPARK_MODE_AMP;   // force Amp Mode
+    Serial.println("Amp toggle ON → forcing AMP mode");
+} else {
+    Serial.println("Amp toggle OFF → normal boot");
+}
+
+
+---------------------------------------------------------------
+
+
 ---
 
 ## Building
