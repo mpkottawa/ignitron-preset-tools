@@ -23,7 +23,7 @@ You can either manually edit these files as described below, or replace them ent
 
 ---
 
-## A. Preset Pulling Setup  
+## A. Preset Pulling Configuration  
 (edit `/ignitron/ignitron.ino`)
 
 ### 1. Add this include at the top with the other libraries:
@@ -147,7 +147,7 @@ static void handleSerialCommands() {
 
 ---
 
-## B. Spark App Streaming Setup  
+## B. Spark App Streaming Configuration  
 (edit `/ignitron/src/SparkPresetControl.cpp`)
 
 Add the following lines **after** `DEBUG_PRINTLN(appReceivedPreset_.json.c_str());` inside  
@@ -179,15 +179,15 @@ void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
 
 ---
 
-## C. AMP Mode Toggle Switch
+## C. AMP Mode Toggle Switch Configuration
 
 add a toggle switch for amp mode (spst 2 way rocker switch)
-============================================================
+---
 to enable allowing a rocker switch to activate AMP mode any time it boots up, modify ignitron firmware by modifying one file,
 ignitron.ino in the root folder (/ignitron/ignitron.ino).  
 
 add this after the first string of includes in ignitron.ino:
-------------------------------------------------------------
+---
 
 ```
 #ifndef AMP_MODE_SWITCH_PIN
@@ -226,10 +226,10 @@ Enjoy!
 
 # Ignitron Preset Tools Operation
 
-••••••••••••••••••••••••••••••••••••••••••••
-##**this tool will only pull presets in amp mode. you'll have to hold preset 1 on any boot.  I have installed and programmed an amp mode toggle switch, enabling it to boot 
+
+**this tool will only pull presets in amp mode. you'll have to hold preset 1 on any boot.  I have installed and programmed an amp mode toggle switch, enabling it to boot 
 to amp mode automatically by leaving the switch on.  see installation section for setup.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 ## Overview
 - Ensure your pedal connects to your device running the Spark app (BLE or SRL). I have only tested this over SRL. 
