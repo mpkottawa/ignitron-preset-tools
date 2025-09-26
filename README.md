@@ -186,9 +186,8 @@ add a toggle switch for amp mode (spst 2 way rocker switch)
 to enable allowing a rocker switch to activate AMP mode any time it boots up, modify ignitron firmware by modifying one file in 2 spots,
 ignitron.ino in the root folder (/ignitron/ignitron.ino).  
 
-add this after the first string of includes in ignitron.ino:
-
 1.
+add this after the first string of includes in ignitron.ino:
 ---
 
 ```
@@ -199,7 +198,6 @@ add this after the first string of includes in ignitron.ino:
 ----------------------------------------------------------------
 
 2.
----
 in ignitron.ino, add the following string(around line 59), the next line after:        operationMode = spark_bh.checkBootOperationMode(); 
 
 ```
