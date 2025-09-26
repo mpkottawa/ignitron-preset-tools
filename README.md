@@ -7,13 +7,12 @@
 this program was coded 100% with chatgpt. I wanted a way to backup presets with ignitron, and struggled with pulling data back from the esp32 and converting it.  i simply asked chatgpt if it could
 convert extracted raw preset data into usable .json files .  Then I just kept asking for more.
 
-it includes the 3 standalone .exe's(preset_picker.exe, preset_puller.exe, and app_scraper.exe) which are all integrated within Ignitron Preset Tools.exe.  
-To use, run  Ignitron Preset Tools.exe.  it is located in the Ignitron Preset Tools folder, which can be placed in the root directory of your `ignitron` project folder:
-
-```
-/ignitron/Ignitron Preset Tools/ignitron_preset_tools.exe
-```
-
+INSTALLATION
+---
+Extract IGNITRON PRESET TOOLS to the root folder of your Ignitron project (/ignitron/ignitron preset tools/)  run Ignitron Preset Tools.exe.  It also includes 3 standalone .exe's(preset_picker.exe, preset_puller.exe, and app_scraper.exe) which are all integrated within Ignitron Preset tools.exe
+---
+FIRMWARE SETUP
+---
 To enable the Ignitron pedal to pull current pedal presets(by responding to the calls: LISTPRESETS and LISTBANKS), as well as stream presets from the app, two firmware files must be modified:
 
 - `ignitron.ino` (main Ignitron folder) → **3 edits**  
