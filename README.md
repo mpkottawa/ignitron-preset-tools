@@ -179,12 +179,12 @@ void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
 
 ---
 
-## C. AMP Mode Toggle Switch Configuration
+## C. optional- AMP Mode Toggle Switch Configuration
 
-add a toggle switch for amp mode (spst 2 way rocker switch)
+I found it a pain to always hold switch 1 to enter AMP mode.  use this mod to automatically handle it.  Add a toggle switch for AMP mode (spst 2 way rocker switch) one side to gpio pin 35 of the esp32, the other side to ground.
 ---
-to enable allowing a rocker switch to activate AMP mode any time it boots up, modify ignitron firmware by modifying one file in 2 spots,
-ignitron.ino in the root folder (/ignitron/ignitron.ino).  
+
+  to enable allowing a rocker switch to activate AMP mode any time it boots up, modify ignitron firmware by modifying one file in 2 spots, ignitron.ino in the root folder (/ignitron/ignitron.ino).  
 
 1.
 add this after the first string of includes in ignitron.ino:
