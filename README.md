@@ -198,11 +198,13 @@ add this after the first string of includes in ignitron.ino:
 ----------------------------------------------------------------
 
 2.
-in ignitron.ino, add the following string(around line 59), the next line after: 
+in /ignitron/ignitron.ino, at around line 59, the next line after: 
        
 ```
 operationMode = spark_bh.checkBootOperationMode(); 
 ```
+
+add the following:
 
 ```
 // --- Amp Mode toggle on GPIO35 ---
@@ -221,8 +223,9 @@ if (_ampToggleState == LOW) {
 
 ---
 
-## Building
-After edits, **compile and flash to pedal**.  
+## Building firmware:
+
+After editing, clean, build, flash to esp32, build filesysyem, upload filesystem, and reset.  
 Enjoy!
 
 ---‐---------------------------------------------------------------
