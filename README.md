@@ -200,9 +200,9 @@ add this after the first string of includes in ignitron.ino:
 2.
 in ignitron.ino, add the following string(around line 59), the next line after: 
        
-'''
+```
 operationMode = spark_bh.checkBootOperationMode(); 
-'''
+```
 
 ```
 // --- Amp Mode toggle on GPIO35 ---
