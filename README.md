@@ -4,7 +4,7 @@
 
 *Shoutout to stangreg for this great project https://github.com/stangreg/Ignitron *
 
-This tool will allow you to do 3 things:
+This application will allow you to do 3 things:
 
 1. A tool to back up loaded presets on the pedal over usb, converted to the format ignitron uses for presets, .json file.  
 
