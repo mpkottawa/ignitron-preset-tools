@@ -31,7 +31,7 @@ You can either manually edit these files as described below, or replace them ent
 
 ---
 
-## A. Preset Pulling Configuration  
+## A. Preset Pulling Configuration(3 edits)  
 (edit the file: `/ignitron/ignitron.ino`)
 
 ### 1. Add this include at the top with the other libraries:
@@ -155,7 +155,7 @@ static void handleSerialCommands() {
 
 ---
 
-## B. Spark App Streaming Configuration  
+## B. Spark App Streaming Configuration(1 edit)  
 (edit `/ignitron/src/SparkPresetControl.cpp`)
 
 Add the following lines **after** `DEBUG_PRINTLN(appReceivedPreset_.json.c_str());` inside  
@@ -187,7 +187,7 @@ void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
 
 ---
 
-## C. optional- AMP Mode Toggle Switch Configuration
+## C. optional- AMP Mode Toggle Switch Configuration(2 edits)
 
 I found it a pain to always hold switch 1 to enter AMP mode.  use this mod to automatically handle it.  Add a toggle switch for AMP mode (spst 2 way rocker switch) one side to gpio pin 35 of the esp32, the other side to ground.
 ---
