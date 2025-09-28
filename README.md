@@ -10,7 +10,7 @@ This application will allow you to do 3 things:
 
 2. A tool to pull and save presets from the spark app with just a click,formatted to use with ignitron. The pedal is connected over usb to your computer, and at the same time connected to the app over bluetooth.
 
-3. A tool selects and sorts presets, then replaces your 2 preset files the ignitron uses to build its preset tree.
+3. A tool selects and sorts presets, then updates your 2 preset files(presetlist.txt and uuidindex.txt) the ignitron uses to build its preset tree in the /data folder. it also creates a preset banks list in pdf form beside the other 2 files
 ---
 
 this program was coded 100% with chatgpt. I wanted a way to backup presets with ignitron, and struggled with pulling data back from the esp32 and converting it.  i simply asked chatgpt if it could
@@ -297,7 +297,7 @@ it makes a presetlist.txt file like:
 and the PresetListUUIDs.txt file like:
 <img width="690" height="684" alt="Screenshot 2025-09-19 211746" src="https://github.com/user-attachments/assets/d68d71a6-bfbc-4f44-9d12-d7c4d5dd2ffa" />
 
-which are formatted correctly, and directly ready to upload to your pedal upon save
+which are formatted correctly, and directly ready to upload to your pedal upon save.  this tool also exports a puff of your current preset layout for easy reference:
 
 
 
