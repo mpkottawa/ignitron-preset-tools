@@ -47,5 +47,3 @@ chmod +x ignitron_preset_tools
   ```
 
 ---
-
-✅ With this file in place, Mac users will know exactly how to use your project.
