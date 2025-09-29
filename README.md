@@ -34,7 +34,7 @@ You can either manually edit these files as described below, or replace them ent
 ## A. Preset Pulling Configuration(3 edits)  
 (edit the file: `/ignitron/ignitron.ino`)
 
-### 1. Add this include at the top with the other libraries:
+### 1. Add this include at the top with the other libraries (around line 8):
 ```cpp
 #include <LittleFS.h>
 ```
