@@ -158,8 +158,7 @@ static void handleSerialCommands() {
 ## B. Spark App Streaming Configuration(1 edit)  
 (edit `/ignitron/src/SparkPresetControl.cpp`)
 
-Add the following lines **after** `DEBUG_PRINTLN(appReceivedPreset_.json.c_str());` inside  
-`SparkPresetControl::updateFromSparkResponseAmpPreset`:
+Add the following lines **after** `DEBUG_PRINTLN(appReceivedPreset_.json.c_str());` (should be around line 400):
 
 ```cpp
 // 🔧 Added for App Scraper
