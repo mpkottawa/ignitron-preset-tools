@@ -48,7 +48,7 @@ handleSerialCommands();   // so it will react to LISTPRESETS
 
 ---
 
-### 3. Add the following block at the **end of the file**:
+### 3. Add the following block at the **end of the file** (should be around line 142):
 ```cpp
 // === BEGIN: LISTPRESETS serial support =======================================
 
