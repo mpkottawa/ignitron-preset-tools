@@ -216,15 +216,17 @@ operationMode = spark_bh.checkBootOperationMode();
 add the following:
 
 ```
-// --- Amp Mode toggle on GPIO35 ---
-pinMode(AMP_MODE_SWITCH_PIN, INPUT);  // external pull-up to 3.3V
-int _ampToggleState = digitalRead(AMP_MODE_SWITCH_PIN);  // HIGH=open, LOW=closed
-if (_ampToggleState == LOW) {
-    operationMode = SPARK_MODE_AMP;   // force Amp Mode
-    Serial.println("Amp toggle ON → forcing AMP mode");
-} else {
-    Serial.println("Amp toggle OFF → normal boot");
-}
+    // --- Amp Mode toggle on GPIO35 ---  
+     pinMode(AMP_MODE_SWITCH_PIN, INPUT);  // external 10k pull-up to 3.3V, switch to GND
+
+     int _ampToggleState = digitalRead(AMP_MODE_SWITCH_PIN);  // HIGH=open, LOW=closed
+
+     if (_ampToggleState == LOW) {
+         operationMode = SPARK_MODE_AMP;   // force Amp Mode
+         Serial.println("Amp toggle ON → forcing AMP mode");
+     } else {
+         Serial.println("Amp toggle OFF → normal boot");
+     }
 ```
 
 ---------------------------------------------------------------
