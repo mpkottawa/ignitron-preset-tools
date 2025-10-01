@@ -1,6 +1,6 @@
 <img width="1024" height="1024" alt="IPT" src="https://github.com/mpkottawa/ignitron-preset-tools/blob/main/Ignitron%20preset%20tools%20logo.png" />
 
-# Ignitron Preset Tools
+# Ignitron Preset Tools release v 1.0.0 #
 
 *Shoutout to stangreg for this great project https://github.com/stangreg/Ignitron *
 
