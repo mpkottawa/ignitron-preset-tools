@@ -2,15 +2,15 @@
 
 # Ignitron Preset Tools release v 1.0.0 #
 
-*Shoutout to stangreg for this great project https://github.com/stangreg/Ignitron *
+*Shoutout to stangreg for this great project `https://github.com/stangreg/Ignitron` *
 
 This application will allow you to do 3 things:
 
-1. A tool to back up loaded presets on the pedal over usb, converted to the format ignitron uses for presets, .json file.  
+1. PRESET PULLER -  A tool to back up loaded presets on the pedal over usb, converted to the format ignitron uses for presets, .json file.  
 
-2. A tool to pull and save presets from the spark app with just a click,formatted to use with ignitron. The pedal is connected over usb to your computer, and at the same time connected to the app over bluetooth.
+2. PRESET APP SCRAPER - A tool to pull and save presets from the spark app with just a click ,formatted to use with ignitron. The pedal is               connected over usb to your computer, and at the same time connected to the app over Bluetooth.
 
-3. A tool selects and sorts presets, then updates your 2 preset files(presetlist.txt and uuidindex.txt) the ignitron uses to build its preset tree in the /data folder. it also creates a preset banks list in pdf form beside the other 2 files
+3.  PRESET PICKER - A tool selects and sorts presets, then updates your 2 preset files(presetlist.txt and uuidindex.txt) the ignitron uses to build its preset tree in the /data folder. it also creates a preset banks list in pdf form beside the other 2 files
 ---
 
 this program was coded 100% with chatgpt. I wanted a way to backup presets with ignitron, and struggled with pulling data back from the esp32 and converting it.  i simply asked chatgpt if it could
