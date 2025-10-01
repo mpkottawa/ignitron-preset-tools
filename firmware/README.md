@@ -1,6 +1,6 @@
 <img width="1024" height="1024" alt="IPT" src="https://github.com/mpkottawa/ignitron-preset-tools/blob/main/Ignitron%20preset%20tools%20logo.png" />
 
-# Ignitron Preset Tools
+# Ignitron Preset Tools release v 1.0.0 #
 
 *Shoutout to stangreg for this great project https://github.com/stangreg/Ignitron *
 
@@ -190,7 +190,7 @@ void SparkPresetControl::updateFromSparkResponseAmpPreset(char *presetJson) {
 
 I found it a pain to always hold switch 1 to enter AMP mode.  use this mod to automatically handle it.  To add a toggle switch for AMP mode (spst 2 way rocker switch),\:
 
-connect one side of the switch to gpio pin 35 of the esp32. On that same pin, put a 10k ohm resistor in series with a wire to 3.3volts on the board.  the other side of the switch top ground.
+connect one side of the switch to gpio pin 35 of the esp32. On that same pin, put a 10k ohm resistor in series with a wire to 3.3volts on the board.  the other side of the switch, run to ground.
 ---
 
   to enable allowing a rocker switch to activate AMP mode any time it boots up, modify ignitron firmware by modifying one file in 2 spots, ignitron.ino in the root folder (/ignitron/ignitron.ino).  
@@ -216,15 +216,17 @@ operationMode = spark_bh.checkBootOperationMode();
 add the following:
 
 ```
-// --- Amp Mode toggle on GPIO35 ---
-pinMode(AMP_MODE_SWITCH_PIN, INPUT);  // external pull-up to 3.3V
-int _ampToggleState = digitalRead(AMP_MODE_SWITCH_PIN);  // HIGH=open, LOW=closed
-if (_ampToggleState == LOW) {
-    operationMode = SPARK_MODE_AMP;   // force Amp Mode
-    Serial.println("Amp toggle ON → forcing AMP mode");
-} else {
-    Serial.println("Amp toggle OFF → normal boot");
-}
+    // --- Amp Mode toggle on GPIO35 ---  
+     pinMode(AMP_MODE_SWITCH_PIN, INPUT);  // external 10k pull-up to 3.3V, switch to GND
+
+     int _ampToggleState = digitalRead(AMP_MODE_SWITCH_PIN);  // HIGH=open, LOW=closed
+
+     if (_ampToggleState == LOW) {
+         operationMode = SPARK_MODE_AMP;   // force Amp Mode
+         Serial.println("Amp toggle ON → forcing AMP mode");
+     } else {
+         Serial.println("Amp toggle OFF → normal boot");
+     }
 ```
 
 ---------------------------------------------------------------
