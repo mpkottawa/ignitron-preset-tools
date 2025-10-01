@@ -1,0 +1,35 @@
+name: Build macOS App
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+jobs:
+  build-macos:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pyinstaller
+
+      - name: Build Mac app
+        run: |
+          pyinstaller --noconfirm --onefile --name "IgnitronPresetTools" ignitron_preset_tools.py
+          cd dist
+          zip -r IgnitronPresetTools-macOS.zip IgnitronPresetTools
+
+      - name: Upload macOS artifact
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/IgnitronPresetTools-macOS.zip
