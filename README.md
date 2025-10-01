@@ -235,8 +235,9 @@ it makes a presetlist.txt file like:
 and the PresetListUUIDs.txt file like:
 <img width="690" height="684" alt="Screenshot 2025-09-19 211746" src="https://github.com/user-attachments/assets/d68d71a6-bfbc-4f44-9d12-d7c4d5dd2ffa" />
 
-which are formatted correctly, and directly ready to upload to your pedal upon save
+which are formatted correctly, and directly ready to upload to your pedal upon save.  this will automatically generate a preset list grid in pdf form:
 
+<img width="924" height="806" alt="Screenshot 2025-10-01 023755" src="https://github.com/user-attachments/assets/9145e9dc-c03a-44ba-a0f9-ead371258f86" />
 
 
 ---
