@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5A03D01B9B55860011FB80BF",
+    "Name": "Limpio-p",
+    "Version": "0.7",
+    "Description": "HuascarL ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.8813,
+                0.7655,
+                0.5381,
+                0.6739,
+                0.9175
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.4144,
+                0.3625,
+                0.3968
+            ]
+        },
+        {
+            "Name": "JC120Jeff",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.6594,
+                0.1501,
+                0.0938,
+                0.7969
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.203,
+                0.1552,
+                0.5505,
+                0.4482
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1108,
+                0.3385,
+                0.3422,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3245,
+                0.6,
+                0.3,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

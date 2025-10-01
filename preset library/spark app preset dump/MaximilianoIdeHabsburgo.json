@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56AE49FD00CE840E00759BF0",
+    "Name": "Maximiliano I de Habsburgo ",
+    "Version": "0.7",
+    "Description": "Metal Rythm tone.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.2785,
+                0.3068,
+                0.35
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5261,
+                0.713,
+                0.6285,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6271,
+                0.6519,
+                0.8128,
+                0.368,
+                0.6243,
+                0.6877,
+                0.8157
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.796,
+                0.5083,
+                0.4161,
+                0.7786,
+                0.5782,
+                0.7228,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.7182,
+                0.8425
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6182,
+                0.3773,
+                0.5455,
+                0.6818,
+                0.5864
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,70 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53A435BB91B9B40016000000",
+    "Name": "FSM  \\m/ Acoustic1",
+    "Version": "0.7",
+    "Description": "Acoustic guitar preset (no amp) from the song \"Fate Of Souls\" ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8226,
+                0.4386
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6059,
+                0.4231,
+                0.5402,
+                0.4978,
+                0.6671
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.3668,
+                0.2381,
+                0.2238,
+                1,
+                0.6
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.4319,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3397,
+                0.5976,
+                0.327,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "537F328A64C1EC0016000000",
+    "Name": "Rob!s Dumble Bluz",
+    "Version": "0.7",
+    "Description": "Set for single coil pickups",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.5859,
+                0.5801
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.8034,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.552,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "BiasAmp",
+            "IsOn": true,
+            "Parameters": [
+                0.7942,
+                0.4221,
+                0.615,
+                0.5746,
+                0.5668,
+                0.9526
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.4888,
+                0.3787,
+                0.3259,
+                0.2525,
+                0.6004
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3658,
+                0.1735,
+                0.4961,
+                0.0522,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.1845,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

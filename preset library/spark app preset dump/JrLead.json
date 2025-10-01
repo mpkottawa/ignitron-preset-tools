@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "529E269B4BDBF6000B000000",
+    "Name": "Jr Lead",
+    "Version": "0.7",
+    "Description": "D",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8375,
+                0.8421
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.152,
+                1,
+                0.4
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6969,
+                0.6,
+                0.6035,
+                0.7,
+                0.7,
+                0.64,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                1,
+                0,
+                0,
+                0.4679
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

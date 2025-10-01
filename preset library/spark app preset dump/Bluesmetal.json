@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A984E4150000E000DA261",
+    "Name": "Bluesmetal",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                1,
+                0.6,
+                0.2,
+                0.7,
+                0.9791,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5365,
+                0.5262,
+                0.5281,
+                0.4558,
+                0.7071,
+                0.5
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3341,
+                0.4581,
+                0.5876
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.3435,
+                0.3741,
+                0.8663
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.0124,
+                0.5376,
+                0.2891,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.1965,
+                0.4195,
+                0.3,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

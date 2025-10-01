@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "59F3649B6FECE500A39FC776",
+    "Name": "I Cum Distortion ",
+    "Version": "0.7",
+    "Description": "Cannibal Corpse riffs",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5038,
+                0.2277,
+                0.5
+            ]
+        },
+        {
+            "Name": "Whammy",
+            "IsOn": false,
+            "Parameters": [
+                0.9,
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6447,
+                0.3653,
+                0.85
+            ]
+        },
+        {
+            "Name": "JCM900",
+            "IsOn": true,
+            "Parameters": [
+                0.8528,
+                0.4938,
+                0.3579,
+                0.6628,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5174,
+                0.3854,
+                0.6484,
+                0.4629,
+                0.548
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.064,
+                0.2152,
+                0.6918,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "518C2564AA3307001A000002",
+    "Name": "KoRn early 00's",
+    "Version": "0.7",
+    "Description": "Late 90s era and early 00 era",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.6926,
+                0.5005,
+                0.7958,
+                0.495,
+                0.515,
+                0.813,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6637,
+                0.7188,
+                0.6182,
+                0.2321,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.3091,
+                0.5963,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.4494,
+                0.3343,
+                0.1343,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.4
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.3465,
+                0.9498,
+                0.7394,
+                0.32,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

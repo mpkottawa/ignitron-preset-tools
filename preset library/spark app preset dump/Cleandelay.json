@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "588CD5279D1CD20010FE6EE3",
+    "Name": "Clean delay",
+    "Version": "0.7",
+    "Description": "T",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6056,
+                0.0587,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.7572,
+                0.6,
+                0.6,
+                0.63,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.8655,
+                0.6384,
+                0.4107,
+                0.7723,
+                0.2975
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.179,
+                0.8685,
+                0.2694,
+                0.7
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0,
+                0.6
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.75,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

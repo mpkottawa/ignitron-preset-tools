@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5283E6C46281B5000C000000",
+    "Name": "j shred",
+    "Version": "0.7",
+    "Description": "a bit shreddie",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                0.2027
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                1,
+                0.4
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.6938,
+                0.6,
+                0.2,
+                0.7,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5783,
+                0.4286,
+                0.5762,
+                0.5429,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.05,
+                0.6057,
+                0.3111,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3975,
+                0.2083,
+                0.6,
+                0.4194,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

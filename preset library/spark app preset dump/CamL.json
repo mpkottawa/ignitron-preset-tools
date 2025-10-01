@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5479D4A86A03FB001E000000",
+    "Name": "Cam-L",
+    "Version": "0.7",
+    "Description": "Pure Filth",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.2221,
+                0.009,
+                1,
+                0.7,
+                0.7908,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8929,
+                0.3719
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.3189,
+                0.2344,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.2896,
+                0.2811,
+                0.5618
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4615,
+                0.6703,
+                0.2559,
+                0.6545,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2276,
+                0.2656,
+                0.187,
+                0.3
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                0.1966
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

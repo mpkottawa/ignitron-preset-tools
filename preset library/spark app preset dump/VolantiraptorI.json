@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56BD047C25E3880E00100122",
+    "Name": "Volantiraptor I",
+    "Version": "0.7",
+    "Description": "attention: the volantiraptor is a beast armed with sharp teeth and claws that will rip your flesh off your bones! a growling and biting hi-gain amp with a grainy skin.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4055,
+                0
+            ]
+        },
+        {
+            "Name": "SABdriver",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8225,
+                0.7113,
+                0
+            ]
+        },
+        {
+            "Name": "Bogner",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                1,
+                0.3836,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.7893,
+                0.9412,
+                0.8978,
+                0.6794,
+                0.2134
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.1469,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.6348,
+                0.627,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

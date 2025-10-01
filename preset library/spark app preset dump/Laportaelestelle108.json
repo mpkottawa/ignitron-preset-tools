@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5CD88C25900FB000142F1364",
+    "Name": "La porta e le stelle 108",
+    "Version": "0.7",
+    "Description": "SuperMe ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Fuzz",
+            "IsOn": false,
+            "Parameters": [
+                0.2645,
+                0.6749
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.3522,
+                0.4827,
+                0.5913,
+                0.1029,
+                0.4945,
+                0
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1096,
+                0.1469,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.3523,
+                0.8078,
+                0.8778,
+                1,
+                0.6
+            ]
+        },
+        {
+            "Name": "AcousticEQ",
+            "IsOn": false,
+            "Parameters": [
+                0.4053,
+                0.3817,
+                0.7459,
+                0.7251,
+                0.5563,
+                0.5227,
+                0.8631
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.9242,
+                0.3782
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4881,
+                0.2324,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

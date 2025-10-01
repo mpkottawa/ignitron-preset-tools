@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "518BBCD0AA33070015000002",
+    "Name": "JG S DLY MTR N",
+    "Version": "0.7",
+    "Description": "Les Paul",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2696,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.5246,
+                0,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "MuTron",
+            "IsOn": true,
+            "Parameters": [
+                0.56,
+                0,
+                0.1585,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.7028,
+                0.1463,
+                0.6421,
+                0.5032,
+                0.7487,
+                0.3718,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5141,
+                0.6604,
+                0.7489,
+                0.3747,
+                0.5
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.0763,
+                0.0556,
+                0.4984,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.2357,
+                0.1292,
+                0.9743,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

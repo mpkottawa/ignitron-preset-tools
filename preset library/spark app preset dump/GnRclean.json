@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5249E9E818ADE10016000000",
+    "Name": "G n' R clean",
+    "Version": "0.7",
+    "Description": "opening for Paradise",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6676,
+                0.6617,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.8162,
+                0.6481,
+                0.9297,
+                1
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.8122,
+                0.5173,
+                0.605,
+                0.737,
+                0.7508,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3628,
+                0.4659,
+                0.5158,
+                0.6106,
+                0.5192
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0911,
+                0.4499,
+                0.3793,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.561,
+                0.9169,
+                0.5938,
+                0.7
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.1847,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

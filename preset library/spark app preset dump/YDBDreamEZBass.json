@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57073DCD8DE53C0E000044C5",
+    "Name": "Y DB Dream EZ Bass",
+    "Version": "0.7",
+    "Description": "Orange AD200 to die for",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": true,
+            "Parameters": [
+                0.3881,
+                0.6494
+            ]
+        },
+        {
+            "Name": "BassOctaveEBS",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.3779,
+                0.5682,
+                0.6006,
+                0.6826,
+                0.5,
+                0.7207,
+                0.4023
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.3744,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.48,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "OrangeAD200",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.4,
+                0.6,
+                0.5483
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

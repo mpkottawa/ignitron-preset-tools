@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "563D3A8AF8906C0E000989CE",
+    "Name": "CB Clean N' Clear",
+    "Version": "0.7",
+    "Description": "Corbin clean",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.5092,
+                0.6696,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.1267,
+                1,
+                0.9133,
+                1
+            ]
+        },
+        {
+            "Name": "PowerAmp",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.4,
+                0.8909,
+                0.7844,
+                0.7661
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.7245,
+                0.4286,
+                0.5686,
+                0.7876,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.225,
+                0.4931,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2929,
+                0.6962,
+                1,
+                0.7
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.6348,
+                0.627,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

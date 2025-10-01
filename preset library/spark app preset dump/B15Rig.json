@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56A27BF80BD6410E00E85279",
+    "Name": "B-15 Rig",
+    "Version": "0.7",
+    "Description": "Standard B-15 Rig",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.522,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.8518,
+                0.278
+            ]
+        },
+        {
+            "Name": "Sansamp",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0.6,
+                0.6,
+                0.4
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.9005,
+                0.5812
+            ]
+        },
+        {
+            "Name": "B15",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0586,
+                0.1578,
+                0,
+                0.698,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53EE45BF5B723E0014000000",
+    "Name": "x japan - silent jealousy",
+    "Version": "0.7",
+    "Description": "Tone from Silent Jealousy",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.5,
+                0.6
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.7,
+                0.6,
+                0.3,
+                0.7,
+                0.6,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.4643,
+                0.5402,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.2042,
+                0,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54611D83158A480013000008",
+    "Name": "CLEAN sup7,6xyz5 o 4",
+    "Version": "0.7",
+    "Description": "Al\u00e8",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.6189,
+                0
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8469,
+                0.6648,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.5292,
+                0.5133,
+                0.7641,
+                0.55,
+                0.5479
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.537,
+                0.5902,
+                0.3444
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.1684,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.4091,
+                0.2526,
+                0.6713,
+                0.9515,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

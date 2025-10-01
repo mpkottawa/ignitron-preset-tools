@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56F08793DF513B0E00DC473A",
+    "Name": "Dynamite in a box",
+    "Version": "0.7",
+    "Description": "Boom bitch!",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4843,
+                0.6063,
+                1
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.5875,
+                0.9689,
+                0.5667,
+                0.5492,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.9955,
+                1,
+                0.4767,
+                0.7862,
+                0.7217
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3126,
+                0.4522,
+                0.6806,
+                0.6577,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.4
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

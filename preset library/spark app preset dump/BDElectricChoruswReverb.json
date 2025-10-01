@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5210EF39C050CD000D000000",
+    "Name": "BD Electric Chorus w/Reverb",
+    "Version": "0.7",
+    "Description": "Electric Guitar Chorus w/Reverb",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4841,
+                0.7661,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6953,
+                0.5912
+            ]
+        },
+        {
+            "Name": "JC120Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6,
+                0.4,
+                0.8,
+                0.6
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4821,
+                0.6652,
+                0.3839,
+                0.5402,
+                0.707
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayReverse",
+            "IsOn": false,
+            "Parameters": [
+                0.8261,
+                0.0573,
+                0.4864,
+                0.3366,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2974,
+                0.6289,
+                0.2649,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

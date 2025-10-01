@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "50EE64F8F3BF080014000004",
+    "Name": "JG AC R 1",
+    "Version": "0.7",
+    "Description": "Gibson SG",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2528,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.5246,
+                0,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.2614,
+                0.1745,
+                0.6421,
+                0.5071,
+                0.6706,
+                0.3913,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5141,
+                0.6604,
+                0.758,
+                0.3747,
+                0.5
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1051,
+                0.029,
+                0.477,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0673,
+                0.2298,
+                0.1663,
+                0.9439,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

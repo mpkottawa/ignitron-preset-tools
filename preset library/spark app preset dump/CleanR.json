@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56B7D06D0FFB070E00446708",
+    "Name": "Clean R",
+    "Version": "0.7",
+    "Description": "M-C-R",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.48,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "JC120Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.5336,
+                0.6882,
+                0.6045,
+                0.7636
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.3713,
+                0.4328,
+                0.4
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.7595,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

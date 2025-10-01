@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51E0CCF618A4660031000001",
+    "Name": "Susia101's Blues",
+    "Version": "0.7",
+    "Description": "Fender + Line6 Sonic port",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.303,
+                0.5,
+                0.9167
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.5316
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.8751,
+                0.6,
+                0.6,
+                0.63,
+                0.6696,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5129,
+                0.3286,
+                0.662,
+                0.4947,
+                0.4509
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.1449,
+                0.0405,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1717,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.7456,
+                0.6041
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

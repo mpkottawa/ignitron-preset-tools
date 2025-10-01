@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5AD3463E363EC60013F52F75",
+    "Name": "P clean",
+    "Version": "0.7",
+    "Description": "123",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.01,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4881,
+                0.4971,
+                0.2896,
+                0
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.1908,
+                0.7837,
+                0.4082,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.7177
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.9987,
+                0.6098,
+                0,
+                0.7523,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

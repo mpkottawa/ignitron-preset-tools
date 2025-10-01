@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "6468FB107DA39B001367D567",
+    "Name": "Solista D/R",
+    "Version": "0.7",
+    "Description": "Petrucci ma Solista",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6316,
+                0.3774,
+                0
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.8117,
+                0.2174,
+                0.2188,
+                0.2311,
+                1,
+                0.5991,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.9496,
+                0.9587,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.4951,
+                0.6,
+                0.6,
+                0.4,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.6583,
+                0.6,
+                0.3,
+                0.4
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": false,
+            "Parameters": [
+                0.1189,
+                0.3305,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

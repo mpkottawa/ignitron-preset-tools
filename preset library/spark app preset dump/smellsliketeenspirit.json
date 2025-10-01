@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "c5f8e26f-4951-4d8e-9915-a12dbb4b1df0",
+    "Name": "smells like teen spirit",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.0957,
+                0.2024,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.7126,
+                0.7248
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.3981,
+                0.6793,
+                0.3769,
+                0
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.524,
+                0.4719,
+                0.4928,
+                1,
+                0.7213
+            ]
+        },
+        {
+            "Name": "GuitarEQ6",
+            "IsOn": true,
+            "Parameters": [
+                0.7947,
+                0.5564,
+                0.5063,
+                0.5,
+                0.384,
+                0.674,
+                0.7759
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.3818,
+                0.3983,
+                0.7363,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4925,
+                0.3929,
+                0.4611,
+                0.0786,
+                0.4882,
+                0.4664,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5E29E0DCEDA7C1001647BD94",
+    "Name": "Yamaha Rhyth L",
+    "Version": "0.7",
+    "Description": "iPhone ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.4476,
+                0,
+                0.35
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": true,
+            "Parameters": [
+                0.4513,
+                0.6288,
+                0.7688
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6478,
+                0.3499,
+                0.397,
+                0.6888,
+                0.5956,
+                0.7057,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": false,
+            "Parameters": [
+                0.4264,
+                0.6153,
+                0.4186,
+                0.6041,
+                0.2145,
+                0.4803,
+                0.4013
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.8559,
+                0.0141,
+                0.1892,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.1176,
+                0.5,
+                0.5,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

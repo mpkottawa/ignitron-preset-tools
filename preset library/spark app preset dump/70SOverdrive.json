@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5401FDF4039B420016000000",
+    "Name": "70'S Overdrive. ",
+    "Version": "0.7",
+    "Description": "Rhythm & Leads warm tube distortion. ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.4225,
+                0.6292,
+                0.3125,
+                0.315,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.878,
+                0.3595,
+                0.35
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.5131,
+                0.5627,
+                0.5196,
+                0.6,
+                0.7584,
+                1
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.1809,
+                0.3212,
+                0.1822,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1033,
+                0.4989,
+                0.6586,
+                0.4
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.8559,
+                0.0141,
+                0.1892,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.1555,
+                0.5,
+                0.4092,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

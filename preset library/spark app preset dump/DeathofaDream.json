@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5B1C1C9925918000130973FB",
+    "Name": "Death of a Dream ",
+    "Version": "0.7",
+    "Description": "My live rig, JamUp style.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.005,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": false,
+            "Parameters": [
+                0.0098,
+                0.7352,
+                0.216
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2914,
+                0.9059,
+                0.7438
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.7198,
+                0.8301,
+                0.8661,
+                0.8864,
+                0.194,
+                0.7104,
+                1
+            ]
+        },
+        {
+            "Name": "AcousticEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.5551,
+                0.6705,
+                0.7034,
+                0.5,
+                0.5,
+                0.691,
+                0.2993
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.5078,
+                0.1808,
+                0.8382,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "Whammy",
+            "IsOn": false,
+            "Parameters": [
+                0.7,
+                0.3118,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

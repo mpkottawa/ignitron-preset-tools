@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52D73173A2620F000A000000",
+    "Name": "Rock J",
+    "Version": "0.7",
+    "Description": "yup",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2681,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5822,
+                0.998,
+                0.6412,
+                1
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.2062,
+                0.2564,
+                1,
+                0.8559,
+                0.2928,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6038,
+                0.5604,
+                0.5007,
+                0.7629,
+                0.6366
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.5713,
+                0.3268,
+                0.6713,
+                0.8184
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3593,
+                0.7578,
+                0.2875,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

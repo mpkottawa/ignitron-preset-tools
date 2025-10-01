@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5A0DABB90C46310124928B81",
+    "Name": "Ggyybruce-mi\u2006d\u2006ton\u2006e",
+    "Version": "0.7",
+    "Description": "midtone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8416,
+                0.8724
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3571,
+                0.497,
+                0.7009,
+                0.518,
+                1
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.3,
+                0.7,
+                0.7,
+                0.64,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.0989,
+                1,
+                0.5122
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

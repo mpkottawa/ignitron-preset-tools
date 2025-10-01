@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "531C81E74F6D54000B000000",
+    "Name": "J Bright Crunch ",
+    "Version": "0.7",
+    "Description": "bright distortion ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1315,
+                0.4094,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.2434,
+                0,
+                0.7,
+                0.5949
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6117,
+                0.3583,
+                0.5477,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.6376,
+                0.525,
+                0.7501,
+                0.3335,
+                0.5453,
+                0.6102,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5174,
+                0.3854,
+                0.6484,
+                0.6013,
+                0.548
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.064,
+                0.2152,
+                0.6918,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

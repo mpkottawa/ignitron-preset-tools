@@ -1,0 +1,90 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5EE73D7407E58A0016540A21",
+    "Name": "X",
+    "Version": "0.7",
+    "Description": "Deathmyth Guitar Demo",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.0057,
+                0.3651,
+                0.0004,
+                0.0177,
+                0.8341,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.753
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.6,
+                1,
+                1,
+                0.702,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.3918,
+                1,
+                0.5,
+                0.594
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.3643,
+                0.6,
+                0.6,
+                0.75,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2974,
+                0.0018,
+                0.0023,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

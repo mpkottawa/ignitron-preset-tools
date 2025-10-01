@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "531C82FF4F6D54000F000002",
+    "Name": "J Petrucci Crunch",
+    "Version": "0.7",
+    "Description": "Bright distortion",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.451,
+                0.9622,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2434,
+                0,
+                0.7,
+                0.5949
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6024,
+                0.5153,
+                0.6373,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.6292,
+                0.7994,
+                0.6618,
+                0.2326,
+                0.7335,
+                0.6667,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5174,
+                0.3854,
+                0.6484,
+                0.4629,
+                0.548
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.148,
+                0.1256,
+                0.3355,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "58FB202AC27CC0001147FA1F",
+    "Name": "CJ T-Rex",
+    "Version": "0.7",
+    "Description": "Hard rock / Metal",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                0.6
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.5987,
+                0.6356,
+                0.6
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6224,
+                0.5,
+                0.616,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.6128,
+                0.3031,
+                0.4887,
+                0.5183,
+                0.4656,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5545,
+                0.398,
+                0.5261,
+                0.4031,
+                0.5612
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.5035,
+                0.6592,
+                0.3838,
+                0.4795,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

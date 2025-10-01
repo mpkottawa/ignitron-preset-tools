@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54D9FB567B8E330019000002",
+    "Name": "Muton v",
+    "Version": "0.7",
+    "Description": "Pop Sound for Elody Eflute",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.0829,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "BassOctaveEBS",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "ENGLJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.8811,
+                0.6,
+                0.25,
+                0.5566,
+                0.7,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.9063,
+                0.473,
+                0.5803,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.1015,
+                1,
+                0.3713,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5344,
+                0.4326,
+                0.9397,
+                1,
+                0.4746
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.5983,
+                0,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5381CDA793C634000C000000",
+    "Name": "toon x",
+    "Version": "0.7",
+    "Description": "toon x clean",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.6603,
+                0.6195
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5726,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": false,
+            "Parameters": [
+                0.3541,
+                0.5988,
+                0.1723,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6004,
+                0.5625,
+                0.5089,
+                0.5446,
+                0.4107
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.3998,
+                0.3387,
+                0.5,
+                0.75,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.3436,
+                0.4017,
+                0.3407,
+                0.538
+            ]
+        },
+        {
+            "Name": "DelayMultiHead",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3957,
+                0.6047,
+                0.34,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

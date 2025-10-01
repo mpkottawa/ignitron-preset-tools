@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "576F6AE19C080E0E0075308E",
+    "Name": "Drop C Heavy ! By FCA! Real!",
+    "Version": "0.7",
+    "Description": "! By FCA!",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5109,
+                0.4891,
+                0.4837,
+                0.5543,
+                0.5
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.4,
+                0.4,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.9665,
+                0.7167,
+                0.467
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.6863,
+                0.301,
+                0.7484,
+                0.8996,
+                0.3909,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2066,
+                0.627,
+                0.1597,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

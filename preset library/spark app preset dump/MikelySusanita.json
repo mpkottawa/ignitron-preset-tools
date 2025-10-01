@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57FA99E7682EF4000F7F9608",
+    "Name": "Mikel y Susanita",
+    "Version": "0.7",
+    "Description": "Canci\u00f3n: Susanita tiene un rat\u00f3n",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7978,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": false,
+            "Parameters": [
+                0.3
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5246,
+                0,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.5926,
+                0.526,
+                0.6714,
+                0.6269,
+                0.5604,
+                0.3718,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5141,
+                0.6104,
+                0.7626,
+                0.5552,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2558,
+                0.0896,
+                0.3479,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.0619,
+                0.6,
+                0.093,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

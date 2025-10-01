@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5452AE50DD8C48001000000B",
+    "Name": "Aumenta a pressao",
+    "Version": "0.7",
+    "Description": "Alma",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4957,
+                0.3718,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.85,
+                0.85
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.0057,
+                0.5,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.4,
+                0.664,
+                0.6,
+                0.6,
+                0.3732
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.5279,
+                0.622,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2763,
+                0.3268,
+                0.6713,
+                0.379,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.776
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

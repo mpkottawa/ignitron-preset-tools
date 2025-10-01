@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52A5F397349F060015000002",
+    "Name": "80's heavy solo",
+    "Version": "0.7",
+    "Description": "80's",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.8723,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.48,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.986,
+                0.5
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.4579,
+                0.4,
+                0.6,
+                0.4369,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.4933,
+                0.5,
+                0.5134,
+                0.3393,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.3306,
+                0.5082,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": true,
+            "Parameters": [
+                0.1,
+                0.2734,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

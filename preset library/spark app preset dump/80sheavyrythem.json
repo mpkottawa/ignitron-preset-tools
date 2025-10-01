@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52A5F35F349F06000B000001",
+    "Name": "80's heavy rythem",
+    "Version": "0.7",
+    "Description": "80's",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.8723,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.48,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.4579,
+                0.4,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.4933,
+                0.5,
+                0.5134,
+                0.3393,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1266,
+                0.5082,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": false,
+            "Parameters": [
+                0.2092,
+                0.2842,
+                0.4702,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

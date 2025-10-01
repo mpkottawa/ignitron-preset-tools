@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "533817726C6112001C000000",
+    "Name": "AcDc S DLY",
+    "Version": "0.7",
+    "Description": "just the amp drive",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2696,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.0017,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.5246,
+                0,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.57,
+                0.1465,
+                0.6421,
+                0.5168,
+                0.7467,
+                0.3718,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5141,
+                0.6604,
+                0.7489,
+                0.3747,
+                0.5
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.0763,
+                0.0556,
+                0.4984,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.1693,
+                0.1292,
+                0.7487,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

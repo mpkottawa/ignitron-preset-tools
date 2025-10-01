@@ -1,0 +1,90 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A983306BE880E00D89B19",
+    "Name": "Insanity chorusy lead",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5662,
+                0.3325,
+                0.8533,
+                0.7,
+                0.7938,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5365,
+                0.5262,
+                0.5281,
+                0.4558,
+                0.6234,
+                0.5
+            ]
+        },
+        {
+            "Name": "Sansamp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.1364,
+                0.8307,
+                0.8112,
+                0.4442,
+                0.9076
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.3435,
+                0.1257,
+                0.8663
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.4562,
+                0.1856,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.1965,
+                0.8006,
+                0.0947,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

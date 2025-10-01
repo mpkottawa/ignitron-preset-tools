@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53F7F0D89DC915000A000000",
+    "Name": "Vocal preset",
+    "Version": "0.7",
+    "Description": "T",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4899,
+                0.4876,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.1806,
+                0.668,
+                0.1235,
+                0.4157,
+                0.5643
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.4643,
+                0.5402,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.5713,
+                0.3268,
+                0.6713,
+                0.8184,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2549,
+                0.7578,
+                0.2875,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

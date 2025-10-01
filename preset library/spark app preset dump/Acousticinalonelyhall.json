@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5B8E0B7D26E0AA0013A20F36",
+    "Name": "Acoustic in a lonely hall",
+    "Version": "0.7",
+    "Description": "The title says it all with added effects to brighten or bring down the mood.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": false,
+            "Parameters": [
+                0.4289,
+                0.4648,
+                0.65
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": false,
+            "Parameters": [
+                0.7253,
+                0.1626,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "AcousticReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.5838,
+                0.9317,
+                0.6048
+            ]
+        },
+        {
+            "Name": "AcousticPro",
+            "IsOn": true,
+            "Parameters": [
+                0.1331,
+                0.7757,
+                0.7805,
+                0.6232,
+                0.7337,
+                0.004
+            ]
+        },
+        {
+            "Name": "Tremolator",
+            "IsOn": false,
+            "Parameters": [
+                0.2449,
+                0.0762,
+                0
+            ]
+        },
+        {
+            "Name": "AcousticEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.2495,
+                0.1589,
+                0.5939,
+                0.2757,
+                0.5176,
+                0.0721,
+                0.2837
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

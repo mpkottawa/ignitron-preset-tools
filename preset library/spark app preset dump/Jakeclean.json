@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53F8044668DDD40010000004",
+    "Name": "Jake clean",
+    "Version": "0.7",
+    "Description": "T",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4723,
+                0.489,
+                0.5
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.5333,
+                0.4321,
+                0.0102,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2549,
+                0.7578,
+                0.2875,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

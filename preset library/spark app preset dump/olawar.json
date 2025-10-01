@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54369713A0DFD90015000000",
+    "Name": "o\u2006la war",
+    "Version": "0.7",
+    "Description": "ola war",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2383,
+                0.4637,
+                0.5
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.6944,
+                0.159
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.4724,
+                0.6766,
+                0.3927,
+                0.3703,
+                0.6792,
+                0.84,
+                0.3538,
+                0.7147
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.4125,
+                0.4662,
+                0.6558,
+                0.4217,
+                0
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.2012,
+                0.1548,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1592,
+                0.4805,
+                0.2022,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

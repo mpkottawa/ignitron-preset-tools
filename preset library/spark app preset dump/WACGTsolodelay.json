@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5237DB60E2760F001A000000",
+    "Name": "(W) AC GT solo delay",
+    "Version": "0.7",
+    "Description": "7D",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.5323
+            ]
+        },
+        {
+            "Name": "PowerAmp",
+            "IsOn": true,
+            "Parameters": [
+                0.7137,
+                0.4926,
+                0.5087,
+                0.366,
+                0.5042
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.2905,
+                0.5091,
+                0.5496,
+                0.5318,
+                0.5027
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.0414,
+                0.1021,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.0911,
+                0.1183,
+                0,
+                0.6318,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.172,
+                0.27,
+                0.5297,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

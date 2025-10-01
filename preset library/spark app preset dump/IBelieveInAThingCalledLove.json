@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "583C078D1502E30010BAA907",
+    "Name": "I Believe In A Thing Called Love",
+    "Version": "0.7",
+    "Description": "Recreated The Darkness rhythm tone from \"I Believe In A Thing Called Love\"",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7386,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6935,
+                0.4843,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.6702,
+                0.6005,
+                0.6464,
+                0.6134,
+                0.8722,
+                0.7581,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.1497,
+                1,
+                1,
+                0.7
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.2042,
+                0,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

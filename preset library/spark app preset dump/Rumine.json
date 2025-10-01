@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "535834A36C180A0017000000",
+    "Name": "R u mine?",
+    "Version": "0.7",
+    "Description": "Arctic Monkeys",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.9256,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.4643,
+                0.5402,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.5713,
+                0.3268,
+                0.6713,
+                0.8184,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                0.2875,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

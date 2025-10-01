@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53865E27FF31E20019000000",
+    "Name": "Linkin Park Early 2000's",
+    "Version": "0.7",
+    "Description": "Distortion tone for Linkin Park for 'Hybrid Theory'",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.7763,
+                0.544,
+                0.7414,
+                0.362,
+                0.3632,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": false,
+            "Parameters": [
+                0.2411
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.0543,
+                0.3894,
+                0.0561,
+                0.6
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3482,
+                0.6183,
+                0.4818,
+                0.3303,
+                0.5625
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.2407,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

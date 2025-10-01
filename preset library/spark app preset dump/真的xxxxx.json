@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5BD07915E9E74A001286B625",
+    "Name": "\u771f\u7684x\u2006x\u2006x\u2006x\u2006x",
+    "Version": "0.7",
+    "Description": "\u771f\u7684\u7231\u4f60",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5363,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.4125,
+                0.5145,
+                0.6441
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.55,
+                0.1133,
+                0.9187,
+                0.9062,
+                0.6813,
+                0.6892,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.493,
+                0.8552,
+                0.8051,
+                1,
+                0.5096
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.3294,
+                0.4159,
+                0.3554,
+                0,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1651,
+                0.31,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2996,
+                0.6321,
+                0.1444,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

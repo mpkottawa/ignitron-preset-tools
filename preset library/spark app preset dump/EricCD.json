@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5433EE9F7AD69C000D000003",
+    "Name": "Eric C/D",
+    "Version": "0.7",
+    "Description": "Eric2",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3742,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.7116,
+                0.7509
+            ]
+        },
+        {
+            "Name": "SABdriver",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.6743,
+                0.831,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6839,
+                0.472,
+                0.6196,
+                0.676,
+                0.7638
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.5038,
+                0.6645,
+                0.356,
+                0.4
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.469,
+                0.3334,
+                0.2977,
+                0.5223,
+                1
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": false,
+            "Parameters": [
+                0.7,
+                0.7,
+                0.4,
+                0.6,
+                0.6,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

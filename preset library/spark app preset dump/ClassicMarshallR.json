@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "526BC4B1D1A691000E000000",
+    "Name": "Classic Marshall R",
+    "Version": "0.7",
+    "Description": "Classic Marshall 70's rock tone with overdrive and reverb",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4912,
+                0.4985,
+                0.5
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.4919,
+                0.6,
+                0.8515
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.6,
+                0.5333,
+                0.8734,
+                0.5719,
+                0.8556,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5129,
+                0.3286,
+                0.662,
+                0.4947,
+                0.4866
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.3154,
+                0.0744,
+                0.7,
+                0.6322
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1738,
+                0.1941,
+                0,
+                0.3,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1717,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5C88B2EC3B78DE0014A8FD6D",
+    "Name": "Do Wah(t) Cleaner**",
+    "Version": "0.7",
+    "Description": "Wide sweeping wah with low/med gain and sensitive pick attack",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                0.1784
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": false,
+            "Parameters": [
+                0.6567,
+                0.2115,
+                0.6368
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.3796,
+                0.8396,
+                0.2194,
+                0.8375
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.584,
+                0.4336,
+                0.7386,
+                0.7163,
+                0.6624
+            ]
+        },
+        {
+            "Name": "JCM900",
+            "IsOn": true,
+            "Parameters": [
+                0.7963,
+                0.3823,
+                0.8484,
+                0.9108,
+                0.9704,
+                0.455
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.3908,
+                0,
+                0.29,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.744,
+                0.6206,
+                0.2267,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

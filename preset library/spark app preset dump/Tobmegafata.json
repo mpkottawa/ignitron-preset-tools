@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "59EBD6BA8EB9D60195AC6A03",
+    "Name": "Tob megafat a",
+    "Version": "0.7",
+    "Description": "Tob megafat a",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2125,
+                0.3718,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.3268,
+                0.8369,
+                0.0947,
+                1
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": false,
+            "Parameters": [
+                0.2531,
+                0.2822
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.3431,
+                0.0625,
+                0.5779,
+                0
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.55,
+                0.65,
+                0.45,
+                0.05,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.1,
+                0.6,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

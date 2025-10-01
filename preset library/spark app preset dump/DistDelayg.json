@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "58E95BDD7B6F4000105649A6",
+    "Name": "Dist Delay  +g",
+    "Version": "0.7",
+    "Description": "Yo+",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.9411,
+                0.7817,
+                0.8313,
+                1
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.2192,
+                1,
+                0.4314,
+                0.3435,
+                0.7418,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.8992,
+                0.8871,
+                0,
+                0.0753,
+                0.7905
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.5572,
+                0.4755,
+                0.9857,
+                0.3703,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.4227,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.477,
+                0.0667,
+                0.6,
+                0.6,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,91 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52E995A541FDE0000E000000",
+    "Name": "Fer H Modern Sound",
+    "Version": "0.7",
+    "Description": "Pedalboard copy",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BassBigMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.8082,
+                0.7154,
+                0.5
+            ]
+        },
+        {
+            "Name": "Whammy",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0.6675,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": true,
+            "Parameters": [
+                0.8567,
+                0.917,
+                1
+            ]
+        },
+        {
+            "Name": "MuTron",
+            "IsOn": true,
+            "Parameters": [
+                0.56,
+                0.6072,
+                0.5,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.2438,
+                0.6528,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.6539,
+                0.5,
+                0.6758,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "RedHead",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                1,
+                0.7,
+                0.4,
+                0.6,
+                0.4,
+                0.4,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

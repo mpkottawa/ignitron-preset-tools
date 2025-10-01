@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "531C81999A13C50009000000",
+    "Name": "J Soft Crunch",
+    "Version": "0.7",
+    "Description": "Clean Crunchy Blues",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.7191,
+                0.7015
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1486,
+                0.2076,
+                0.6523,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.7835,
+                0.4752,
+                0.5408,
+                0.2081,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4921,
+                0.3973,
+                0.8875,
+                0.7799,
+                0.4481
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.1684,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2012,
+                0.3268,
+                0.6713,
+                0.8184,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

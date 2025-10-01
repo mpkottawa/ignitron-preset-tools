@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54A869836C5D280018000009",
+    "Name": "Van Halen 1 w/ Phase 90",
+    "Version": "0.7",
+    "Description": "Early VH with Phase",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4935,
+                0.6195,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6344,
+                0.5402,
+                0.8251,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.6,
+                0.4,
+                0.7,
+                0.7,
+                0.7969,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.1446,
+                0.1347,
+                0.1679,
+                0.6437
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1667,
+                0.0375,
+                0.473,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2271,
+                0.627,
+                0.3652,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.4643,
+                0.5402,
+                0.4866
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

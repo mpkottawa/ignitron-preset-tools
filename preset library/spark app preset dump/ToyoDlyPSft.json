@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5435B653DACA960015000004",
+    "Name": "Toyo - Dly/P\u2022Sft",
+    "Version": "0.7",
+    "Description": "Guitar",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Whammy",
+            "IsOn": false,
+            "Parameters": [
+                0.1,
+                0.5,
+                1,
+                0.5,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.0778,
+                0.0477,
+                0.5
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": true,
+            "Parameters": [
+                0.8546,
+                0.503
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.8504,
+                0.8584,
+                0.6938,
+                0.0749,
+                0.8401,
+                0.4672,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5363,
+                0.6767,
+                0.6195,
+                0.5155,
+                0.4504
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.5972,
+                0.3983,
+                0.6342,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2555,
+                0.675,
+                0.3121,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "541AF02AAA5B9D0014000005",
+    "Name": "soundcloud.com/marciopachecojunior",
+    "Version": "0.7",
+    "Description": "A",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.2983,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.2545,
+                0.5171,
+                0.817,
+                0.6521,
+                0.9196
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.7289,
+                0.6014,
+                1,
+                0,
+                0.6037,
+                0.5268,
+                0.2246,
+                0.7272
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.6094
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

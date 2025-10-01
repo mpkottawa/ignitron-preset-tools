@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "55D22E8ED3BAE30F00EC58AD",
+    "Name": "SRV crunch",
+    "Version": "0.7",
+    "Description": "T",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7085,
+                0.6502,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.4924,
+                0.4048,
+                0.3695,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.4939,
+                0.4014,
+                0.3568,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.0566,
+                0.0644,
+                0.4023,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.0498,
+                0.3216,
+                0.0697,
+                0.7
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6458,
+                0.5979,
+                0.6005,
+                0.6046,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5992,
+                0.5992,
+                0.5992,
+                0.5992,
+                0.6018
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

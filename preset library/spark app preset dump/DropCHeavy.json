@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51FED1880A47FA000D000000",
+    "Name": "Drop C Heavy ",
+    "Version": "0.7",
+    "Description": "Heavy Rhytm Style Sound",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.3899,
+                0.0027,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.9665,
+                0.197,
+                0.5085
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8773,
+                0.301,
+                0.7484,
+                0.8996,
+                0.3909,
+                1
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3775,
+                0.3838,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3085,
+                0.5,
+                0.3916,
+                0.4
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

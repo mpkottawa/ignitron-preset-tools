@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52C8D8F5367395000F000002",
+    "Name": "C.A.S Rhythm R ",
+    "Version": "0.7",
+    "Description": "7",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2094,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.472,
+                0.6638,
+                0.7178,
+                0.7395,
+                0.7687,
+                0.7097
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.7493,
+                0.8619,
+                0.7844,
+                0.6326,
+                0.8019,
+                0.7795,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.2723,
+                0.5558,
+                0.4286,
+                0,
+                0.654
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5194,
+                1,
+                0.35
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

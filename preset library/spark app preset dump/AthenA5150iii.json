@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "574924DFC925E80E00E186AF",
+    "Name": "AthenA5150iii",
+    "Version": "0.7",
+    "Description": "A",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.8115,
+                0.7048
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3386,
+                0.4661,
+                0.4011,
+                0.3205,
+                0.5013
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.1787,
+                0.5559,
+                0.6
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.7456
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.2753,
+                0.4231,
+                0.8196,
+                0.6199,
+                0.6484,
+                0.5764,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.0965,
+                0.4172,
+                0.2651,
+                0.5,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

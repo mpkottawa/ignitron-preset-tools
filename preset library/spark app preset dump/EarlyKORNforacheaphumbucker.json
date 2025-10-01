@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "554DF9559E467D0011000001",
+    "Name": "Early KORN for a cheap humbucker",
+    "Version": "0.7",
+    "Description": "I set it up for my nephew's cheap guitar",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.6926,
+                0.3891,
+                0.7734,
+                0.1149,
+                0.8307,
+                0.7552,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6331,
+                0.5102,
+                0.8222,
+                0.5383,
+                0.4796
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.3091,
+                0.5963,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.4494,
+                0.3343,
+                0.1343,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.4
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.3465,
+                0.9498,
+                0.7394,
+                0.32,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

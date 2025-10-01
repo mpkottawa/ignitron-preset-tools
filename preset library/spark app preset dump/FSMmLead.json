@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53A4369291B9B4000D000002",
+    "Name": "FSM \\m/ Lead",
+    "Version": "0.7",
+    "Description": "Metal Lead guitar preset from the song \"Fate Of Souls\" ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.0234,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5258,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6477,
+                0.6,
+                0.3,
+                0.7,
+                0.7,
+                0.64,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4959,
+                0.3464,
+                0.5511,
+                0.4995,
+                0.525
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.4043,
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.3653,
+                0.2774,
+                0.3483,
+                1,
+                0.6
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

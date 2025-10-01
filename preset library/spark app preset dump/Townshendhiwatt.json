@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5398E437E44C200018000000",
+    "Name": "Townshend hi watt",
+    "Version": "0.7",
+    "Description": "T",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4723,
+                0.489,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.6561,
+                0.6904
+            ]
+        },
+        {
+            "Name": "Hiwatt103",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5578,
+                0.9874,
+                0.0024,
+                0.1774,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.7959,
+                0.949,
+                0,
+                0.2577
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.5713,
+                0.3268,
+                0.6713,
+                0.8184,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2549,
+                0.7578,
+                0.2875,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

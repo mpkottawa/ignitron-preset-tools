@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54B8678BFD40F80010000000",
+    "Name": "I Like This",
+    "Version": "0.7",
+    "Description": "Yeah ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.3788,
+                0.3543
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.4034,
+                0.7,
+                0.5975,
+                0.3958,
+                0.6958,
+                0.7027,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6459,
+                0.646,
+                0.6599,
+                0.7902,
+                0.3344
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.2042,
+                0,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.825,
+                0.4
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

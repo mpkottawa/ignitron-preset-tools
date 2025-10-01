@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5452C5A6DD8C480015000010",
+    "Name": "80's tone",
+    "Version": "0.7",
+    "Description": "Green box stack with gainy AC 30",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4459,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.3844,
+                0.7629,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.715,
+                0.6,
+                0.8729,
+                0.8406,
+                0.7,
+                0.8594,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6095,
+                0.4286,
+                0.5762,
+                0.5429,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.8967,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.4
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

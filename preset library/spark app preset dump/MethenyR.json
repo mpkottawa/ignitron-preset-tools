@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "526BC495A1A94F0016000000",
+    "Name": "Metheny R",
+    "Version": "0.7",
+    "Description": "Pat Metheny Jazz Tone. Best with a hollowbody on neck PU & tone rolled off about 50%",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": false,
+            "Parameters": [
+                0.6082,
+                0.6,
+                0.348
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.6049,
+                0.2991,
+                0.315,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.8842,
+                0.3616,
+                0.8782,
+                0.7629,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5117,
+                0.6483,
+                0.5,
+                0.4136,
+                0.5455
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.087,
+                0.5665,
+                0.2895,
+                0.6,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

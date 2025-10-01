@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5D6E93DE5BC5CF0016B394F5",
+    "Name": "Drop B Matt",
+    "Version": "0.7",
+    "Description": "Drop B ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Whammy",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                1,
+                0,
+                0.5955,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                0.6
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6742,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.718,
+                0.5328,
+                0.6558,
+                0.2044,
+                0.628,
+                0.5932,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.3691,
+                0.8456,
+                0.7408,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.0563,
+                0.627,
+                0.4022,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

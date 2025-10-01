@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54A5B6CBE3CE810013000004",
+    "Name": "Mastodon Drop A",
+    "Version": "0.7",
+    "Description": "Boosted Orange, works nice with some Mastodon tunes such as Curl of the Burl",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7791,
+                0.0695,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.7645,
+                0.5967,
+                0.8114,
+                1
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.8052,
+                0.721,
+                0.2366,
+                0.3599,
+                0.8061,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5093,
+                0.5024,
+                0.543,
+                0.5913,
+                0.3333
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.2042,
+                0,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

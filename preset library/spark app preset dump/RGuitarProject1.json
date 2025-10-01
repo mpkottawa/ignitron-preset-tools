@@ -1,0 +1,89 @@
+{
+    "PresetNumber": 127,
+    "UUID": "529B72D20A4BC10014000000",
+    "Name": "R Guitar Project 1",
+    "Version": "0.7",
+    "Description": "(description)",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.3376,
+                0.6249,
+                0.6
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.518,
+                0.8424,
+                0.823,
+                0.7014,
+                0.6789,
+                0.747,
+                0.5177,
+                0.7539
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.7176,
+                0.6127,
+                0.5986,
+                0.6905,
+                0.4721,
+                0.6865,
+                0.4108
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5864,
+                0.6545,
+                0.5182,
+                0.7045,
+                0.3818
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.7282,
+                0.0772,
+                0.0502,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.0687,
+                0.589,
+                0.1307,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

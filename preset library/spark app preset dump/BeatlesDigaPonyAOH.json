@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "f46273bf-bfbb-4e92-b1a0-5194cca320cb",
+    "Name": "Beatles Dig a Pony AOH",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2182,
+                0.0649,
+                0
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.4863,
+                0.5253,
+                0.4931,
+                0.6441
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.59,
+                0.8897,
+                0.351
+            ]
+        },
+        {
+            "Name": "ADClean",
+            "IsOn": true,
+            "Parameters": [
+                0.6063,
+                0.5704,
+                0.5316,
+                0.3412,
+                1
+            ]
+        },
+        {
+            "Name": "GuitarEQ6",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.6741,
+                0.6557
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": false,
+            "Parameters": [
+                0.55,
+                0.6467,
+                0.7112,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4922,
+                0.3714,
+                0.5964,
+                0.3607,
+                0.6429,
+                0.3393,
+                0.4,
+                1
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

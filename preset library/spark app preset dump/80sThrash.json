@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5574C5735044800014000004",
+    "Name": "80's Thrash",
+    "Version": "0.7",
+    "Description": "Rom",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.0559,
+                0.4094,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5615,
+                0.6121,
+                0.7212
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.7602,
+                0.626,
+                0.6922,
+                1
+            ]
+        },
+        {
+            "Name": "JCM900",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.7543,
+                0.2389,
+                0.7969,
+                0.8631,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5356,
+                0.4081,
+                0.562,
+                0.4811,
+                0.8571
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.2027,
+                0.3287,
+                0.3997,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.9444,
+                0.911
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

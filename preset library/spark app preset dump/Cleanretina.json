@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "562654B39D5DD40E00AECB47",
+    "Name": "Clean retina",
+    "Version": "0.7",
+    "Description": "Q",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1484,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "RolandJC120",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6497,
+                0.4,
+                0.8,
+                0.4301
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.8341,
+                1,
+                0.7419,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5499,
+                0.4286,
+                0.4955,
+                0.5536,
+                0.2825
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.4756,
+                0.427,
+                0.4995,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6315,
+                0.5307,
+                0.662,
+                1
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": true,
+            "Parameters": [
+                0.4596,
+                0.234,
+                0.1495
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

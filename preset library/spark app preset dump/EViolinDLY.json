@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5303ABBEB2DACD000A000000",
+    "Name": "E-Violin DLY",
+    "Version": "0.7",
+    "Description": "muted electric violin With Delay",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BiasAmp",
+            "IsOn": true,
+            "Parameters": [
+                0.7253,
+                0.3965,
+                0.2274,
+                0.3416,
+                0.1995,
+                0.9983
+            ]
+        },
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                0.9961
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.4643,
+                0.5402,
+                0.6607
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.7305,
+                0.3993
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0904,
+                0.1469,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.6348,
+                0.627,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

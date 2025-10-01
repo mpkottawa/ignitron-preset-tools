@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57F8B6F4F205FE000F8C579A",
+    "Name": "Van H Unchain Me",
+    "Version": "0.7",
+    "Description": "Unchain W/flanger good timing",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2826,
+                0.4481,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.3615,
+                0.9125,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.5357,
+                1,
+                0.3,
+                0.6188,
+                0.2014,
+                0.9437,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.375,
+                0.7686,
+                1,
+                0.6225
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.0375,
+                1,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.1434,
+                0.0909,
+                0.75,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.135,
+                0.6,
+                0.3,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5EE897B0BE7FFA0016182A40",
+    "Name": "GT No Brain - L",
+    "Version": "0.7",
+    "Description": "No Brain Yamaska (Do)",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5625,
+                0.2201,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.3765,
+                1
+            ]
+        },
+        {
+            "Name": "ENGLJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.7966,
+                0.534,
+                0.6,
+                0.6609,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "AttackEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.6875,
+                0.5835,
+                0.8157
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3109,
+                0.6731,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.75,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

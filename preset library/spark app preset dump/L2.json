@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "529B731351F23D0012000000",
+    "Name": "L 2",
+    "Version": "0.7",
+    "Description": "L 2",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.6153,
+                0.6
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.852,
+                0.8482,
+                0.7,
+                0.7,
+                0.6963,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4364,
+                0.4455,
+                0.4136,
+                0.4545,
+                0.5
+            ]
+        },
+        {
+            "Name": "Whammy",
+            "IsOn": false,
+            "Parameters": [
+                0.1,
+                0.5,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.0295,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

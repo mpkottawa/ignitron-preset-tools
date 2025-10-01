@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52F66D82D6D0FC001B000003",
+    "Name": "upright n",
+    "Version": "0.7",
+    "Description": "lucs upright bass b",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.8021,
+                0.5776
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.7422,
+                0.1284,
+                0.5788,
+                0.6656
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6014,
+                0.4745,
+                0.7382
+            ]
+        },
+        {
+            "Name": "B15",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.6698,
+                0.6684,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6541,
+                0.4503,
+                0.6592,
+                0.7163,
+                0.6757,
+                0.518,
+                0.5033
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2206,
+                0.9705,
+                0.201,
+                0.4
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": false,
+            "Parameters": [
+                0.2949,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

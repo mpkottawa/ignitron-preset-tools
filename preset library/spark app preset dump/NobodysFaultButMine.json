@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "66add064-5528-4559-9663-a951236aca85",
+    "Name": "Nobody's Fault But Mine",
+    "Version": "0.7",
+    "Description": "2-Crunch",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.264,
+                0.0606,
+                0
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.4863,
+                0.5253,
+                0.4931,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.1555,
+                0.5242,
+                0.62
+            ]
+        },
+        {
+            "Name": "SwitchAxeLead",
+            "IsOn": true,
+            "Parameters": [
+                0.494,
+                0.5,
+                0.5065,
+                0.6,
+                0.6558
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": true,
+            "Parameters": [
+                0.4138,
+                0.663,
+                0.6552
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2281,
+                0.3983,
+                0.7363,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": false,
+            "Parameters": [
+                0.645,
+                0,
+                0.8827,
+                0.4381,
+                0.4695,
+                0.4555,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

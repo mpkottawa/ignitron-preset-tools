@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53B2BBB144D8B8000A000000",
+    "Name": "Shima-Z Plexi 03",
+    "Version": "0.7",
+    "Description": "Boost\u6709",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.01,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0057,
+                0.0209,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.7366,
+                0.7448
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.6775,
+                0.6887,
+                1,
+                0.4201,
+                0.7722,
+                0.8467
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.7702,
+                0.4479,
+                0.5726,
+                0.4467,
+                0.4999
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0571,
+                0,
+                0.6936,
+                0.3,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3086,
+                0.3561,
+                0.6394,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

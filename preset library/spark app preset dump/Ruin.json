@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "576FD61BDD3B8E0E0041ADA0",
+    "Name": "R u in",
+    "Version": "0.7",
+    "Description": "Just merging from 2 device.. Dnt mind this",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7929,
+                0.8577,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "Sansamp",
+            "IsOn": false,
+            "Parameters": [
+                0.5001,
+                0.6,
+                0.6,
+                0.6,
+                0.6,
+                0.4
+            ]
+        },
+        {
+            "Name": "MuTron",
+            "IsOn": false,
+            "Parameters": [
+                0.3,
+                0.5,
+                0.5,
+                0.4,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.5279,
+                0.622,
+                0.4866
+            ]
+        },
+        {
+            "Name": "SVT",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5,
+                0.5,
+                0.5,
+                0.7,
+                0.6,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.5713,
+                0.3268,
+                0.6713,
+                0.8184,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

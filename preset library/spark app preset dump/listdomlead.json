@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51F4FE0308493B001B000001",
+    "Name": "list do m lead",
+    "Version": "0.7",
+    "Description": "Apogee jam min gain. Both humbuckers, bridge full on neck vol and tone rolled off a bit. First solo can be played on neck pickup, second on both, last solo add boost pedal.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.6
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.8422,
+                0.1465,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Bogner",
+            "IsOn": true,
+            "Parameters": [
+                0.395,
+                0.8035,
+                0.6152,
+                0.567,
+                1,
+                0.9041,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4898,
+                0.3692,
+                0.2138,
+                0
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.3312,
+                0,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6619,
+                0.3619,
+                0.2333,
+                0.5429,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

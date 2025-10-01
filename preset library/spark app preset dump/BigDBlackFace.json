@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521D52C29D00A2000E000002",
+    "Name": "Big D Black Face",
+    "Version": "0.7",
+    "Description": "Fender Black Duo Clean",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.0625,
+                0.8161,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.1398,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.2957,
+                0.8029,
+                0.6,
+                0.5237,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6485,
+                0.5226,
+                0.6217,
+                0.7683,
+                0.7857
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0751,
+                0.1384,
+                0.5512,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1539,
+                0.627,
+                0,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

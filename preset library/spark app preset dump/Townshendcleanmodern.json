@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53AE03C6166B390010000000",
+    "Name": "Townshend clean modern",
+    "Version": "0.7",
+    "Description": "T",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4723,
+                0.489,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.7959,
+                0.949,
+                0,
+                0.2577
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.6561,
+                0.6904
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": false,
+            "Parameters": [
+                0.6279,
+                0.1987,
+                0.6
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.0176,
+                0.3927,
+                0.3406,
+                0.6,
+                0.2868
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2549,
+                0.7578,
+                0.2875,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

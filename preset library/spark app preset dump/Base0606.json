@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5B19420C975F790013170291",
+    "Name": "Base 0606",
+    "Version": "0.7",
+    "Description": "X",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.0559,
+                0.16,
+                0
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": false,
+            "Parameters": [
+                0.5023,
+                0.3349,
+                0.4819,
+                0.4992
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.6276,
+                0.8398
+            ]
+        },
+        {
+            "Name": "SVT",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.5,
+                0,
+                0.4212,
+                0.6,
+                0.4,
+                0.518
+            ]
+        },
+        {
+            "Name": "AcousticEQ",
+            "IsOn": false,
+            "Parameters": [
+                0.5002,
+                0.4986,
+                0.5001,
+                0.5838,
+                0.5,
+                0.4996,
+                0.5
+            ]
+        },
+        {
+            "Name": "TrebleBooster",
+            "IsOn": false,
+            "Parameters": [
+                0.7839
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.4999,
+                0.0064
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

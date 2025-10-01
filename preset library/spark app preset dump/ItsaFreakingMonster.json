@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "50E0A26675185F0016000003",
+    "Name": "It's a Freaking Monster",
+    "Version": "0.7",
+    "Description": "My Nuno tone trying to match early Nuno with ADAMP1 and some boost. Using  5153 and I tame the stupid mid range honk in every amp by using the reverb , check it out.  I used a spectral analysis for just a  guitar track then  mixed and matched until I found a matching tone graphically and by ear, finally got rid of the nasally midrange by using the reverb tone and it works!  New update:10/11/14 I wanted to make it very responsive, this has a good amount of gain, basically the harder you hit the strings, the more it opens up, combine it with the volume to get even more control. And I like to keep it simple, 5153 and reverb that's it. I just use the reverb for tone and little fx. ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Overdrive",
+            "IsOn": false,
+            "Parameters": [
+                0.4043,
+                1,
+                0.6127
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.4375,
+                0.4948,
+                0.3516,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.5605,
+                0.5002,
+                0.5293,
+                0.6045,
+                0.4984,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.0109,
+                0,
+                0,
+                0.3
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2715,
+                0,
+                1,
+                0.5159
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.092,
+                0.2454,
+                0.0547,
+                0.7,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

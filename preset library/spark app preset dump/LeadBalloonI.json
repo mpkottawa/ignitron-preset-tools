@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5E0CD8AB2B36A300FE666B96",
+    "Name": "Lead Balloon I",
+    "Version": "0.7",
+    "Description": "Inspired by the tones found on Led Zeppelin I",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.0708,
+                0.4498,
+                0
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": false,
+            "Parameters": [
+                0.67
+            ]
+        },
+        {
+            "Name": "UniVibe",
+            "IsOn": true,
+            "Parameters": [
+                0.1579,
+                1,
+                0.7657,
+                1,
+                0.8
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": false,
+            "Parameters": [
+                0.5817,
+                0.5213
+            ]
+        },
+        {
+            "Name": "RolandJC120",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.6,
+                0.5576,
+                0.7362,
+                0.5076
+            ]
+        },
+        {
+            "Name": "DelayMultiHead",
+            "IsOn": false,
+            "Parameters": [
+                0.3214,
+                0.2398,
+                0.6,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1471,
+                0.5007,
+                0.2318,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

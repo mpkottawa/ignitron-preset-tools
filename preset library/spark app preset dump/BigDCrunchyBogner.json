@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52238F30CFB9E20019000002",
+    "Name": "Big D Crunchy Bogner",
+    "Version": "0.7",
+    "Description": "Fat Crunchy broken up fuzzy tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.8187
+            ]
+        },
+        {
+            "Name": "Bogner",
+            "IsOn": true,
+            "Parameters": [
+                0.8958,
+                0.5096,
+                0.625,
+                0.7228,
+                1,
+                0.4775,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6676,
+                0.4361,
+                0.6469,
+                0.5995,
+                0.3147
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.264,
+                0.2432,
+                0.2654,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": false,
+            "Parameters": [
+                0.2881,
+                0.8555,
+                0.8543
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.0698,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

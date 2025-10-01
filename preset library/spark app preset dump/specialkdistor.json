@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5431DEAB733D740010000004",
+    "Name": "special k distor",
+    "Version": "0.7",
+    "Description": "Abisal",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4867,
+                0.2075,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6618,
+                0.4505
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.4763,
+                0.8463,
+                0.4,
+                0.6901,
+                0.9062,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5857,
+                0.5476,
+                0.6571,
+                0.4524,
+                0.5
+            ]
+        },
+        {
+            "Name": "Leslie01",
+            "IsOn": true,
+            "Parameters": [
+                0.7188,
+                0.3897,
+                0.6,
+                0.8
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.4,
+                0.4,
+                0
+            ]
+        },
+        {
+            "Name": "DelayEchoFilt",
+            "IsOn": true,
+            "Parameters": [
+                0.5317,
+                0.6,
+                0.4161,
+                0.3543,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

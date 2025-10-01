@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "529E26B19AD0500012000000",
+    "Name": "Jr Clean",
+    "Version": "0.7",
+    "Description": "C",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.2983,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.2545,
+                0.5171,
+                0.817,
+                0.6521,
+                0.9196
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6032,
+                0.8593,
+                0.4202,
+                0.5887,
+                0.65,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.6094
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

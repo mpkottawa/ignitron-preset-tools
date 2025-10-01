@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "518BBC9FF043AE0015000000",
+    "Name": "JG CL N",
+    "Version": "0.7",
+    "Description": "Clean LP",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.8437,
+                0.0859,
+                1,
+                0.8
+            ]
+        },
+        {
+            "Name": "PowerAmp",
+            "IsOn": true,
+            "Parameters": [
+                0.6355,
+                0.4,
+                0,
+                0.4879,
+                0.7348
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4574,
+                0.4619,
+                0.4152,
+                0.5429,
+                0.6364
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.23,
+                0,
+                0.75,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3123,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

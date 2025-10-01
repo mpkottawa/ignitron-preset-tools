@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57073D72536D9F0F017F793A",
+    "Name": "Y ghhffbjk\uff0cn",
+    "Version": "0.7",
+    "Description": "Y ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4953,
+                0.4915,
+                0.5
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6656,
+                0.2591,
+                0.2737,
+                0.2452,
+                0.2127,
+                0.5,
+                0.2414
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.5
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": true,
+            "Parameters": [
+                0.2982,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "Bogner",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.7,
+                0.3,
+                0.8206,
+                0.7021,
+                0.5992,
+                0
+            ]
+        },
+        {
+            "Name": "UniVibe",
+            "IsOn": true,
+            "Parameters": [
+                0.1,
+                0,
+                0.1023,
+                1,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2506,
+                0.2442,
+                0.5826,
+                0.7,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

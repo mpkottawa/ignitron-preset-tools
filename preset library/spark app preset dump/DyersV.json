@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57DCCC99ACD8360F00A42BCE",
+    "Name": "Dyers \"V\"",
+    "Version": "0.7",
+    "Description": "Scooped @800 ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1588,
+                0.3052,
+                0.5
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": true,
+            "Parameters": [
+                0.0938,
+                0.0029,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6891,
+                0.4895,
+                0.5036,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6391,
+                0.4196,
+                0.6578,
+                0.5528,
+                0.7,
+                0.6434,
+                1
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.8912,
+                0.0728,
+                0.175,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6813,
+                0.2221,
+                0.4667,
+                0.6672,
+                0.4526,
+                0.5998,
+                0.5162
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.6203
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

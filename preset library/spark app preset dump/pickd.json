@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "523E4B47851284000D000000",
+    "Name": "pick d",
+    "Version": "0.7",
+    "Description": "Andr\u00e9s Mari\u00f1e 1.0",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.6
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6028,
+                0.3936,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.8137,
+                0.7,
+                0.5092,
+                0.8513,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6095,
+                0.4286,
+                0.5762,
+                0.5429,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.05,
+                0.6057,
+                0.3111,
+                0.3
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.6335,
+                0.6775,
+                0,
+                0.75,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

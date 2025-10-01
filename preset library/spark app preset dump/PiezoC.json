@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5DC88C7A6E6AEC0016AF9722",
+    "Name": "Piezo C",
+    "Version": "0.7",
+    "Description": "9-11-19",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.0054,
+                0.0168,
+                0.5
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.5578,
+                0.405,
+                0.2845,
+                0.6
+            ]
+        },
+        {
+            "Name": "AcousticImg",
+            "IsOn": true,
+            "Parameters": [
+                0.5651,
+                0.004,
+                0,
+                0.7064,
+                0.4,
+                0.581,
+                0.004
+            ]
+        },
+        {
+            "Name": "AcousticEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.4094,
+                0.5,
+                0.5,
+                0.6708,
+                0.8419,
+                0.3744,
+                0.7026
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2502,
+                0.6922,
+                0.4344,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3871,
+                0.2958,
+                0.6,
+                0.7314,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.7105,
+                0.6,
+                0.3,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

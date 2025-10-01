@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "6559ECBFE15D704166DBAD9F",
+    "Name": "Vv",
+    "Version": "0.7",
+    "Description": "G",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.8723,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6279,
+                0.5
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.6,
+                0.4,
+                0.6,
+                0.7,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1266,
+                0.5082,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4933,
+                0.5,
+                0.5134,
+                0.3393,
+                0.5
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": false,
+            "Parameters": [
+                0.2092,
+                0.2842,
+                0.4702,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

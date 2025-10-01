@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51F5BC2FF16FFF0022000002",
+    "Name": "Dr. Z SEMI CLEAN",
+    "Version": "0.7",
+    "Description": "Dr. Z SEMI CLEAN",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4912,
+                0.4985,
+                0.5
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.4,
+                0.4,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5129,
+                0.3377,
+                0.662,
+                0.4902,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.7094,
+                0.5537,
+                0.5742,
+                1
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.6,
+                0.6124,
+                0.7504,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3181,
+                0.3278,
+                0.5085,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

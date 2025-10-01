@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5E29DAF7ABD1A300169DFD10",
+    "Name": "Clean Kick Off L",
+    "Version": "0.7",
+    "Description": "16/06/2020",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.375,
+                0.3287,
+                0
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": false,
+            "Parameters": [
+                0.4938,
+                0.4238,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.1971,
+                0.7,
+                0.3,
+                0.6125,
+                0.7375,
+                0.4979,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6647,
+                0.615,
+                0.5209,
+                0.6777,
+                0.501
+            ]
+        },
+        {
+            "Name": "Cloner",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.7357,
+                0.6,
+                0.6,
+                1,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1176,
+                0.5,
+                0.5,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

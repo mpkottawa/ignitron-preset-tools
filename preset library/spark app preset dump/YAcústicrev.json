@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57073DFD8DE53C0E000044C6",
+    "Name": "Y Ac\u00fastic rev",
+    "Version": "0.7",
+    "Description": "Y ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.655,
+                0.6407,
+                0.5
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5635,
+                0.6249,
+                0
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "AcousticPro",
+            "IsOn": true,
+            "Parameters": [
+                0.7969,
+                0.4919,
+                0.463,
+                0.1778,
+                0.4268,
+                0.002
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.5688,
+                0.572,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0958,
+                0.3125,
+                0.6713,
+                0.8184,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.1992,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

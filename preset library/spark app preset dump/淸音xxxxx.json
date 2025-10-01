@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5BDC5C5AC02C230012FDB421",
+    "Name": "\u6df8\u97f3x\u2006x\u2006x\u2006x\u2006x",
+    "Version": "0.7",
+    "Description": "Xcw",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3776,
+                0.9961,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.5376,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.5398,
+                0.7411,
+                1,
+                0.5851,
+                0.6202,
+                0.8687,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6514,
+                0.223,
+                0.1997,
+                1,
+                0.3223
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.7
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3992,
+                0.5052,
+                0.1469,
+                0.5009,
+                1
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.1,
+                0.6,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

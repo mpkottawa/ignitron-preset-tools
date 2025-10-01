@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52ABE2267E5A010009000006",
+    "Name": "Classic 80's Metal",
+    "Version": "0.7",
+    "Description": "That classic overdriven distortion tone from the 80's. ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.3475,
+                0.5785,
+                0.3021,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.3,
+                0.7,
+                0.7,
+                0.6142,
+                0
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.7266,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0,
+                0.75,
+                1
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.5
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53D9212B0B0CB30010000000",
+    "Name": "Marc C. Shimmer mod",
+    "Version": "0.7",
+    "Description": "Shimmery - uses Cloner and Delay/Echo from Expansion packs.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.249,
+                0.0879,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.2949,
+                0.5
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4,
+                0.8,
+                0.4398,
+                0.5492,
+                0.3824
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3279,
+                0.4292,
+                0.6017,
+                0.4219,
+                0.5804
+            ]
+        },
+        {
+            "Name": "DelayEchoFilt",
+            "IsOn": true,
+            "Parameters": [
+                0.5703,
+                0.6,
+                0.3226,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "Cloner",
+            "IsOn": true,
+            "Parameters": [
+                0.1004,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.249,
+                0.8121,
+                0.834,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

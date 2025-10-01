@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5D6E8E6E523C1700164459E6",
+    "Name": "Drop C Matt",
+    "Version": "0.7",
+    "Description": "Matt",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Whammy",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                1,
+                0,
+                0.4082,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                0.3976
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6484,
+                0.0569,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.281,
+                0.3344,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.3281,
+                0.6142,
+                0.3992,
+                0,
+                0.5776,
+                0.935,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.3534,
+                0.8298,
+                0.678,
+                0.4738
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.0435,
+                0.627,
+                0.3399,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

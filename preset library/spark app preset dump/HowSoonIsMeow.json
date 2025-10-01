@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "6245f3d8-c5e4-4242-96ef-75cff09cb6b9",
+    "Name": "How Soon Is Meow",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7018,
+                0.3776,
+                1
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.7111,
+                0.3611
+            ]
+        },
+        {
+            "Name": "GuitarMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.51,
+                0.5,
+                0.75
+            ]
+        },
+        {
+            "Name": "OverDrivenLuxVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2349,
+                0.4314,
+                0.284,
+                0.7358,
+                0.8264
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.4541,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": true,
+            "Parameters": [
+                0.5884,
+                0.5335,
+                0.4728,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.9141,
+                0.2802,
+                0.3847,
+                0.6643,
+                0.231,
+                0.4585,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

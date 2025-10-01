@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "544EE15EF4D29D0011000014",
+    "Name": "80's metal",
+    "Version": "0.7",
+    "Description": "True metal sound of '80",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.644,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.7254,
+                0.5828,
+                0.4719,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.6046,
+                0.5902,
+                0.5824,
+                0.5629,
+                0.518,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6467,
+                0.7589,
+                0.7902,
+                0.7545,
+                0.8125
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.2504,
+                0.3551,
+                0.475
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.4355,
+                0.5636,
+                0.6913,
+                0.4988,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3792,
+                0.6289,
+                0.3635,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53C9260BE62F18001A000000",
+    "Name": "Marshall 80's mid",
+    "Version": "0.7",
+    "Description": "Marshall 80's mid",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5129,
+                0.6658,
+                0.662,
+                0.4809,
+                0.4866
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": true,
+            "Parameters": [
+                0.2637,
+                0.2127,
+                0.5
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.4046,
+                0.4101,
+                0.7444,
+                0.9956,
+                0.6521,
+                0.8242,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1738,
+                0.1941,
+                0.7321,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

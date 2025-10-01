@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "58DA0A284C9DEC0099BAA9E8",
+    "Name": "AMJ AC 30 w delay",
+    "Version": "0.7",
+    "Description": "AC 30 w delay",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1875,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": false,
+            "Parameters": [
+                0.6082,
+                0.6,
+                0.348
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.7078,
+                0.65,
+                0.45,
+                0.6814,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3301,
+                0.2004,
+                0.6659,
+                0.5703,
+                1
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.1,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6928,
+                0.567,
+                0.4955,
+                0.5536,
+                0.2825
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

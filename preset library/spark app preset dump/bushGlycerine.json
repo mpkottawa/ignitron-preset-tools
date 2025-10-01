@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "d2f06ab8-270e-4db4-9f5d-17c23023a055",
+    "Name": "bush Glycerine",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1162,
+                0.0606,
+                1
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6038,
+                0.5516,
+                0.5471,
+                0.6106
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4805
+            ]
+        },
+        {
+            "Name": "OverDrivenLuxVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.0792,
+                1,
+                0.275,
+                0.3762,
+                1
+            ]
+        },
+        {
+            "Name": "GuitarEQ6",
+            "IsOn": true,
+            "Parameters": [
+                0.7137,
+                0.4512,
+                0.5066,
+                0.3074,
+                0.2137,
+                0.6649,
+                0.8047
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.0929,
+                0.1652,
+                0.5093,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2857,
+                0.4084,
+                0.2895,
+                0.3883,
+                0.5821,
+                0.65,
+                0.2,
+                1
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

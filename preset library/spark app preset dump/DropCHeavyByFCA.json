@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "576F697ADFEC820E00EFFA67",
+    "Name": "Drop C Heavy ! By FCA!",
+    "Version": "0.7",
+    "Description": "! By FCA!",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1125,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.7137,
+                1,
+                0.7471,
+                1
+            ]
+        },
+        {
+            "Name": "JCM900",
+            "IsOn": true,
+            "Parameters": [
+                0.8363,
+                0.6949,
+                0.0635,
+                0.2388,
+                0.8755,
+                0.7287
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.105,
+                0.6945,
+                0.7491,
+                0.7259,
+                0.5091
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0686,
+                0.306,
+                0.5255,
+                0.4981,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3763,
+                0.4732,
+                0.5537,
+                0.7
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

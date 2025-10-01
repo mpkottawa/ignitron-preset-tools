@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5D69960A5DA0860016FEE417",
+    "Name": "Fender bass w/lim reverb chorus ",
+    "Version": "0.7",
+    "Description": "Fender bass w/lim reverb chorus ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5151,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "SuperBassman",
+            "IsOn": true,
+            "Parameters": [
+                0.5363,
+                0.6947,
+                0.6,
+                0.4,
+                0.4,
+                0.4139,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6969,
+                0.3649
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0.8,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.9348,
+                0.674,
+                0.5,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0,
+                0.3635,
+                0.3691
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

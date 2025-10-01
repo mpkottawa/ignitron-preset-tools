@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52239A623FAFFF0013000000",
+    "Name": "Big D Maiden",
+    "Version": "0.7",
+    "Description": "Classic Marshall",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5071,
+                0.5944,
+                0.7041,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.6949,
+                0.6,
+                0.3,
+                0.6,
+                0.518,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5296,
+                0.6765,
+                0.6583,
+                0.5705,
+                0.3817
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.1113,
+                0.0618,
+                0.6659,
+                0.4921,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.0992,
+                0.6289,
+                0.1653,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

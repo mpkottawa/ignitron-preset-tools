@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56B7D04B4C33660E00E3CD31",
+    "Name": "Clean L",
+    "Version": "0.7",
+    "Description": "M-C-L",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6397,
+                0.5491,
+                0.5354,
+                0.5248
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.4929,
+                0.7758,
+                0.5225,
+                0.6739,
+                0.8379,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.2461,
+                0.0055,
+                0.35
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.8266,
+                0.3806,
+                0.6817,
+                0.5832,
+                0.6266,
+                0.7431,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2417,
+                0.1341,
+                0.6,
+                0.7584,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

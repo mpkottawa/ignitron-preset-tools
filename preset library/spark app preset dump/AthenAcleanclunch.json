@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57492548C925E80E00E186B0",
+    "Name": "AthenA clean/clunch",
+    "Version": "0.7",
+    "Description": "A",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.48,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.2749,
+                0.5426,
+                0.7634,
+                0.6215,
+                0.9196
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.6
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": false,
+            "Parameters": [
+                0.8411,
+                0.6587,
+                0.2793
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.5606,
+                0.5102,
+                0.521,
+                0.374,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2379,
+                0.7925,
+                0.1225,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

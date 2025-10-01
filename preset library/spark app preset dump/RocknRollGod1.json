@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5FB9AFF32E9E3500164AC75E",
+    "Name": "Rock n Roll God 1",
+    "Version": "0.7",
+    "Description": "Hard Rock Distortion for Single-Coils",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3436,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "SABdriver",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.6,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "DrZ",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.6,
+                0.667
+            ]
+        },
+        {
+            "Name": "Leslie01",
+            "IsOn": true,
+            "Parameters": [
+                0.25,
+                0.2524,
+                0.6,
+                0.8
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.5688,
+                0.572,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.0958,
+                0.3125,
+                0.6713,
+                0.4175,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1355,
+                0.5,
+                0.1242,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

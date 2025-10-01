@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "50090915D3D4DA0015000000",
+    "Name": "JM (PhD Z Route 66 Amp)",
+    "Version": "0.7",
+    "Description": "Another attempt at a John Mayer sound with an awesome Dr Z Amp. Same as the other preset I made but this amp I feel has better touch response and clean lyrical tone while giving a little edge just with high gain w/o drive pedals..Adjust levels accordingly to your setup.  Hope you like it.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.3,
+                0.3,
+                0.5
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.2174,
+                0.4129,
+                0.5008
+            ]
+        },
+        {
+            "Name": "DrZ",
+            "IsOn": true,
+            "Parameters": [
+                0.2612,
+                0.2812,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2448,
+                0.2489,
+                0.4754,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.1925,
+                0.1678,
+                0.0688,
+                0.3215,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.9354,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.1955,
+                0.2727,
+                0.5286,
+                0.3143,
+                0.6905
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "531C83484F6D540012000001",
+    "Name": "J Coritos Crunch",
+    "Version": "0.7",
+    "Description": "light distortion ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.1176,
+                0.85
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.3563,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.8672,
+                0.5676,
+                0.6,
+                0.8,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.487,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6531,
+                0.5051,
+                0.4107,
+                0.6562,
+                0.6436
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": true,
+            "Parameters": [
+                0.1058,
+                0.214,
+                0.3652
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

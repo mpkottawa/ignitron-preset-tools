@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5BC27FA6B0EF9000122E3D18",
+    "Name": "Delay a 320",
+    "Version": "0.7",
+    "Description": "Delay320Iglesia",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.1938,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.5,
+                0.7873
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5829,
+                0.3446,
+                0.8238,
+                0.6907,
+                0.5
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.5637,
+                0.5734,
+                0.6003,
+                0.2144,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.4426,
+                1,
+                0.5,
+                0.4385,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1655,
+                0.5,
+                0.4968,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,77 @@
+{
+    "PresetNumber": 127,
+    "UUID": "523BFAB9AC646A0011000000",
+    "Name": "Dirty Dr. Z",
+    "Version": "0.7",
+    "Description": "naytmayer",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.7191,
+                0.6,
+                0.25,
+                0.25,
+                0.6,
+                0.6605
+            ]
+        },
+        {
+            "Name": "DrZ",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.6,
+                0.8712
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": false,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3011,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.4773,
+                0.4316,
+                0.1834,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.6411,
+                0.7559,
+                0.4194,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

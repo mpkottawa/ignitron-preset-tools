@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57E93839C654660F002E4777",
+    "Name": "B-15",
+    "Version": "0.7",
+    "Description": "test",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.2027,
+                0.2027,
+                0
+            ]
+        },
+        {
+            "Name": "Sansamp",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.3969,
+                0.6,
+                0.6,
+                0.4
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.4399,
+                0.1955,
+                0.2014,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "B15",
+            "IsOn": true,
+            "Parameters": [
+                0.405,
+                0.696,
+                0.4969,
+                1
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.5029,
+                0.2993,
+                0.3021,
+                0.1011,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

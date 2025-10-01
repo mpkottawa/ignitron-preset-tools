@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52887005B989C50010000000",
+    "Name": "Maybe i'm a leo dm giu",
+    "Version": "0.7",
+    "Description": "hr",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.864,
+                1
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.9889,
+                0.5804,
+                0.5023,
+                0.5024,
+                0.2472,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.683,
+                1,
+                0.7589,
+                0.1205,
+                0.3348
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1743,
+                0.6057,
+                0.3111,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.8967,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.1016,
+                0.208,
+                0.3456
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

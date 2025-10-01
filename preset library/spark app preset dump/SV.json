@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54132990119B31000E000006",
+    "Name": "S V",
+    "Version": "0.7",
+    "Description": "Bau",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.8682,
+                0.2931,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.8535,
+                0.5712,
+                0.5829,
+                0.1387,
+                0.2361,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4809,
+                0.5848,
+                0.5246,
+                0.5089,
+                0.5628
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1595,
+                0.7606,
+                0.1653,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2484,
+                0.2081,
+                0.6047,
+                0.5905,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2826,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

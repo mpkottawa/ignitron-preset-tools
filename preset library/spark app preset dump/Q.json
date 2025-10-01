@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "58C21482AE42D2078B4D62A1",
+    "Name": "Q",
+    "Version": "0.7",
+    "Description": "Q",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4501,
+                0.2065,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2599,
+                0.6172,
+                0.948,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6312,
+                0.4923,
+                0.7,
+                0.7,
+                0.6249,
+                1
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": true,
+            "Parameters": [
+                0.4188
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1898,
+                0.5,
+                0.5,
+                0.3
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.1176,
+                0.5,
+                0.5,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.8559,
+                0.0141,
+                0.1892,
+                0.6,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

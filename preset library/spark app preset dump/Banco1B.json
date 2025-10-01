@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "59FDD0F2C8A6D40391266ABE",
+    "Name": "Banco 1 B",
+    "Version": "0.7",
+    "Description": "Testedetroca",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3297,
+                0.3503,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.681,
+                0.9094,
+                0.6575
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.6163,
+                0.6282,
+                0.3973,
+                0.3567,
+                0.6765,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6825,
+                0.4517,
+                0.4801,
+                0.6508,
+                0.6664
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.3478,
+                0.3421,
+                0.5721,
+                0.7378
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.5121,
+                0.5983,
+                0.31,
+                0.2807,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.4211,
+                0.6,
+                0.3,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

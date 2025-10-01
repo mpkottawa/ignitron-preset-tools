@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "533819B7006FBF001C000002",
+    "Name": "JG S DLY N AWAH",
+    "Version": "0.7",
+    "Description": "Just The Amp drive",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.2611,
+                1,
+                0.481,
+                0.8993,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.5246,
+                0,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6774,
+                0.1597,
+                0.6421,
+                0.5032,
+                0.7077,
+                0.3718,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5141,
+                0.6604,
+                0.7444,
+                0.5309,
+                0.5
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.0763,
+                0.0556,
+                0.4984,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.2318,
+                0.0508,
+                0.752,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

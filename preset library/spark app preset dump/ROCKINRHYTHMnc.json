@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52AA550B2349020019000001",
+    "Name": "ROCKIN' RHYTHM  n/c",
+    "Version": "0.7",
+    "Description": "Mesa Boogie Mark V para tocar con un ampli. no hay emulaci\u00f3n de cabina",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.8723,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.7142,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2061,
+                0.163,
+                0.6339,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.5033,
+                0.6845,
+                0.7827,
+                0.5134,
+                0.8056,
+                0.5067,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5446,
+                0.5312,
+                0.3661,
+                0.6429,
+                0.5312
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.7991,
+                0.7768,
+                0.2098,
+                0.7054,
+                0.4732
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": false,
+            "Parameters": [
+                0.1378,
+                0.1441,
+                0.2377,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

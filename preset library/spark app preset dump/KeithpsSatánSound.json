@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5F7C910725C90D001654508A",
+    "Name": "Keith p,s Sat\u00e1n Sound",
+    "Version": "0.7",
+    "Description": "Death Metal",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5026,
+                0.5023,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.5969,
+                0.6,
+                0.6,
+                0.4511,
+                0.7,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": false,
+            "Parameters": [
+                0.55,
+                0.625,
+                0.9281,
+                0.6062,
+                0.6,
+                0.5564,
+                0.4879
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.3031,
+                0.2969,
+                0.1844,
+                0.7112,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2458,
+                0.6,
+                0.3,
+                0.4
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "61CCB988A1AF4B0017C1964B",
+    "Name": "Clean w reverb",
+    "Version": "0.7",
+    "Description": "My jam",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.6055,
+                0.5684,
+                0.4391
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.1605,
+                0.5583,
+                0.155
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1555,
+                0.0137,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.6291,
+                0.3462,
+                0.166,
+                0.9166
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5745,
+                0.5082
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4773,
+                0.3208,
+                0.4
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.3823,
+                0.2606,
+                0.9545,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

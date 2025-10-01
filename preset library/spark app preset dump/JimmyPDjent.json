@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "568083EA68BBC40E00C8D384",
+    "Name": "Jimmy P. Djent",
+    "Version": "0.7",
+    "Description": "Captain Crunch",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.4066,
+                0.6994
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6436,
+                1,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.75,
+                0.4997,
+                1
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.9047,
+                0.6813,
+                0.8167,
+                0.8242,
+                0.35,
+                0.7397,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6862,
+                0.3087,
+                0.676,
+                0.6122,
+                0.6888
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6469,
+                0.5983,
+                0.8793,
+                0.3487,
+                0.3983,
+                0.6204,
+                0.502
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

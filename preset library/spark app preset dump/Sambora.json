@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5CEC8E76CFE9CD0014CB7846",
+    "Name": "Sambora",
+    "Version": "0.7",
+    "Description": "R",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6124,
+                0.6289
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.9096,
+                0.686,
+                0.6196,
+                0.2894,
+                0.5
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4991,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.475,
+                0.7034,
+                0.5706,
+                0.4736,
+                0.7682,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.0323,
+                0,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2175,
+                0.3248,
+                0.5564,
+                0.2341,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.4948,
+                0.363,
+                0.3165,
+                0.5175,
+                0.5258
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

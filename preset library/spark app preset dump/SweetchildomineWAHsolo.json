@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "58D63CEE8609120010AD617A",
+    "Name": "Sweet child o mine WAH solo",
+    "Version": "0.7",
+    "Description": "https://youtu.be/7fXkB9_V9YI",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.394,
+                0.6625,
+                0.7638,
+                1
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.3217,
+                0.4732
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.625
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.3484,
+                0.7478,
+                0.4056,
+                0.7901,
+                0
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.7726,
+                0.7504,
+                0.45,
+                0.6521,
+                0.7514,
+                0.7064,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6244,
+                0.6633,
+                0.5148,
+                0.4908,
+                0.5311
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2289,
+                0.6544,
+                0.2,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

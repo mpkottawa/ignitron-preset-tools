@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56B7D08B4C33660E00E3CD32",
+    "Name": "Metal L",
+    "Version": "0.7",
+    "Description": "M-M-L",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.48,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.8307,
+                0.7683,
+                0.4455,
+                0.8982,
+                0.6368,
+                0.7842,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.3853,
+                0.3522,
+                0.4
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.6644,
+                0.6404,
+                0.6953,
+                0.5,
+                0.4116
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.8967,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

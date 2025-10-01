@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "564F2260DD3BDB0E0086F41A",
+    "Name": "Zep I and II",
+    "Version": "0.7",
+    "Description": "A good approximation of JP's sound on the first two Led Zeppelin albums.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "Deluxe65",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5054,
+                0.497,
+                0.4994,
+                0.5025,
+                0.6031
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.5308,
+                0.2783,
+                0.1036,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.6545,
+                0.3417,
+                0,
+                0.2581,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

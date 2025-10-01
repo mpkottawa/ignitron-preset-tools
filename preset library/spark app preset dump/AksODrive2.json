@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5BC9A8340B391D0012CEDC22",
+    "Name": "Aks. O. Drive 2",
+    "Version": "0.7",
+    "Description": "Bekir baglama drive II",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8152,
+                0.8724
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.291,
+                0.7788,
+                0.6183
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6875,
+                0.3691,
+                0.3251
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5878,
+                0.5353,
+                0.8956,
+                1,
+                0.5967
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.5944,
+                1,
+                0.4083,
+                0.4
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.3516,
+                0.5056,
+                0.4849,
+                0.3257,
+                0.6418,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53096A227FB7DF000B000002",
+    "Name": "J Coldplay ",
+    "Version": "0.7",
+    "Description": "Pure clean & sweet AC 30 Top Boost Bill Johnson",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.8708,
+                0.7374,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.5691,
+                0.2286,
+                0.6,
+                0.4739,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.368,
+                0.5606,
+                0.6,
+                0.5227,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3478,
+                0.4974,
+                0.6343,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4159,
+                0.3318,
+                0.5762,
+                0.5429,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

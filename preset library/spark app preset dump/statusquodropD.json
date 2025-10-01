@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5A41235816D88D001375A08D",
+    "Name": "status quo drop D",
+    "Version": "0.7",
+    "Description": "Status quo sound H6",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5079,
+                0.3235,
+                0.3886,
+                0.2558
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6606,
+                0.4031,
+                0.1936
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.9819,
+                0.2212,
+                0.3359,
+                0.9847,
+                0.9217,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5331,
+                0.5952,
+                0.6414,
+                0.6609,
+                0.5519
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0388,
+                0.2495,
+                0.5492,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1902,
+                0.702,
+                0.278,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

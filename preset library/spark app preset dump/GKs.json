@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54C684EF55F06E001800000E",
+    "Name": "GK s",
+    "Version": "0.7",
+    "Description": "YDBM",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.3788,
+                0.3543
+            ]
+        },
+        {
+            "Name": "RedHead",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                1,
+                0.4739,
+                0.3204,
+                0.5308,
+                0.4,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.4895,
+                0.4643,
+                0.5402,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.2042,
+                0,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

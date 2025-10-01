@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51E1954D48AAE90009000008",
+    "Name": "w",
+    "Version": "0.7",
+    "Description": "w",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.3289,
+                0.35
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.4599,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.9643,
+                0.1002,
+                0.5072
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.5589,
+                0.3851,
+                0.3303,
+                0.6395
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.6891,
+                0.7529,
+                0.4549,
+                0.5634,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2388,
+                0.1974,
+                0.0042,
+                0.4
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0562,
+                0.0853,
+                0.6533,
+                0.7,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

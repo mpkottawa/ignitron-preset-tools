@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5AC86E389244D6001392262A",
+    "Name": "Bridge-L&Lamb",
+    "Version": "0.7",
+    "Description": "Nazzpppp",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3915,
+                0.5843,
+                0.545,
+                0.3877,
+                0.583
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.5117,
+                0,
+                0.2398
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3575,
+                0.4158,
+                0.8042,
+                0.7569,
+                1
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.55,
+                0.4412,
+                0.45,
+                0.4906,
+                0.7,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.0809,
+                0,
+                1,
+                0.1519
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.6855,
+                1,
+                0.6351,
+                0.479,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3208,
+                0.4062,
+                0.4941,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "537832FAEA47E40019000002",
+    "Name": "Driven Bass w/Chorus",
+    "Version": "0.7",
+    "Description": "Metal tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Sansamp",
+            "IsOn": true,
+            "Parameters": [
+                0.7481,
+                0.3661,
+                0.3022,
+                0.7004,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "OrangeAD200",
+            "IsOn": true,
+            "Parameters": [
+                0.6669,
+                0.8335,
+                0.3665,
+                0.5701,
+                0.8007
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4091,
+                0.0955,
+                0.1045,
+                0.5455,
+                0.4545
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8292,
+                0.7426
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": true,
+            "Parameters": [
+                0.6595,
+                0.5516
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.6144,
+                0.2,
+                0.6225,
+                0.6439
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.9982,
+                0.3252,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

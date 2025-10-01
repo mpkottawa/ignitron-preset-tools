@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "574BB754343EDF0E000DFCD6",
+    "Name": "AthenA5150",
+    "Version": "0.7",
+    "Description": "A",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": false,
+            "Parameters": [
+                0.2489,
+                0.3478,
+                0.35
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3489,
+                0.4763,
+                0.5415,
+                0.3842,
+                0.5038
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.5373
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.1274,
+                0.581,
+                0.811,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.3006,
+                0.4097,
+                0.8154,
+                0.6116,
+                0.6685,
+                0.5646,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.0965,
+                0.4172,
+                0.2651,
+                0.345,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,78 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5B78ECAD45155800133D0111",
+    "Name": "Perla D",
+    "Version": "0.7",
+    "Description": "Rock",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2513,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": false,
+            "Parameters": [
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.3053,
+                0.3081
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4461,
+                0.5021,
+                0.1961,
+                0.5005,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6988,
+                0.4998
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3992,
+                0.0772,
+                0,
+                0.0556,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.681,
+                0.0992
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

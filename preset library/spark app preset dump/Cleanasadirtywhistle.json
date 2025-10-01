@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5FD0FE8F9FF8600016614687",
+    "Name": " Clean as a dirty whistle",
+    "Version": "0.7",
+    "Description": "Caadw",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.0813,
+                0.5154,
+                0.5
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": true,
+            "Parameters": [
+                0.6552,
+                0.3809
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.3,
+                0.6,
+                0.518,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5769,
+                0.456,
+                0.4093,
+                0.8934,
+                0.5759
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2613,
+                0.2535,
+                0.5222,
+                0.8659,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2974,
+                0.6289,
+                0.1653,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

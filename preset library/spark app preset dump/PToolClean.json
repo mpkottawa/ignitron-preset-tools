@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53D553AFC29A2B000D000000",
+    "Name": "P: Tool Clean",
+    "Version": "0.7",
+    "Description": "Tool's trippy clean tones. Use neck pickup.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1246,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5538,
+                0.4938,
+                0.628,
+                1
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.378,
+                0.7201,
+                0.6291,
+                0.4974,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.088,
+                0.4854,
+                0.2457,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4683,
+                0.5007,
+                0.5143,
+                0.2513,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.2941,
+                0.4977
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5574C4A5FAB48A0012000005",
+    "Name": "Deep P",
+    "Version": "0.7",
+    "Description": "Deep Rom",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.218,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.684,
+                0.6895,
+                0.6904,
+                1
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.5898,
+                0.48,
+                0.1547,
+                0.692
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.4319,
+                0.4,
+                0.2583,
+                0.7617,
+                0.7,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6193,
+                0.6027,
+                0.75,
+                0.8527,
+                0.6735
+            ]
+        },
+        {
+            "Name": "DelayMultiHead",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0.63,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

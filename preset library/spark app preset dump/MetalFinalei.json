@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5507EA92B7F95D0017000004",
+    "Name": "Metal Finale i",
+    "Version": "0.7",
+    "Description": "Metal Sound for elody flute ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.5468,
+                0
+            ]
+        },
+        {
+            "Name": "SABdriver",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.87,
+                0
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": true,
+            "Parameters": [
+                0
+            ]
+        },
+        {
+            "Name": "BassOctaveEBS",
+            "IsOn": true,
+            "Parameters": [
+                0.4759,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Whammy",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0.455,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.6,
+                0.5325,
+                0.5174,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.6,
+                0.2,
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

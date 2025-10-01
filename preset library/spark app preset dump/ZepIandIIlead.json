@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "564F226FC854540E0055FD5D",
+    "Name": "Zep I and II - lead",
+    "Version": "0.7",
+    "Description": "A good approximation of JP's sound on the first two Led Zeppelin albums.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.3335,
+                0.4845,
+                0.7143
+            ]
+        },
+        {
+            "Name": "Deluxe65",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.5308,
+                0.2783,
+                0.1036,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.6545,
+                0.3417,
+                0,
+                0.2581,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

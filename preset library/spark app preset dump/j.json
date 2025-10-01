@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "532C8DB9FED8B90012000000",
+    "Name": "j",
+    "Version": "0.7",
+    "Description": "?",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.35
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8247,
+                0.5047
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.3779,
+                0.5682,
+                0.6924,
+                0.6826,
+                0.5,
+                0.7207,
+                0.4341
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6984,
+                0.6964,
+                0.301,
+                0.5828,
+                0.7196,
+                0.7005,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.0855,
+                0.1268,
+                0.4788,
+                0.5826,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.3571,
+                0.6607,
+                0.5,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

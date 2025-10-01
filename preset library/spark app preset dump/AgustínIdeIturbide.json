@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56AE4A3A00CE840E00759BF3",
+    "Name": "Agust\u00edn I de Iturbide ",
+    "Version": "0.7",
+    "Description": "Metal Guitar Rythm Tone.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.2785,
+                0.3068,
+                0.35
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.3764,
+                0.9059,
+                0.5986
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5849,
+                0.6942,
+                0.7163,
+                0.3414,
+                1,
+                0.4218,
+                0.9424
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.8875,
+                0.3994,
+                0.2962,
+                0.8392,
+                0.5747,
+                0.6806,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.7182,
+                0.8425
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6182,
+                0.3773,
+                0.5455,
+                0.6818,
+                0.5864
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

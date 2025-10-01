@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57F8B5AB04FBC9000F005DB9",
+    "Name": "Van H Unchain",
+    "Version": "0.7",
+    "Description": "VH unchain flanger set if using a pedal",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3299,
+                0.717,
+                0.5
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6027,
+                0.7937,
+                0.7555,
+                0.5545,
+                0.64,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6714,
+                0.3967,
+                0.37,
+                1,
+                0.7113
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.1279,
+                0.2916,
+                0.7875,
+                0.708
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.05,
+                0.8046,
+                0.475
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2423,
+                0.4686,
+                0.2931,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53ADADB4CB8A460018000002",
+    "Name": "B-15, no comp",
+    "Version": "0.7",
+    "Description": "Flip-top Bass for 60's sound",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3,
+                0.3,
+                0
+            ]
+        },
+        {
+            "Name": "B15",
+            "IsOn": true,
+            "Parameters": [
+                0.7176,
+                0.6367,
+                0.5339,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.5845,
+                0.2563
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0.8,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.3,
+                0.7
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

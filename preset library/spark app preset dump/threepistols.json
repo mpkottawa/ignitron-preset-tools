@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "799abb81-e6fa-459d-897b-a18480544dc6",
+    "Name": "three pistols",
+    "Version": "0.7",
+    "Description": "middle bridge single coils",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.1758,
+                0.0635
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.7407
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                0.9874,
+                0.6947,
+                0.7668,
+                0.4413,
+                0.4972
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4541,
+                0.6999,
+                0.5962
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.3818,
+                0.3983,
+                0.7363,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.3593,
+                0.5067,
+                0.4179,
+                0.3008,
+                0.6023,
+                0.5941,
+                0
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

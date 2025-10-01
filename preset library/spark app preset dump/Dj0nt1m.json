@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52942703C7D5620019000002",
+    "Name": "Dj0nt #1 \\m/",
+    "Version": "0.7",
+    "Description": "Works for Burns and 7-String",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2737,
+                1,
+                0.1062,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5333,
+                0.6095,
+                0.4381,
+                0.4,
+                0.5
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.7494,
+                0.85,
+                0.5814,
+                0,
+                1,
+                0.7669,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.8967,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1478,
+                1,
+                0.3774,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

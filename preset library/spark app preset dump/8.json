@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A981B2799F40E000436D6",
+    "Name": "8",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                1,
+                0.6169,
+                0.5344,
+                0.4776,
+                0.7071,
+                0.7955
+            ]
+        },
+        {
+            "Name": "ENGLJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.25,
+                0.6,
+                0.7,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.7474,
+                0.3675
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.3435,
+                0.3741,
+                0.8663
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0,
+                0.75,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.1965,
+                0.4195,
+                0.3,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

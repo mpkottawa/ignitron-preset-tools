@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "529090AE6B8C400017000002",
+    "Name": "Tight as a gnat's chuff!",
+    "Version": "0.7",
+    "Description": "Tight rhythm. ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5083,
+                0.9297,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.5,
+                0.6984,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5253,
+                0.7917,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3304,
+                0.6756,
+                0.9888,
+                0.4869,
+                0.7879
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.01,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.7,
+                0.5395,
+                0.6916,
+                0.5936,
+                0.6,
+                0.4,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

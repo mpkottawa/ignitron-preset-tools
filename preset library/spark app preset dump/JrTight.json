@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54C85278C1DF2B0016000004",
+    "Name": "Jr Tight",
+    "Version": "0.7",
+    "Description": "C",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.8375,
+                0.8421
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.1864,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6992,
+                0.6031,
+                0,
+                0.7031,
+                0.7,
+                0.5957,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.5969
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                1,
+                0,
+                0,
+                0.4637
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

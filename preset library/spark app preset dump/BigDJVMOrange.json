@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521D529BE3FB20000B000000",
+    "Name": "Big D JVM Orange",
+    "Version": "0.7",
+    "Description": "Classic Marshall",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.595,
+                0.489,
+                0.7041,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.7396,
+                0.61,
+                0.5707,
+                0.6898,
+                0.518,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.61,
+                0.6765,
+                0.694,
+                0.5259,
+                0.2701
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.3615,
+                0.2,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.1164,
+                0.0841,
+                0.6659,
+                0.5032,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1602,
+                0.6289,
+                0.1702,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

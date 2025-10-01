@@ -1,0 +1,89 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51E1F4CEB384510012000000",
+    "Name": "W-Rotary",
+    "Version": "0.7",
+    "Description": "bass&solo",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "GK800",
+            "IsOn": false,
+            "Parameters": [
+                0.7,
+                0.6,
+                0.4,
+                0.4,
+                0.6,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.2257,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "Leslie01",
+            "IsOn": false,
+            "Parameters": [
+                0.3095,
+                0.2,
+                0.6,
+                0.8
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": false,
+            "Parameters": [
+                0.5005,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0,
+                0.6
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.6,
+                0.5,
+                0.5,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

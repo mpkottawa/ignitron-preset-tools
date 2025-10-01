@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52147D3E14E869000D000007",
+    "Name": "G. G. M. M.",
+    "Version": "0.7",
+    "Description": "Shake it or roll",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.315,
+                0.0244,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.2591,
+                0.1766,
+                0.3384,
+                0.757
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.7862
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": true,
+            "Parameters": [
+                0.0635,
+                0.7911,
+                0.666
+            ]
+        },
+        {
+            "Name": "JCM900",
+            "IsOn": true,
+            "Parameters": [
+                0.5625,
+                0.2359,
+                0.6332,
+                0.5517,
+                0.7,
+                0.8301
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.1907,
+                0.4509,
+                0.6339,
+                0.4598,
+                0.5714
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2438,
+                0.3591,
+                0.3009,
+                0.4,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

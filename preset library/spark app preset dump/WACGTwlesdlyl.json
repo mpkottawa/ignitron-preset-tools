@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5237DB5446112D0010000000",
+    "Name": "(W) AC GT w les dlyl",
+    "Version": "0.7",
+    "Description": "7C",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.549
+            ]
+        },
+        {
+            "Name": "PowerAmp",
+            "IsOn": true,
+            "Parameters": [
+                0.6074,
+                0.6155,
+                0.4837,
+                0.366,
+                0.5042
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.2905,
+                0.5091,
+                0.5496,
+                0.5318,
+                0.6075
+            ]
+        },
+        {
+            "Name": "Leslie01",
+            "IsOn": true,
+            "Parameters": [
+                0.1903,
+                0.5088,
+                0.6,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.0586,
+                0.0328,
+                0,
+                0.698,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1846,
+                0.1887,
+                0.5297,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

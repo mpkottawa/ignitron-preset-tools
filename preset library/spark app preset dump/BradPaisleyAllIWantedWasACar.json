@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "513EB4B2EF99B7000C000006",
+    "Name": "Brad Paisley - All I Wanted Was A Car",
+    "Version": "0.7",
+    "Description": "Vox, tape slapback, compression - use tele bridge pickup",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.33,
+                0.2126,
+                0
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.6772,
+                0.2832
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.1958,
+                0.0688,
+                0.2747,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.3238,
+                0.7619,
+                0.6,
+                0.5,
+                0.419
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.6541,
+                0.3502,
+                0.4033,
+                0.3539,
+                0.8237,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.6348,
+                0.627,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

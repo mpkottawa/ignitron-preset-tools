@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53D8396107C3BE000F000002",
+    "Name": "Hartz Bass",
+    "Version": "0.7",
+    "Description": "A",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.75,
+                0.4
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "Sansamp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.3969,
+                0.1491,
+                0,
+                1,
+                0.4
+            ]
+        },
+        {
+            "Name": "OrangeAD200",
+            "IsOn": true,
+            "Parameters": [
+                0.3019,
+                0.6,
+                0.4,
+                0.6,
+                0.7
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                1,
+                0,
+                0,
+                0.2668
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

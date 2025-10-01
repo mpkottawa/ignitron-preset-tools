@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5B194231975F790013170292",
+    "Name": "Delay dust",
+    "Version": "0.7",
+    "Description": "X",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.4987,
+                0.4934,
+                0.3495,
+                0.3581
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.5835,
+                0.4723,
+                0.9401
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.7997,
+                0.7999,
+                0.3016,
+                1
+            ]
+        },
+        {
+            "Name": "SVT",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.5,
+                1,
+                0.5461,
+                0.7344,
+                0.5026,
+                0.0609
+            ]
+        },
+        {
+            "Name": "AcousticEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.292,
+                0.2694,
+                0.5834,
+                0.5418,
+                0.5,
+                0.4996,
+                0.5
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": true,
+            "Parameters": [
+                0.5195,
+                0.6569,
+                0.8046,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.8391,
+                0.4958
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

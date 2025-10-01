@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52D20D8E009E610009000000",
+    "Name": "m",
+    "Version": "0.7",
+    "Description": "s",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6784,
+                0.4286,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.8557,
+                0.8203,
+                0.8027,
+                1
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.916,
+                0.6038,
+                0.7424,
+                0.9174,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3091,
+                0.3136,
+                0.4364,
+                0.4856,
+                0.5116
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2715,
+                0,
+                1,
+                0.5159
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.197,
+                0.393,
+                0.6584,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.4591,
+                0.6609,
+                0.4089,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

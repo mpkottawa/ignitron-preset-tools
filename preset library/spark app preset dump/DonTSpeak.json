@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54572C65549939000E00000C",
+    "Name": "Don T Speak",
+    "Version": "0.7",
+    "Description": "No Doubt",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.2133,
+                0.4
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.9177,
+                0,
+                0.5187
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.2679,
+                0.4978,
+                0,
+                0.4866
+            ]
+        },
+        {
+            "Name": "ENGLJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.7604,
+                0.9978,
+                0.5579,
+                0.7571,
+                0.613,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.9547,
+                0.9299,
+                0.8236,
+                0.2577,
+                0.2698,
+                0.7075,
+                0.38
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.1,
+                0.1771,
+                0.1598,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.168,
+                0.0879,
+                0.7895,
+                0.6,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

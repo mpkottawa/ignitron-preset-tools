@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5BCA104FFF4B9E0012E93003",
+    "Name": "Laney H",
+    "Version": "0.7",
+    "Description": "Hi ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3,
+                0.16,
+                0
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.8167,
+                0.7007,
+                0.8308
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5973,
+                0.6248,
+                0.8333
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5054,
+                0.5,
+                0.768,
+                0.6897,
+                0.7005,
+                0.7676,
+                0.7279
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": false,
+            "Parameters": [
+                0.7064,
+                0.7487,
+                0.4156,
+                0.6,
+                0.1654,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3067,
+                0.3711,
+                0.2584,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.2812,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

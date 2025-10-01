@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "25374ce3-3c05-416c-b25e-4ead97e001e1",
+    "Name": "stellar acoustic",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.1309,
+                0.066,
+                1
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.4863,
+                0.5253,
+                1,
+                0.6441
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.1396,
+                0.4073,
+                0.5531,
+                0
+            ]
+        },
+        {
+            "Name": "AcousticAmpV2",
+            "IsOn": true,
+            "Parameters": [
+                0.4056,
+                0.6229,
+                0.1438,
+                0.6618,
+                0.8495
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": true,
+            "Parameters": [
+                0.3656,
+                0.6633,
+                0.9412,
+                0
+            ]
+        },
+        {
+            "Name": "DelayMultiHead",
+            "IsOn": false,
+            "Parameters": [
+                0.6111,
+                0.6048,
+                0.613,
+                0.62,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.7228,
+                0,
+                0.1981,
+                0.3607,
+                0.6636,
+                0.3034,
+                0.4,
+                1
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

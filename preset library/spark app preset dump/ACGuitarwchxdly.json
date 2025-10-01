@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52B62503BEFEB1000E000000",
+    "Name": "AC Guitar w ch xdly",
+    "Version": "0.7",
+    "Description": "3D GM",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.6781
+            ]
+        },
+        {
+            "Name": "PowerAmp",
+            "IsOn": true,
+            "Parameters": [
+                0.8543,
+                0,
+                0.4946,
+                0.2782,
+                0.4958
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3364,
+                0.5227,
+                0.4955,
+                0.6182,
+                0.5027
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.4082,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.1113,
+                0.1305,
+                0.0781,
+                0.8427,
+                1
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.3282,
+                0.3879,
+                0.5458,
+                0.4173,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

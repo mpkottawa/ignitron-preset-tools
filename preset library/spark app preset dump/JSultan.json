@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "531C823B9A13C50019000004",
+    "Name": "J Sultan",
+    "Version": "0.7",
+    "Description": "reverb light distortion",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5158,
+                0.4955,
+                0.2637,
+                0.717,
+                0.5816
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": false,
+            "Parameters": [
+                0.516,
+                0.48,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.8611,
+                0.566,
+                0.6,
+                0.7438,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.2729,
+                0.0136,
+                0.4462,
+                0.8
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.8513,
+                0.8648,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.444,
+                0.3383,
+                0.5017,
+                0.2073,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

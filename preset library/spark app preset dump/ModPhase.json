@@ -1,0 +1,78 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57FE3FB1BE029A000F4FF46E",
+    "Name": "Mod Phase",
+    "Version": "0.7",
+    "Description": "A",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": false,
+            "Parameters": [
+                0.3
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "GuitarMuff",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.6
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.7951,
+                0.1878,
+                0.444,
+                0.9129,
+                0.9209,
+                1
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2526,
+                0.1786,
+                0.4454,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

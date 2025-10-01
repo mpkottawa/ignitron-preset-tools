@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "50FA976C87BEDF0016000000",
+    "Name": "Susi Q",
+    "Version": "0.7",
+    "Description": "CCR",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7704,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2093,
+                0.6389,
+                0.7501,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.1725,
+                0.1078,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Bogner",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.5811,
+                0.3,
+                0.6,
+                0.7994,
+                0.7,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5553,
+                0.3762,
+                0.6571,
+                0.2926,
+                0.5961
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.1416,
+                0.2759,
+                0.2739,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1937,
+                0.8661,
+                0.5,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

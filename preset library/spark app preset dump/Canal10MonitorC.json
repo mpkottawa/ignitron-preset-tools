@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5DB8232F778C7A00168E461E",
+    "Name": "Canal 10 Monitor C",
+    "Version": "0.7",
+    "Description": "C",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.6273
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2262,
+                0.3765,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.4132,
+                0.3125,
+                0.324,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.6283,
+                0.6234,
+                0.3883,
+                0.6023,
+                0.6388,
+                0.7993,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5243,
+                0.6574,
+                0.3807,
+                0.6405,
+                0.402,
+                0.5042,
+                0.4154
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": false,
+            "Parameters": [
+                0.3567,
+                0.3641,
+                0.6456
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

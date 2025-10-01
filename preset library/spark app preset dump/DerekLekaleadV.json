@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5AB4372F3986800013841E59",
+    "Name": "Derek Leka lead V",
+    "Version": "0.7",
+    "Description": "Lead sound good for Rock or heavy metal, volume knob sensitive ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5175,
+                0.5535,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.3007,
+                0.4429
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.4034,
+                0.7378,
+                0.6647,
+                0.5025,
+                0.5909,
+                0.5392,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.2789,
+                0.5176,
+                0.6068,
+                0.5511,
+                0.5249
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.3593,
+                0.2136,
+                0.4048,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.0075,
+                0.3507
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2405,
+                0.611,
+                0.2895,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

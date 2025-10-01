@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A98222799F40E000436D7",
+    "Name": "Ahm harmonic",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.7601,
+                0.0068,
+                0.3255,
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6133,
+                0.6235,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0.535,
+                0.2053,
+                1
+            ]
+        },
+        {
+            "Name": "Whammy",
+            "IsOn": true,
+            "Parameters": [
+                0.1,
+                0.4735,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DelayEchoFilt",
+            "IsOn": true,
+            "Parameters": [
+                0.6951,
+                0.6,
+                0.7886,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3478,
+                0.4974,
+                0.3774,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

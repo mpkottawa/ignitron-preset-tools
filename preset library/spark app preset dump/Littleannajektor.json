@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A983D06BE880E00D89B1A",
+    "Name": "Little anna jektor",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.4695,
+                0.4628,
+                0.6762,
+                1
+            ]
+        },
+        {
+            "Name": "Deluxe65",
+            "IsOn": true,
+            "Parameters": [
+                0.6967,
+                0.9587,
+                0.4,
+                1
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": true,
+            "Parameters": [
+                0.4526,
+                0.0889,
+                0.3604,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6095,
+                0.4286,
+                0.5762,
+                0.5429,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.05,
+                0.6057,
+                0.3111,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.8967,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

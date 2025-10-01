@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5E29E108ABD1A300169DFD20",
+    "Name": "Yamaha Clean L",
+    "Version": "0.7",
+    "Description": "iPhone ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.375,
+                0.3287,
+                0
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6852,
+                0.6885,
+                0.7006,
+                0.3474
+            ]
+        },
+        {
+            "Name": "JC120Jeff",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4,
+                0.3625,
+                0.4509,
+                0.6687
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5079,
+                0.615,
+                0.5209,
+                0.6777,
+                0.5325
+            ]
+        },
+        {
+            "Name": "Cloner",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.7357,
+                0.6,
+                0.6,
+                1,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1176,
+                0.5,
+                0.5,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

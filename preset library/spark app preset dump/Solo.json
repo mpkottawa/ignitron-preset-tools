@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5A279C9CC04AED00E5306B1E",
+    "Name": "Solo",
+    "Version": "0.7",
+    "Description": "R",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5982,
+                0.5201,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.6,
+                0.6,
+                0.2,
+                0.7,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.4643,
+                0.5402,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.4668,
+                0.3268,
+                0.8342,
+                0.163,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2549,
+                0.7578,
+                0.411,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

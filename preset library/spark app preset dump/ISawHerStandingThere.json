@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53C9BA05E62F180015000004",
+    "Name": "I Saw Her Standing There",
+    "Version": "0.7",
+    "Description": "Noriaki",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.1375,
+                0.2973,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.2943,
+                0.8171
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2361,
+                0.1336,
+                0.4732,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.9228,
+                0.5675,
+                0.6,
+                0.4584,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.319,
+                0.5,
+                0.6714,
+                0.3095
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.1,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayMultiHead",
+            "IsOn": true,
+            "Parameters": [
+                0.067,
+                0.0624,
+                0.1503,
+                0.34,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5426CC54B3BED20010000004",
+    "Name": "Seek n Destroy",
+    "Version": "0.7",
+    "Description": "Seek n destroy tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6293,
+                0.564,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.6641,
+                0.7408
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.7817,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.1496,
+                0.3824,
+                0.8
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.8056,
+                0.6293,
+                0.1786,
+                0.9246,
+                0.6805,
+                0.8295,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.4309,
+                0,
+                0.6255,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.9339,
+                0.9068,
+                0.9188,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

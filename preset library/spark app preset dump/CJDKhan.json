@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "58FB2407C27CC0001147FA28",
+    "Name": "CJ D Khan",
+    "Version": "0.7",
+    "Description": "Rock/Hardrock",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                0.4099
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.5878,
+                0.6166,
+                0.6
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6327,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2427,
+                0.6289,
+                0.5439,
+                0.4
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.7898,
+                0.7182,
+                0.7207,
+                0.4866,
+                0.8525
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.7499
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4667,
+                0.4841,
+                0.4714,
+                0.4975,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

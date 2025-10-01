@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "60E77912231B490016089634",
+    "Name": "Arch Enemy Solo",
+    "Version": "0.7",
+    "Description": "A",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.2848,
+                1,
+                1,
+                0.4756
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": false,
+            "Parameters": [
+                0.7161,
+                0.0009,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5074,
+                0.25,
+                0.5924,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.8621,
+                0.8565,
+                0.3791,
+                0.6566,
+                0.7844,
+                0.8403,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1738,
+                0.1941,
+                0.7321,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

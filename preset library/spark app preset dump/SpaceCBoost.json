@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5351AD01EA28370009000000",
+    "Name": "Space-C Boost",
+    "Version": "0.7",
+    "Description": "Vibrato, Reverb, Delay, AC Boost",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5343,
+                0.5957
+            ]
+        },
+        {
+            "Name": "Vibrato01",
+            "IsOn": true,
+            "Parameters": [
+                0.0824,
+                0.6721,
+                0.5
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.4188,
+                0.3834,
+                0.4032,
+                0.3839,
+                0.6429,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6483,
+                0.7232,
+                0.5688,
+                0.572,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.0958,
+                0.177,
+                0.1348,
+                0.6703,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.0136,
+                0.7257,
+                0.5292,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "9ac0bbee-9a0e-4d37-a23f-21010cebfc1e",
+    "Name": "Sappy Clean",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.044,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.5432,
+                0.3662
+            ]
+        },
+        {
+            "Name": "KlonCentaurSilver",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5552,
+                0.1429
+            ]
+        },
+        {
+            "Name": "Acoustic",
+            "IsOn": true,
+            "Parameters": [
+                0.5529,
+                0.8717,
+                0.1063,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.1821,
+                1
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": false,
+            "Parameters": [
+                0.2775,
+                0.3497,
+                0.1119,
+                0
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": false,
+            "Parameters": [
+                0.1765,
+                0,
+                0.4065,
+                0.0989,
+                0,
+                1,
+                0.1,
+                0
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

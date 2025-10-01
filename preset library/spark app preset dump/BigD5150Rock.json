@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521D5B919D00A20018000000",
+    "Name": "Big D 5150 Rock",
+    "Version": "0.7",
+    "Description": "all around good tone, versitile",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.431,
+                0.7257,
+                0.5337,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6108,
+                0.6323,
+                0.5678,
+                0.7406,
+                0.5054,
+                0.7287,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5271,
+                0.7013,
+                0.4885,
+                0.6798,
+                0.3642
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5757,
+                0.1444,
+                0.4539,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1354,
+                0.3455,
+                0.5001,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.4149,
+                0.6289,
+                0.3732,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

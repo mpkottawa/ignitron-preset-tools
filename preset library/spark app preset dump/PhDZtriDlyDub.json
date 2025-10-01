@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56BFAA10B25AB50E00C9EDEB",
+    "Name": "PhD Z tri Dly Dub",
+    "Version": "0.7",
+    "Description": "Favourite Dub-Reggae preset Multi delay",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.5007,
+                0.607
+            ]
+        },
+        {
+            "Name": "Cloner",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DrZ",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.6,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.501,
+                0.3,
+                0
+            ]
+        },
+        {
+            "Name": "DelayMultiHead",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0.34,
+                0
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4339,
+                0.782,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

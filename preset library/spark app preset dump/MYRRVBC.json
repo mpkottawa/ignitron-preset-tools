@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57A3BD76AF621B0E00982657",
+    "Name": "MYR RVB C",
+    "Version": "0.7",
+    "Description": "John mayer",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.2542,
+                0.2634,
+                0.6
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6635,
+                0.3292,
+                0.5515,
+                0.6691,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4569,
+                0.1015,
+                0.648,
+                0.0612,
+                0.6548
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.064,
+                0.3125,
+                0.003,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

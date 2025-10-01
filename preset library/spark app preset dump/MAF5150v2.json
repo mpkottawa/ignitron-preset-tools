@@ -1,0 +1,89 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54F39BB4A9873D0019000006",
+    "Name": "MAF 5150 v.2",
+    "Version": "0.7",
+    "Description": "Update to my previous tone. All that I can say is it's Metal As Fuck! ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.7573,
+                0,
+                0.3323,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.35
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.1936,
+                0.3507,
+                0.2372,
+                0.2156,
+                0.1947,
+                0.2433,
+                0.7219
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.2465,
+                0.5983,
+                0.5052,
+                0.6913,
+                0.3374,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.2557,
+                0.2705,
+                0
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.5632,
+                0.3974,
+                0.221,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.3264,
+                0.319,
+                0.3589,
+                0.3167,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

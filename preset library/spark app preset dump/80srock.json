@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52DA611B712438001A000000",
+    "Name": "80's rock ",
+    "Version": "0.7",
+    "Description": "Preset for hardrock solo with a small amount of overdrive",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.411,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.5238,
+                0.48,
+                0.6817,
+                0.6
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.46,
+                1
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.8581,
+                0.4112,
+                0.6635,
+                0.62,
+                0.9434,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2866,
+                0.311,
+                0.3125,
+                0.5145,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.2,
+                0.2453,
+                0.2535,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5781,
+                0.6451,
+                0.7009,
+                0.5871,
+                0.7299
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

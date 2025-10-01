@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54CF2B5EE725B90013000000",
+    "Name": "Mayer D",
+    "Version": "0.7",
+    "Description": "Mayer Lead Tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1091,
+                0.1274,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.3962,
+                0.7781
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2373,
+                0.4,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "Deluxe65",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.7,
+                0.4,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.5279,
+                0.622,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4981,
+                0.3268,
+                0.6244,
+                0.1282,
+                1
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": true,
+            "Parameters": [
+                0.7281,
+                0.707
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

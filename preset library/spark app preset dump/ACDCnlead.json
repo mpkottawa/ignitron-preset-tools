@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52B3CCEE636A240017000007",
+    "Name": "ACDC-n-lead",
+    "Version": "0.7",
+    "Description": "ACDC Rythem with neck pickup. drop delay and chorus for bi#%$n lead sound",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4474,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.7,
+                0.4,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.4707,
+                0.777,
+                0.7596,
+                0.8814
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.4697,
+                0.2251,
+                0.2514,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.3563,
+                0.2149,
+                0.6648,
+                0.614
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

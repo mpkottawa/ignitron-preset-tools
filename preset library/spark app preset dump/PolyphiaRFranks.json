@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53DAE9DE38108C0014000002",
+    "Name": "Polyphia R Frank's",
+    "Version": "0.7",
+    "Description": "Based off of Polyphia's Guitar tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.3279,
+                0.8359,
+                0.368,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.0377,
+                0.35
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.1993,
+                0.2863,
+                0.8204,
+                0.855,
+                0.8955
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.7289,
+                0.65,
+                0.494,
+                0.1,
+                0.6626,
+                0.4272,
+                0.2554,
+                0.649
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0,
+                0.75,
+                1
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.6,
+                0.5,
+                0.5,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5EC07DAECD05740016E54125",
+    "Name": "Hard as a Rock!",
+    "Version": "0.7",
+    "Description": "Good ol fashioned Rock Tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.3309,
+                0.532,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.3698,
+                0.5007,
+                0.5839,
+                0.4407,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2911,
+                0.3305,
+                0.79
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.6409,
+                0.6434
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.7857,
+                0.1729,
+                0.3749,
+                0.7069,
+                0.6543,
+                0.7697
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1854,
+                0.6,
+                0.3,
+                0.4
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.1135,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

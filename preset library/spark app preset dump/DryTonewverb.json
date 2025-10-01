@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "55765D131C730E0016000002",
+    "Name": "Dry Tone w/verb",
+    "Version": "0.7",
+    "Description": "Roggio Dry Tone/Reverb",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1136,
+                0.7791,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.6119,
+                0.8051
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6352,
+                0.5,
+                0.6367,
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.7003,
+                0.63,
+                0.6,
+                0.6794,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.3189,
+                0.3471,
+                0.6284,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2862,
+                0.3316,
+                0.6084,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.0937,
+                0.627,
+                0.1597,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

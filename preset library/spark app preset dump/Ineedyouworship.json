@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53F59889F69A0E000B000000",
+    "Name": "I need you worship",
+    "Version": "0.7",
+    "Description": "I need you by Eddie James lead sound ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3677,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.8293,
+                0.5724,
+                0.6762,
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.7636,
+                0.6534,
+                0.5692,
+                0.6254,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6095,
+                0.4286,
+                0.5762,
+                0.5429,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.5726,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.05,
+                0.6057,
+                0.3111,
+                0.3
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

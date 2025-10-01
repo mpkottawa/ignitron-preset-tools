@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53731350643EF8001B000004",
+    "Name": " Plexi W/  TS, R & D",
+    "Version": "0.7",
+    "Description": "melt faces, drink beer ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.6645,
+                0.7419,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.6,
+                0.4,
+                0.6,
+                0.7,
+                0.6
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5291,
+                0.567,
+                0.4955,
+                0.5536,
+                0.3189
+            ]
+        },
+        {
+            "Name": "DelayMultiHead",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0.63,
+                1
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.6,
+                0.5,
+                0.5,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

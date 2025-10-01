@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5520923B90B3E80015000000",
+    "Name": "v.2 TWT Ultimate Djent Death Metal ",
+    "Version": "0.7",
+    "Description": "Best Metal preset ever part 2.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5371,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2656,
+                1,
+                0.7569,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.1758,
+                0.2,
+                0.3843,
+                0.3221
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.8418,
+                0.4333,
+                0.2944,
+                0.8396,
+                0.7,
+                0.6919,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5582,
+                0.3884,
+                0.4473,
+                0.5684,
+                0.5376
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.247,
+                0.2931,
+                0.9729,
+                0.3,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2576,
+                0.5795,
+                0.1426,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

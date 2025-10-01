@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "525789672B6DC80014000004",
+    "Name": "Vy Tradeplate C",
+    "Version": "0.7",
+    "Description": "Shred",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7092,
+                0.6896,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.3788,
+                0.3543
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.4643,
+                0.5402,
+                0.4866
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.7131,
+                0.3488,
+                0.7934,
+                0.2562,
+                0.6911,
+                0.6703,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.1532,
+                0.6488,
+                0.6516
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.3396,
+                0.2924,
+                0.3084,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2435,
+                1,
+                0.2305,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

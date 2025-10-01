@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54AE12608235CF0012000007",
+    "Name": "F",
+    "Version": "0.7",
+    "Description": "Mine",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7515,
+                0.5459,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6095,
+                0.4286,
+                0.5762,
+                0.5429,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6514,
+                0,
+                0.6496,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.7042,
+                0.6521,
+                0.5984,
+                0.601,
+                0.8005,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.551,
+                0.5,
+                0.5,
+                0.449,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0369,
+                0.1595,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.0455,
+                0.4995,
+                0.0524,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

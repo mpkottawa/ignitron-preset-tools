@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5E02978A51590200165A7204",
+    "Name": "DImebag D",
+    "Version": "0.7",
+    "Description": "Cowboys!!!",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2832,
+                0.4875,
+                0.5
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.8369,
+                0.151,
+                0,
+                0.8433,
+                0.7261
+            ]
+        },
+        {
+            "Name": "LaneyGH50",
+            "IsOn": true,
+            "Parameters": [
+                0.8353,
+                0.8636,
+                0.1518,
+                0.9493,
+                0.7,
+                0.7391,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.7384,
+                0.4672,
+                0.4087,
+                0.7387,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.05,
+                0.6057,
+                0.3111,
+                0.3
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.3126,
+                0.4235,
+                0.6979
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.8967,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

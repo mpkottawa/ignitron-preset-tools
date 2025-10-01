@@ -1,0 +1,76 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5356E355B6F055000D000000",
+    "Name": "Have a Cigar",
+    "Version": "0.7",
+    "Description": "Use a hot single coil, sounds good",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                0.6
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.6
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "Deluxe65",
+            "IsOn": true,
+            "Parameters": [
+                0.7595,
+                0.7,
+                0.4,
+                1
+            ]
+        },
+        {
+            "Name": "Leslie01",
+            "IsOn": true,
+            "Parameters": [
+                0.25,
+                0.3,
+                0.6,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.5312,
+                0.6,
+                0,
+                0.4448,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

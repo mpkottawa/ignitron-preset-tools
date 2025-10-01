@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "533373218F8DAE0017000002",
+    "Name": "Z Klean",
+    "Version": "0.7",
+    "Description": "Zombie Klean",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.4288,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.8594,
+                0.6917
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.63,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5238,
+                0.2662,
+                0.7,
+                0.6422
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.6263,
+                0.6019,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2593,
+                0.3683,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4866,
+                0.776,
+                0.7299,
+                0.7324,
+                0.471
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

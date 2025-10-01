@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51E330EB65D6230009000000",
+    "Name": "peanut m&ms v2",
+    "Version": "0.7",
+    "Description": "it's awesome, period",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.6512,
+                0.313,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.5178,
+                0.9624,
+                0.8631,
+                0.114,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Sansamp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.1053,
+                0.7304,
+                0.6,
+                1,
+                0.223
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.35
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5844,
+                0.4925,
+                0.6484,
+                0.8647,
+                0.548
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

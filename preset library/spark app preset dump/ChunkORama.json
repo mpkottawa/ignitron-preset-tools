@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "522BEB4C05946C000C000006",
+    "Name": "Chunk-O-Rama",
+    "Version": "0.7",
+    "Description": "Chunky Recto Rhythm on the Ola War with a little bit of delay and room reverb ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.5816,
+                0.35
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.518,
+                0.637,
+                0.7227,
+                0.5219,
+                0.6789,
+                0.747,
+                0.3751,
+                0.7539
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6039,
+                0.5,
+                0.5,
+                0.6289,
+                0.3647,
+                0.5667,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6298,
+                0.5491,
+                0.5045,
+                0.5089,
+                0.5
+            ]
+        },
+        {
+            "Name": "NoiseFilter",
+            "IsOn": false,
+            "Parameters": [
+                0
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.7282,
+                0.0772,
+                0.0502,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.0687,
+                0.589,
+                0.1307,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

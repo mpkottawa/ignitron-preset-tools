@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5E820A3E2081AB001681E308",
+    "Name": "U2 - All I Want Is You",
+    "Version": "0.7",
+    "Description": "add tube drive for solo",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.866,
+                0.6598,
+                0.2445
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.669,
+                0.4094,
+                0.5887,
+                0.0049,
+                0.7803,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.4397,
+                0.2074,
+                0.3635,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4373,
+                0.8807,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3911,
+                0.4928,
+                0.5327,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.2041,
+                0.4133,
+                0.6939,
+                0.7347,
+                0.8541
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

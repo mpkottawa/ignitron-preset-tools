@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "55D22EA12485B70F005B124E",
+    "Name": "SRV clean",
+    "Version": "0.7",
+    "Description": "T",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6693,
+                0.6979,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.5685,
+                0.4034,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1223,
+                0.1351,
+                0.3998,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.5328,
+                0.5885,
+                0.5948,
+                0.4402,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.5688,
+                0.572,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0958,
+                0.3125,
+                0.6713,
+                0.4772,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.1992,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

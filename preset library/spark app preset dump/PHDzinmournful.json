@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "532E398E615CF2000C000002",
+    "Name": "PHD (z) in mournful",
+    "Version": "0.7",
+    "Description": "Neck pickups. Nice and soft.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4427,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.7147,
+                0.125,
+                0.9215,
+                0.7095
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.8716,
+                0.8942,
+                0.4,
+                1
+            ]
+        },
+        {
+            "Name": "DrZ",
+            "IsOn": true,
+            "Parameters": [
+                0.3834,
+                0.728,
+                0.2375
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.064,
+                0.2152,
+                0.6918,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4222,
+                0.9473,
+                0.6484,
+                0.4629,
+                0.548
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8737,
+                1,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

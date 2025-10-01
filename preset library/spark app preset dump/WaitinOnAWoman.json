@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51CD2301A0378E0029000000",
+    "Name": "Waitin' On A Woman",
+    "Version": "0.7",
+    "Description": "Gerardo Pulgar",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6332,
+                0.7327,
+                0.608,
+                1
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": false,
+            "Parameters": [
+                0.5981,
+                0.672,
+                0.6
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5632,
+                0.903,
+                0.6822,
+                0.2887,
+                0.5833
+            ]
+        },
+        {
+            "Name": "Leslie01",
+            "IsOn": false,
+            "Parameters": [
+                0.6523,
+                0.8357,
+                0.6,
+                0.8
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.7997,
+                0.7338,
+                0.3285,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.7455,
+                0.8259,
+                0.6339,
+                0.3795,
+                0.3854
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.5713,
+                0.3268,
+                0.6713,
+                0.2456,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

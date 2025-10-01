@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53628964B3F2400009000006",
+    "Name": "Dante Crunch J Mayer",
+    "Version": "0.7",
+    "Description": "John Mayer Dirty Tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.001,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.2542,
+                0.2634,
+                0.6
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6479,
+                0.3292,
+                0.5515,
+                0.6691,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3833,
+                0.4399,
+                0.5529,
+                0.6697,
+                0.6184
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.064,
+                0.2152,
+                0.6918,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

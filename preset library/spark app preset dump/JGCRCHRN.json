@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "518BBB5FAA3307000E000000",
+    "Name": "JG CR CHR N",
+    "Version": "0.7",
+    "Description": "Just The Amp drive",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1538,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.4081,
+                0.0684,
+                1,
+                0.832
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.5246,
+                0,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.2137,
+                0.1726,
+                0.6421,
+                0.5012,
+                0.6706,
+                0.3913,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5141,
+                0.6604,
+                0.7444,
+                0.522,
+                0.5
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.6,
+                0.5,
+                0.0653,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0673,
+                0.2298,
+                0.1663,
+                0.9439,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

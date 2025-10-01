@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A98A14150000E000DA263",
+    "Name": "Punkpick",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.8684,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "RedHead",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5985,
+                0.5294,
+                1,
+                0.644,
+                0.8861,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6307,
+                0.2327,
+                1
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.942,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

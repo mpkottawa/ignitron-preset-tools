@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5290AF376B8C40001C000002",
+    "Name": "Drop-D",
+    "Version": "0.7",
+    "Description": "Metal rhythms Drop-D style",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7442,
+                0.7098,
+                0.5
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.5536,
+                0.6033,
+                0.6715
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.7,
+                0.6,
+                0.3,
+                0.7,
+                0.6,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.1516,
+                0.1805,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.3409
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.3301,
+                0.2262,
+                0.6659,
+                0.8659,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.1113,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

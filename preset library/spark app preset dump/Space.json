@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5B194248F7C97100133CECC1",
+    "Name": "Space",
+    "Version": "0.7",
+    "Description": "X",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.4987,
+                0.4934,
+                0.3495,
+                0.3581
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": true,
+            "Parameters": [
+                0.1658,
+                0.9896,
+                0.4932
+            ]
+        },
+        {
+            "Name": "SVT",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.5,
+                1,
+                0.8699,
+                0.8645,
+                0.3515,
+                0.4769
+            ]
+        },
+        {
+            "Name": "AcousticEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.3571,
+                0.3578,
+                0.5834,
+                0.6043,
+                0.5,
+                0.4996,
+                0.5
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": true,
+            "Parameters": [
+                0.5809,
+                0.7935,
+                0.802,
+                1
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.8043,
+                0.7985,
+                0.8132,
+                0.7969,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5027,
+                0.2984
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

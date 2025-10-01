@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54384382684898000D000005",
+    "Name": "Rob Scallon U-Bass",
+    "Version": "0.7",
+    "Description": "U-bass settings for the Mini Concert video",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3611,
+                0.3442,
+                0.5
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": true,
+            "Parameters": [
+                0.163,
+                1,
+                0.68
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.6171,
+                0.4175,
+                0.8845,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.4883,
+                0.909,
+                0.2567,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4127,
+                0.732,
+                0.7135,
+                0.4416,
+                0.4866
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": true,
+            "Parameters": [
+                0.2533,
+                0.1398,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4023,
+                0.4501,
+                0.8491,
+                0.8184,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57073CDC536D9F0F017F7939",
+    "Name": "Y ghjvv",
+    "Version": "0.7",
+    "Description": "Y ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.1629,
+                0.4635,
+                0.8795,
+                0.7414,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.0194,
+                0.4
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.0135,
+                0.4
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.9239,
+                0.407,
+                0.7753,
+                0.6653,
+                0.2507,
+                0.6364,
+                0.2005,
+                0.3499
+            ]
+        },
+        {
+            "Name": "AttackEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.3784,
+                0.6068,
+                0.6727
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4137,
+                0.236,
+                0.703,
+                0.5102,
+                0.5843
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

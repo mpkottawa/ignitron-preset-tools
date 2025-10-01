@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "518BBC48AA3307001A000000",
+    "Name": "JG S DLY PHS N",
+    "Version": "0.7",
+    "Description": "Just The Amp drive",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1791,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.5246,
+                0,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.3836,
+                0.052,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6774,
+                0.1661,
+                0.6421,
+                0.511,
+                0.7077,
+                0.3718,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5141,
+                0.6604,
+                0.7444,
+                0.5354,
+                0.5
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1031,
+                0.041,
+                0.477,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.0673,
+                0.2396,
+                0.1663,
+                0.559,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

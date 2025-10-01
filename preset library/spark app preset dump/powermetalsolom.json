@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "531EBCAC672AFB002B000000",
+    "Name": "power metal solo....\\m/",
+    "Version": "0.7",
+    "Description": "this patch is for power metal solo",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.6401,
+                0.616
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.3692,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.6,
+                0.5456,
+                0.7,
+                0.7,
+                0.9336,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2786,
+                0.2212,
+                0.0994,
+                0.7688,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.4259,
+                0.627,
+                0.2935,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

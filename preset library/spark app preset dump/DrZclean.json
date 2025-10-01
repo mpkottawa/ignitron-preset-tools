@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51D9B99917CFD90018000004",
+    "Name": "Dr Z clean",
+    "Version": "0.7",
+    "Description": "dr z clean",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.001,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.2127,
+                0.2231
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.1202,
+                0.2001,
+                0.6
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.0251,
+                1,
+                0.8105,
+                0.3797,
+                1,
+                0.5236,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.725,
+                0.7102,
+                0.4742,
+                0.4126,
+                0.7032
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1714,
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2953,
+                0.3285,
+                0.2171,
+                0.6066,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

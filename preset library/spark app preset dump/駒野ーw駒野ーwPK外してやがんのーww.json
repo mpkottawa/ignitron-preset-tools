@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53DDF8ACD4AEF40010000000",
+    "Name": "\u99d2\u91ce\u30fcw \u99d2\u91ce\u30fcw PK\u5916\u3057\u3066\u3084\u304c\u3093\u306e\u30fcww",
+    "Version": "0.7",
+    "Description": "283",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.3478,
+                0.1006,
+                0.4
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6979,
+                0.252
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3804,
+                0.5,
+                0.5619,
+                0.5667,
+                0.4319
+            ]
+        },
+        {
+            "Name": "Bogner",
+            "IsOn": true,
+            "Parameters": [
+                0.2938,
+                0.7042,
+                0.3979,
+                0.4047,
+                0.5021,
+                0.8958,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.1986,
+                0.2498,
+                0.148,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.1527,
+                0.3069,
+                1,
+                0.6024,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.4017,
+                0.7451,
+                0.3468,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

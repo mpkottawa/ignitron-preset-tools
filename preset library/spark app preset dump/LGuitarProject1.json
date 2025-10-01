@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "529B72B20A4BC1000A000000",
+    "Name": "L Guitar Project 1",
+    "Version": "0.7",
+    "Description": "(description)",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.4826,
+                0.5775,
+                0.5572
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6528,
+                0.7092,
+                0.0635,
+                0.8021,
+                0.7733,
+                0.8508,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5384,
+                0.5025,
+                0.5544,
+                0.3649,
+                0.5772
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5273,
+                0.4136,
+                0.5,
+                0.6864,
+                0.4409
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.1711,
+                0.3287,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2293,
+                0.6289,
+                0.3732,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5246669C8F4435001C000000",
+    "Name": "Q RB800",
+    "Version": "0.7",
+    "Description": "Bright But Strong",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6095,
+                0.4286,
+                0.5762,
+                0.5429,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.8708,
+                0.8832,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "GK800",
+            "IsOn": true,
+            "Parameters": [
+                0.466,
+                0.6,
+                0.4664,
+                0.4712,
+                0.6,
+                0,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2179,
+                0.7075,
+                0.3415,
+                0.0596,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.4
+            ]
+        },
+        {
+            "Name": "MuTron",
+            "IsOn": false,
+            "Parameters": [
+                0.56,
+                0.884,
+                0.8044,
+                0,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

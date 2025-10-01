@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53E9D242F6AE3C001A000000",
+    "Name": "Guru C",
+    "Version": "0.7",
+    "Description": "Guru crunch",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.5294,
+                0.5
+            ]
+        },
+        {
+            "Name": "SexyChannel",
+            "IsOn": true,
+            "Parameters": [
+                0.8118,
+                0.7956,
+                0.3673,
+                0.8615,
+                0.7872,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5279
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3402,
+                0.5,
+                0.5,
+                0.2371,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.4595,
+                0.0926,
+                0.3261,
+                0.6353
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.5066,
+                0.1995,
+                0.3436,
+                0.4834,
+                0
+            ]
+        },
+        {
+            "Name": "AcousticReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.842,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

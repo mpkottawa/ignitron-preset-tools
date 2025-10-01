@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53CBF645CE4CA40010000000",
+    "Name": "Drive y clean",
+    "Version": "0.7",
+    "Description": "Eric1",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3742,
+                0.7675,
+                0
+            ]
+        },
+        {
+            "Name": "SABdriver",
+            "IsOn": true,
+            "Parameters": [
+                0.7281,
+                0.7123,
+                0.7354,
+                1
+            ]
+        },
+        {
+            "Name": "SABdriver",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.6,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.523,
+                0.4437,
+                0.5062,
+                0.7911,
+                0.5789,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5861,
+                0.6351,
+                0.6196,
+                0.551,
+                0.5518
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3478,
+                0.4146,
+                0.5221,
+                0.5559,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2223,
+                0.5249,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

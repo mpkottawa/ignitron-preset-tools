@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5579DF03167403001400000F",
+    "Name": "P",
+    "Version": "0.7",
+    "Description": "The Bill Show",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.2872,
+                0.062,
+                0.6762,
+                1
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.2197,
+                0.8,
+                0.7791,
+                0.6,
+                0.5637
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.05,
+                0.6057,
+                0.3111,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.446,
+                0.3245,
+                0.6,
+                0.705,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.7422,
+                0.6762,
+                0.5247,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

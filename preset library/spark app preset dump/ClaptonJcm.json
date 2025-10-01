@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53E14A6EE35F23001D000000",
+    "Name": "Clapton Jcm ",
+    "Version": "0.7",
+    "Description": "T",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4587,
+                0.4611,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                1,
+                1,
+                0,
+                0.4866
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.85,
+                0.85
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": false,
+            "Parameters": [
+                0.1484,
+                0.3218,
+                0.1864,
+                0
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.2928,
+                0.5662,
+                0.6028,
+                0.8114,
+                0.9434,
+                0.4584,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0958,
+                0.3125,
+                0.6713,
+                0.8184,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.1992,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

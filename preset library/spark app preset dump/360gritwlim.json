@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54C914AF7DA6D50015000000",
+    "Name": "360 grit w/lim",
+    "Version": "0.7",
+    "Description": "Gritty Acoustic 360, with leveler ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "Acoustic360",
+            "IsOn": true,
+            "Parameters": [
+                0.4971,
+                0.9831,
+                0.6553,
+                0.7968,
+                0.6538,
+                0.57,
+                0.5772
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.7238,
+                0.3835
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0.8,
+                1
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.6,
+                0.5,
+                0.5,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

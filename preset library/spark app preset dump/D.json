@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51C212D6F7BE850013000006",
+    "Name": "d",
+    "Version": "0.7",
+    "Description": "Van Halen",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": false,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6435,
+                0.7867,
+                0.9276,
+                0.5021,
+                0.3781,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5545,
+                0.4955,
+                0.5682,
+                0.7455,
+                0.3364
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.221,
+                0.7313,
+                0.5968,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4713,
+                0.4859,
+                0.6659,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1411,
+                0.5,
+                0.2428,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "539D568F141E850012000000",
+    "Name": "z+boost",
+    "Version": "0.7",
+    "Description": "Fifou",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5859,
+                0.5801
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.9269,
+                0.5928,
+                0.7827,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2236,
+                0.7917,
+                0
+            ]
+        },
+        {
+            "Name": "Bogner",
+            "IsOn": true,
+            "Parameters": [
+                0.7077,
+                0.7,
+                0.3775,
+                0.3635,
+                0.5576,
+                0.6434,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.7455,
+                0.5885,
+                0.4085,
+                0.5807,
+                0.7879
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

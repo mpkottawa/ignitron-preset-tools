@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5EEF3C7EC8BDC200164C4F26",
+    "Name": "Yamaha R",
+    "Version": "0.7",
+    "Description": "7 String",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5365,
+                0,
+                0.35
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.3867,
+                0.6989
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6443,
+                0.5122,
+                0.3285,
+                0.7193,
+                0.599,
+                0.8477,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.7057,
+                0.6797,
+                0.3847,
+                0.6015,
+                0.3277,
+                0.2457,
+                0.3958
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.8559,
+                0.0141,
+                0.1892,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.1176,
+                0.5,
+                0.5,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

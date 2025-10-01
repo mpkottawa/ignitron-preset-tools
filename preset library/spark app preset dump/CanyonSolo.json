@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "588A319033EC9E003A262C99",
+    "Name": "Canyon Solo !",
+    "Version": "0.7",
+    "Description": "D",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4501,
+                0.2065,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.4234,
+                0.6172,
+                0.948,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.6863,
+                0.6303,
+                0.7403,
+                0.2,
+                0.619,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.1851,
+                0.3192,
+                0.8651,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.3713,
+                0.426,
+                0.8926,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Leslie01",
+            "IsOn": false,
+            "Parameters": [
+                0.0082,
+                0.2,
+                0.6,
+                0.8
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1176,
+                0.5,
+                0.5,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

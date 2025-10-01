@@ -1,0 +1,78 @@
+{
+    "PresetNumber": 127,
+    "UUID": "6471b5b2-8dd8-431f-a015-2e0ad6c87eda",
+    "Name": "cocaine",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3169,
+                0.3042
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.3411,
+                0.6658
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.6614
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                0.7682,
+                0.4915,
+                0.4765,
+                0.2843,
+                0.3898
+            ]
+        },
+        {
+            "Name": "UniVibe",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                1,
+                0.7
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": true,
+            "Parameters": [
+                0.1522,
+                0.6633,
+                0.145,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1201,
+                0.15,
+                0.5,
+                0.4068,
+                0.2993,
+                0.7685,
+                0.1
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

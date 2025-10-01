@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53A08096FA3AC5000C000000",
+    "Name": "P: Keith/Dime",
+    "Version": "0.7",
+    "Description": "Dimebag w/ Merrow brightness",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.9541,
+                0.9219,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.8192,
+                0.6
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.9236,
+                0.6468,
+                0.6153,
+                0,
+                0.83,
+                0.5721,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6129,
+                0.2523,
+                0.2386,
+                0.5856,
+                0.5025
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2715,
+                0.3861,
+                0.5994,
+                0.5159
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2932,
+                0,
+                0.5147,
+                0.3,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3851,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

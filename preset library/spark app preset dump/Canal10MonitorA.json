@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5DB8230E778C7A00168E461D",
+    "Name": "Canal 10 Monitor A",
+    "Version": "0.7",
+    "Description": "A",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.7484
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2393,
+                0.6338,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.4132,
+                0.3125,
+                0.324,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.6283,
+                0.6234,
+                0.374,
+                0.6023,
+                0.6473,
+                0.9023,
+                0
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": false,
+            "Parameters": [
+                0.5529,
+                0.6653,
+                0.3248,
+                0.6796,
+                0.3277,
+                0.4555,
+                0.388
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0.6,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

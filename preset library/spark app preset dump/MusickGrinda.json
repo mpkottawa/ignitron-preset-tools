@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53E339CE2DF9360010000000",
+    "Name": "MusickGrind a",
+    "Version": "0.7",
+    "Description": "Grind core or any brutal metal tone. I use this to jam with Napalm Death - The Infiltraitor",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.0442,
+                0.0405,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.9917,
+                0.8745,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.3878,
+                0.8214,
+                0.7115,
+                0.1943,
+                0.8423,
+                0.6921,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.655,
+                0.1696,
+                0.6741,
+                0.5402,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.2042,
+                0,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1828,
+                0.1801,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

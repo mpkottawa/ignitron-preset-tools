@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "520EC11DE998EC000F000000",
+    "Name": "LOCKED OUT H CLEAN",
+    "Version": "0.7",
+    "Description": "ricarteaga",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5119,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.9017,
+                0.4864
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0517,
+                0.0649,
+                0.6386,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.1104,
+                0.982,
+                0.2939,
+                0.3
+            ]
+        },
+        {
+            "Name": "RolandJC120",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.2664,
+                0.1702,
+                0.5022,
+                0.4831
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5558,
+                0.6228,
+                0.5,
+                0.3326,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

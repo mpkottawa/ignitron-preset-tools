@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54D5798BB4D26B0015000002",
+    "Name": "Toyo - Fuz&A/Wah/070215",
+    "Version": "0.7",
+    "Description": "Guitar",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.0772,
+                0.0497,
+                0.5
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.4042,
+                0.5545,
+                0.4924,
+                0.4961,
+                0
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": true,
+            "Parameters": [
+                0.8546,
+                0.6549
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.8504,
+                0.8584,
+                0.5503,
+                0.0749,
+                0.8401,
+                0.3988,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5363,
+                0.618,
+                0.6501,
+                0.5994,
+                0.5673
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.3298,
+                0.2603,
+                0.105
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2917,
+                0.5883,
+                0.2762,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

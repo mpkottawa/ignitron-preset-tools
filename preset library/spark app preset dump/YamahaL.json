@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5EEF2907C8BDC200164C4E8A",
+    "Name": "Yamaha L",
+    "Version": "0.7",
+    "Description": "7 String",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5013,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.3765,
+                1
+            ]
+        },
+        {
+            "Name": "ENGLJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.7966,
+                0.534,
+                0.6,
+                0.6609,
+                0.6239,
+                1
+            ]
+        },
+        {
+            "Name": "AttackEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.4426,
+                0.4994,
+                0.9128
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3109,
+                0.6731,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6719,
+                0.2502
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

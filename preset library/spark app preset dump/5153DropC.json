@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "58ABC59C159F1C03C303BA72",
+    "Name": "5153 Drop C ",
+    "Version": "0.7",
+    "Description": "Drop C 5153 using iPhone 5 with iRig cord plugged into an amp with a aux cord make sure not to clip ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6966,
+                0.7155,
+                0.4447,
+                0.5817,
+                0.4231,
+                0.507,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5181,
+                0.0716,
+                0.1339,
+                0.8935,
+                0.6814,
+                0.4964,
+                0.4997
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6532,
+                0.4833,
+                0.7141,
+                0.7908
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.7103,
+                0.1954
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.6715
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.3389,
+                0.3491,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

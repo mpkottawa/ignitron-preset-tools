@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57073E43536D9F0F017F793B",
+    "Name": "Y Pause Djent",
+    "Version": "0.7",
+    "Description": "Y ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.1629,
+                0.4635,
+                0.8795,
+                0.7414,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8428,
+                0.3171
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.8307,
+                0.7,
+                1,
+                0.6,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "AttackEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.1793,
+                0.3485,
+                0.6727
+            ]
+        },
+        {
+            "Name": "AttackEQ",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.0737,
+                0.964
+            ]
+        },
+        {
+            "Name": "AttackEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.132,
+                0,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

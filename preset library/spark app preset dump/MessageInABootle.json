@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "545737BA7A8D23000F000013",
+    "Name": "Message In A Bootle",
+    "Version": "0.7",
+    "Description": "The Police",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2138,
+                0.1338,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.5049,
+                0.881
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": true,
+            "Parameters": [
+                0.3917,
+                0.6719,
+                0.7314
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.7654,
+                0.6986,
+                0.3197,
+                0.6446,
+                0.5904,
+                0.5038,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4435,
+                0.4546,
+                0.5784,
+                0.6048,
+                0.4882
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0,
+                0.7
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.1546,
+                0.0422,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

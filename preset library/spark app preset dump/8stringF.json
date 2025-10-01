@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51FABA51947CA6001D000000",
+    "Name": "8 string F",
+    "Version": "0.7",
+    "Description": "meshuggah",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.2113,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6458,
+                0.5896,
+                0.8396
+            ]
+        },
+        {
+            "Name": "ENGLKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.7583,
+                0.6,
+                0.6,
+                0.4,
+                0.561,
+                0.6813
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6619,
+                0.5619,
+                0.4429,
+                0.5429,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.4883,
+                0.3616,
+                0.5512,
+                0.4,
+                0
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3577,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

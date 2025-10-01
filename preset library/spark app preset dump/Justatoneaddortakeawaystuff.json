@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "539E156C5B7737000C000000",
+    "Name": "Just a tone, add or take away stuff ",
+    "Version": "0.7",
+    "Description": "Created using a squire affinity strat",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5009,
+                0.4876
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1484,
+                0.3218,
+                0.1864,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.0079,
+                0.0006,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.5688,
+                0.572,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0958,
+                0.3125,
+                0.6713,
+                0.8184,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.1992,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

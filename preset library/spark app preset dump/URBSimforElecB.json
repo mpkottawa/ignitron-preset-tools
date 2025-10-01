@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53ADAD61CB8A46001C000000",
+    "Name": "URB Sim for Elec B",
+    "Version": "0.7",
+    "Description": "Upright Bass Sim for E Bass",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3,
+                0.3,
+                0
+            ]
+        },
+        {
+            "Name": "AcousticEQ",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "AcousticPro",
+            "IsOn": true,
+            "Parameters": [
+                0.6898,
+                0.4742,
+                0.6,
+                0.3443,
+                0.7,
+                0.003
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.5845,
+                0.2563
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0.8,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.3,
+                0.7
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

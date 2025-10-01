@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "587A237394D3AD0010089C0C",
+    "Name": "Gated T-Thythm",
+    "Version": "0.7",
+    "Description": "Tight periphery-esque tone, recommend using position 4 on a 5 way selector with the middle pickup height super low. (Bridge bucker split and middle mixed in series)",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5328,
+                0.6189,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5846,
+                0.6183,
+                0.6527,
+                0.3424,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2419,
+                0,
+                0.631,
+                0.5431
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.0347,
+                0,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

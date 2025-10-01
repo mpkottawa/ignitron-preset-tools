@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "526BC4CFD70F4B0017000000",
+    "Name": "DIME R",
+    "Version": "0.7",
+    "Description": "Classic Pantera sound",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.74,
+                0.621,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.9211,
+                0.023,
+                0.5094,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.4388,
+                0.6468,
+                0.6153,
+                0,
+                0.6503,
+                0.6907,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6129,
+                0.2523,
+                0.2386,
+                0.5856,
+                0.5025
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2715,
+                0,
+                1,
+                0.5159
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.4311,
+                0.2593,
+                0,
+                0.2312,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.4336,
+                0.2966,
+                0.4527,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

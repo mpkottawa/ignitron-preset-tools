@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54C60BBF55F06E0010000000",
+    "Name": "Joe\u30fbG fusion solo",
+    "Version": "0.7",
+    "Description": "Hentai",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2636,
+                0.2733,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.9336,
+                0.8258,
+                0.1941
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.4581,
+                0.7375,
+                0.3563,
+                0.7375,
+                0.7125,
+                0.2629,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.3092,
+                0.5619,
+                0.3154,
+                0.5733,
+                0.205,
+                0.644,
+                0.3179
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.2042,
+                0,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Vibrato01",
+            "IsOn": false,
+            "Parameters": [
+                0.2,
+                0.7,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.4096,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

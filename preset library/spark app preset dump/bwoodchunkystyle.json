@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521A1AC3C35F8E0012000001",
+    "Name": "b wood chunky style",
+    "Version": "0.7",
+    "Description": "b wood chunky style",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4912,
+                0.4985,
+                0.5
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.4,
+                0.4,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6959,
+                0.5207,
+                0.537,
+                0.642,
+                0.5848
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.748,
+                0.348,
+                0.5246
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.3,
+                0.7,
+                0.7,
+                0.64,
+                1
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.3502,
+                0.4491,
+                0.4106,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3085,
+                0.3493,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

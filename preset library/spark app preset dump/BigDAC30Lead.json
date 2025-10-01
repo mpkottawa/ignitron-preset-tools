@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521D5B38BD8ED9000E000002",
+    "Name": "Big D AC30 Lead",
+    "Version": "0.7",
+    "Description": "Trying for a higher gain Brian May",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.01,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5798,
+                0.5673,
+                0.8047,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.7936,
+                0.7377,
+                0.4334,
+                0.4445,
+                0.4791,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.551,
+                0.6683,
+                0.6064,
+                0.3177,
+                0.3638
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2486,
+                0.1338,
+                0.5761,
+                0.5352,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1276,
+                0.4805,
+                0.3473,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

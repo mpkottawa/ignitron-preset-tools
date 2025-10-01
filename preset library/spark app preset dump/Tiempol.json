@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5C5698EE8DDB6500146092F9",
+    "Name": "Tiempo l",
+    "Version": "0.7",
+    "Description": "Visavis ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.2266,
+                0.2125,
+                0.5
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.6865,
+                0.7902,
+                0.7694,
+                0.6451
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6523,
+                0.63,
+                0.7975,
+                0.3625,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": true,
+            "Parameters": [
+                0.4905,
+                0.5059,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0.6,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

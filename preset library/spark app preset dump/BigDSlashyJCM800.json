@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52238F9D0863E60012000002",
+    "Name": "Big D Slashy JCM 800",
+    "Version": "0.7",
+    "Description": "Simple 800 tubescreamer tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6024,
+                0.6785,
+                0.62,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                1,
+                0.6,
+                0.4406,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3549,
+                0.4085,
+                0.4978,
+                0.6138,
+                0.5402
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2974,
+                0.6289,
+                0.1653,
+                0.4
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0638,
+                0.1131,
+                0.5638,
+                0.6,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

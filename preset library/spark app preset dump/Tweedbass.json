@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5AEB66CB1F787700131F080B",
+    "Name": "Tweed bass",
+    "Version": "0.7",
+    "Description": "F",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5794,
+                0.4392,
+                0.5
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.7298,
+                0.5399,
+                0.6,
+                0.6,
+                0.4982
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.5154,
+                0.5,
+                0.2311
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.7176
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": true,
+            "Parameters": [
+                0
+            ]
+        },
+        {
+            "Name": "MuTron",
+            "IsOn": false,
+            "Parameters": [
+                0.3,
+                0.5,
+                0.5,
+                0.4,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2585,
+                0.627,
+                0.3652,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

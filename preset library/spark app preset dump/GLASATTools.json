@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "66E405BF69DB4498EFE0609A",
+    "Name": "G&L ASAT Tools",
+    "Version": "0.7",
+    "Description": "G&L ASAT set",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.419,
+                0.4432,
+                0.5694,
+                0.5528,
+                0.4887
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.2731,
+                0.9875,
+                0.9457,
+                0.8351
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.3622,
+                0.8116
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.4265,
+                0.4,
+                0.7,
+                0.9099,
+                0.8506,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.4206,
+                0.084,
+                0.6713,
+                0.6518,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1352,
+                0.6988,
+                0.2875,
+                0.3
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53F61006ED3B7B0019000000",
+    "Name": "Dr Z - Griz",
+    "Version": "0.7",
+    "Description": "Dr Z Clean",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.8708,
+                0.7374,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "DrZ",
+            "IsOn": true,
+            "Parameters": [
+                0.4713,
+                0.6527,
+                0.8528
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6095,
+                0.4286,
+                0.5762,
+                0.5429,
+                0.5
+            ]
+        },
+        {
+            "Name": "UniVibe",
+            "IsOn": false,
+            "Parameters": [
+                0.1318,
+                1,
+                0.3863,
+                1,
+                0.8
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.156,
+                0.6,
+                0.7719
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3478,
+                0.4974,
+                0.3774,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

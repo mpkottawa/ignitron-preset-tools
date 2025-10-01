@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52100F1D38282F004A000000",
+    "Name": "ARE U GONNA B",
+    "Version": "0.7",
+    "Description": "Ricarteaga",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.515,
+                0.7542,
+                0
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.1228,
+                0.4565
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5804,
+                0.5312,
+                0.5647,
+                0.4085,
+                0.5
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.3747,
+                0.5022,
+                0.4988,
+                0.4983,
+                0.6262,
+                0.4906
+            ]
+        },
+        {
+            "Name": "RolandJC120",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6707,
+                0.2223,
+                0.5855,
+                0.6518
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2898,
+                0.0876,
+                0.3901,
+                0
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": false,
+            "Parameters": [
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

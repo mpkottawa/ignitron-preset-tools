@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "74ffbe9f-97c9-432f-8ba0-f99c86d67283",
+    "Name": "u2",
+    "Version": "0.7",
+    "Description": "My attempt at U2 sound with a very specific delay. I'm using a Dr. Z tube amp bu",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.2182,
+                0.0649
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.9354,
+                0.4
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.767
+            ]
+        },
+        {
+            "Name": "Checkmate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.2612,
+                0.3054,
+                0.2812,
+                0.1494
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.2174,
+                0.4129,
+                0.5008
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.5547,
+                1,
+                0,
+                0.309,
+                0
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2857,
+                0.4084,
+                0.2895,
+                0.3883,
+                0.5821,
+                0.65,
+                0.2
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

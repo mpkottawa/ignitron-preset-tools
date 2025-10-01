@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5AD4C53DDF2BF0001380845B",
+    "Name": "TIZIZIT T-Rex \ud83e\udd96",
+    "Version": "0.7",
+    "Description": "The Tyrant that conquers all!",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.3008,
+                0.1028,
+                0.35
+            ]
+        },
+        {
+            "Name": "BassOctaveEBS",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.9875,
+                0.5496,
+                0.8805
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2968,
+                0.0985,
+                0
+            ]
+        },
+        {
+            "Name": "Bogner",
+            "IsOn": true,
+            "Parameters": [
+                0.9624,
+                0.7699,
+                0.6562,
+                0.9875,
+                0.7676,
+                0.555,
+                0
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.9068,
+                0.4142,
+                0.7489,
+                0.4515,
+                0.8357,
+                0.249
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                1,
+                0,
+                0.1012,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

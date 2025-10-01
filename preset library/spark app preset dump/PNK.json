@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52CA5F65D4C21D000F000006",
+    "Name": "P!NK",
+    "Version": "0.7",
+    "Description": "pink",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1875,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.771,
+                0.1017
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.1977,
+                0.1988,
+                0.6659,
+                0.318,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.5251,
+                0.5919,
+                0.9803,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5804,
+                0.6875,
+                0.7812,
+                0.5491,
+                0.3616
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6928,
+                0.567,
+                0.4955,
+                0.5536,
+                0.2825
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

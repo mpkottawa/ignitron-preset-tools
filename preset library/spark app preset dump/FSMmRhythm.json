@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53A4365891B9B4000F000000",
+    "Name": "FSM \\m/ Rhythm",
+    "Version": "0.7",
+    "Description": "Metal Rhythm guitar preset from the song \"Fate Of Souls\" ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1094,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.8147
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.3,
+                0.5911,
+                0.7,
+                0.6148,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.501,
+                0.3566,
+                0.5307,
+                0.622,
+                0.525
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.3398,
+                0.1602,
+                0.225,
+                1,
+                0.6
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.0887,
+                0.6,
+                0.5,
+                0.0899,
+                0
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

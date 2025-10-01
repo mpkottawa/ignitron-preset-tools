@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52CC64F9E80ACE000B000003",
+    "Name": "Funk Talker A",
+    "Version": "0.7",
+    "Description": "dirty envelope filter, bright",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BassOctaveEBS",
+            "IsOn": true,
+            "Parameters": [
+                0.7432,
+                0.6552,
+                1
+            ]
+        },
+        {
+            "Name": "QTron",
+            "IsOn": true,
+            "Parameters": [
+                0.33,
+                0.4,
+                0.6,
+                0.8764,
+                1,
+                0.6
+            ]
+        },
+        {
+            "Name": "MaestroBassmaster",
+            "IsOn": true,
+            "Parameters": [
+                0.4989,
+                0.2794,
+                1
+            ]
+        },
+        {
+            "Name": "SuperBassman",
+            "IsOn": true,
+            "Parameters": [
+                0.9229,
+                0.1475,
+                0.7826,
+                0.5191,
+                0.5517,
+                0.3784,
+                0
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3248,
+                0.0949,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

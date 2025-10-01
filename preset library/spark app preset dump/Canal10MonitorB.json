@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5DB8231F885EC50016C63994",
+    "Name": "Canal 10 Monitor B",
+    "Version": "0.7",
+    "Description": "B",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5882,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.1286,
+                0.6338,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": false,
+            "Parameters": [
+                0.3228,
+                0.6685,
+                0.2081,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.6283,
+                0.6234,
+                0.374,
+                0.6023,
+                0.6336,
+                0.8957,
+                0
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5529,
+                0.6653,
+                0.3248,
+                0.6796,
+                0.3277,
+                0.4555,
+                0.388
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5A0FA63296838301A7F353DE",
+    "Name": "Only wanna sing p",
+    "Version": "0.7",
+    "Description": "Jiji ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3494,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.2666,
+                0.1355,
+                0.7493
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2504,
+                0.3017,
+                0.3842,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.3058,
+                0.2274,
+                0.4897,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.6,
+                0.5308,
+                0.6283,
+                0
+            ]
+        },
+        {
+            "Name": "DrZ",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.6,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

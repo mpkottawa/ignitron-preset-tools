@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52BD860CD45C86001B000006",
+    "Name": "q-tron",
+    "Version": "0.7",
+    "Description": "j harp ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.2108,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.5761,
+                0.7776,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": false,
+            "Parameters": [
+                0.7222,
+                1,
+                0.7173
+            ]
+        },
+        {
+            "Name": "DelayMultiHead",
+            "IsOn": false,
+            "Parameters": [
+                0.8279,
+                0.6342,
+                0.7623,
+                0.63,
+                0
+            ]
+        },
+        {
+            "Name": "QTron",
+            "IsOn": true,
+            "Parameters": [
+                0.66,
+                0.4,
+                0.6,
+                0.6746,
+                0.7338,
+                0.4
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2925,
+                0.3092,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": false,
+            "Parameters": [
+                0.65,
+                0.3691,
+                0.2622,
+                0.7469,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

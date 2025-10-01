@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51D5212EAC57AC0011000004",
+    "Name": "Toyo - Cln w/z Chr&Tre",
+    "Version": "0.7",
+    "Description": "Guitar",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "RolandJC120",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8216,
+                0.7428,
+                0.8809,
+                0.6972
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.6641,
+                0.509,
+                0.5052
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": false,
+            "Parameters": [
+                0.852,
+                0.7903
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4308,
+                0.6496,
+                0.5915,
+                0.4353,
+                0.7924
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.2953,
+                0.4811,
+                0.426,
+                0.5877
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.4868,
+                0.4029,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.7435,
+                0.6369,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

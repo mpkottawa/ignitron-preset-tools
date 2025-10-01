@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "533DD104BE1A76001C000000",
+    "Name": "Clean Tweed BJ",
+    "Version": "0.7",
+    "Description": "J",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5145,
+                0.5976,
+                0.6413,
+                1
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.495,
+                0.3196,
+                0.6474,
+                0.8392,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.7411
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2078,
+                0.4,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

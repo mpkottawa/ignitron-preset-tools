@@ -1,0 +1,91 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51C4B3A828C82A0014000002",
+    "Name": "High As F*ck",
+    "Version": "0.7",
+    "Description": "Tight Death Metal Tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.4063,
+                0.5149,
+                0.1143,
+                0.3445,
+                0.9615,
+                0.6307
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.5657,
+                0.4134,
+                0.0923,
+                1,
+                0.6261,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6499,
+                0.3664,
+                0.6727,
+                0.8716,
+                0.4866
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6761,
+                0.5,
+                0.5,
+                0.6139,
+                0.4765,
+                0.5546,
+                0.507
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.3704,
+                1,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

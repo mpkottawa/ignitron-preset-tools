@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5AA9F0C9C16B9A00135D39C1",
+    "Name": "Clean Sterm z",
+    "Version": "0.7",
+    "Description": "Stern z",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6059,
+                0.7996,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.0986,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2361,
+                0.3242,
+                0.6523,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6547,
+                0.7,
+                0.6298,
+                0.8,
+                0.5479
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.319,
+                0.5,
+                0.6714,
+                0.6561
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": true,
+            "Parameters": [
+                0.1602,
+                0.6456,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": false,
+            "Parameters": [
+                0.2214,
+                1,
+                0.4882
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "565E2EBF22F3460E0006BEAC",
+    "Name": "Guns 'n Roses gongilbert",
+    "Version": "0.7",
+    "Description": "Gongilbert Guns",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.157,
+                0.1136,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.7959,
+                0.7857,
+                0.648,
+                0.699
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.189,
+                0.7203,
+                0.1043,
+                0.8228
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.7883,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8136,
+                0.8521,
+                0.7,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.275,
+                0.6057,
+                0.3111,
+                0.4
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.4485,
+                0.715,
+                0.2498,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

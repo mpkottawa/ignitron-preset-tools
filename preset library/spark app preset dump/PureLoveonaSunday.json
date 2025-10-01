@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51EB87F0C807EA000A000000",
+    "Name": "Pure Love on a Sunday",
+    "Version": "0.7",
+    "Description": "candy heart",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.8193,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.8319,
+                0.48,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": true,
+            "Parameters": [
+                0.1,
+                0.1501,
+                0.6
+            ]
+        },
+        {
+            "Name": "Deluxe57",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8334,
+                0.3311,
+                0.373
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5129,
+                0.4127,
+                0.662,
+                0.4902,
+                0.5752
+            ]
+        },
+        {
+            "Name": "MaestroBassmaster",
+            "IsOn": true,
+            "Parameters": [
+                0.6317,
+                0.916,
+                0.4786
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

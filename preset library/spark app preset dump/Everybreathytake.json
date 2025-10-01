@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5E935BBB5EBB620016D73E07",
+    "Name": "Every breath y take",
+    "Version": "0.7",
+    "Description": "Police ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.6486
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.4511,
+                0.7155,
+                0.5228,
+                0.5269,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.7931,
+                0.5045,
+                0.7747,
+                0.8937,
+                0.4999
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.3549,
+                0.2763,
+                0.8181,
+                0.7299
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1994,
+                0.2482,
+                0.2661,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2394,
+                0.5,
+                0.5,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

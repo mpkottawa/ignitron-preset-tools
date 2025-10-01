@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "58A0AB95265B110533610770",
+    "Name": "There Is a Cloud",
+    "Version": "0.7",
+    "Description": "There Is a Cloud",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.3162,
+                0,
+                0.7538,
+                1
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.6783,
+                0.7031
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": false,
+            "Parameters": [
+                0.55,
+                0.65,
+                0.45,
+                0.05,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3927,
+                0.4836,
+                0.7397,
+                0.5093,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2877,
+                0.627,
+                0.123,
+                0.7
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5693,
+                0.6499,
+                0.7009,
+                0.9509,
+                0.6964
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

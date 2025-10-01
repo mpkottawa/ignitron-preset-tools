@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5BD0814EE9E74A001286B631",
+    "Name": "\u5931\u771fx\u2006x\u2006x",
+    "Version": "0.7",
+    "Description": "BBC Tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5534,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.4949,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.3887,
+                0.6654,
+                0.3892,
+                0.2427,
+                0.7326,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4792,
+                0.6618,
+                0.7643,
+                0.8495,
+                0.8338
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2365,
+                0.1785,
+                0.2215,
+                0.5287,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2346,
+                0.6,
+                0.3,
+                0.7
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.1917,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

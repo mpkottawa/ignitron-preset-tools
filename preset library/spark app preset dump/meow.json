@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "465a9c34-65ba-4ae5-aa47-3fd77beef22f",
+    "Name": "meow",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3169,
+                0.3042,
+                1
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.3411,
+                0.6658
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.6614
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                0.6542,
+                0.7073,
+                0.6011,
+                0.6896,
+                0.5931
+            ]
+        },
+        {
+            "Name": "UniVibe",
+            "IsOn": true,
+            "Parameters": [
+                0.5485,
+                0,
+                0.7014
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": false,
+            "Parameters": [
+                0.1522,
+                0.6633,
+                0.145,
+                0
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.6888,
+                0.3929,
+                0.4611,
+                0.6937,
+                0.4882,
+                0.4664,
+                0.3,
+                1
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

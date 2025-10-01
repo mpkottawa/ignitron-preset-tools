@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "536373C26B86CB000E000002",
+    "Name": "drop a",
+    "Version": "0.7",
+    "Description": "Green box stack with gainy AC 30",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.0742,
+                0,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4102,
+                0.7277,
+                0,
+                0.3246,
+                0.3801
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5638,
+                0.998,
+                0.1147,
+                0.3586,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6161,
+                0.4732,
+                0.7232,
+                0.5536,
+                0.4866
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.4
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

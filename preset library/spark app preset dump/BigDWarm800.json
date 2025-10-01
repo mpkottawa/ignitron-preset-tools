@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521D5F1FE3FB200019000000",
+    "Name": "Big D Warm 800",
+    "Version": "0.7",
+    "Description": "Warm rock sound",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.533,
+                0.6172,
+                0.948,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.6,
+                0.4,
+                0.7,
+                0.5887,
+                0.7678,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6617,
+                0.6786,
+                0.5848,
+                0.3996,
+                0.3816
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.055,
+                0.0436,
+                0.416,
+                0.1483,
+                0
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2159,
+                0.2135,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

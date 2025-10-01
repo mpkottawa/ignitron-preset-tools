@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5340CF694088CC000E000000",
+    "Name": "05150 Killer Lead w/Delay",
+    "Version": "0.7",
+    "Description": "chewy and satchurated lead",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5122,
+                0.6502,
+                0
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.2848,
+                1,
+                1,
+                0.4756,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.2205,
+                0.3377,
+                0.8562,
+                0.8393,
+                0.433
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5583,
+                0.1368,
+                0.2058
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.599,
+                0.5599,
+                0.6212,
+                0.4969,
+                0.8745,
+                0.8794,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1738,
+                0.1941,
+                0.7997,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1518,
+                0.323,
+                0.311,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

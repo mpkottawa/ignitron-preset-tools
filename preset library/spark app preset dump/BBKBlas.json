@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "552174D82D5435000F000007",
+    "Name": "BB K Blas",
+    "Version": "0.7",
+    "Description": "BB",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": false,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.8905,
+                0.5064,
+                0.5022,
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6709,
+                0.8121,
+                0.6,
+                0.8591,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.7882,
+                0.6506,
+                0.7474,
+                0.7154,
+                0.5936
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.3548,
+                0.3624,
+                0.6237,
+                0.6316,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1621,
+                0.5,
+                0.0224,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

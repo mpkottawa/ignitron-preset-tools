@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5F6E709DA3A24D00164197E3",
+    "Name": "Drop Tuning Fireball w/ TS9 and Gate \\m/",
+    "Version": "0.7",
+    "Description": "Drop D Tuning Rhythm Tone that\u2019s SICK! Enjoy",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1807,
+                0.3887,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6966,
+                0.2114
+            ]
+        },
+        {
+            "Name": "ENGL",
+            "IsOn": true,
+            "Parameters": [
+                0.7491,
+                0.6994,
+                0.4706,
+                0.6042,
+                0.7,
+                0.5092
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.4643,
+                0.5402,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.2042,
+                0,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

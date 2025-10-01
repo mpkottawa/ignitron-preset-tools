@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521D5D1EBD8ED90019000000",
+    "Name": "A Little Dirt",
+    "Version": "0.7",
+    "Description": "A clean channel pushed to the point of break up .",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.3521,
+                0.5827,
+                0.7456,
+                1
+            ]
+        },
+        {
+            "Name": "PowerAmp",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.7349,
+                0.6,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.4643,
+                0.5402,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.4248,
+                0.2343,
+                0.643,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "QTron",
+            "IsOn": false,
+            "Parameters": [
+                0.9,
+                0.4,
+                0.4,
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

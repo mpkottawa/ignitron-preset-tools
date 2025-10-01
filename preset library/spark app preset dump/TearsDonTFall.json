@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "545732D87A8D23000F00000F",
+    "Name": "Tears Don T Fall",
+    "Version": "0.7",
+    "Description": "Bullet For My Valentine",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.9357,
+                0.4481,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5905,
+                0.6857,
+                0.481,
+                0.6143,
+                0.6238
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.899,
+                0.546,
+                1
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.8638,
+                1,
+                0.2385,
+                0.5554,
+                0.6147,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2121,
+                0.5,
+                0.2674,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": true,
+            "Parameters": [
+                0.0868,
+                0.0278,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

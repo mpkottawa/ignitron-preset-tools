@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5249EAF56A90E6000E000000",
+    "Name": "Jungle (w/ delay)",
+    "Version": "0.7",
+    "Description": "for Jungle opening",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4398,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.8162,
+                0.9499,
+                0.7708,
+                1
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.5795,
+                0.5173,
+                0.605,
+                0.5736,
+                0.8094,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4744,
+                0.6221,
+                0.5158,
+                0.6106,
+                0.5058
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.8866,
+                0.4499,
+                0.328,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.4107,
+                0.9169,
+                0.5938,
+                0.7
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.1945,
+                0.2,
+                0.6277,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

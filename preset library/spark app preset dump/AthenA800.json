@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "57492516A40FE00E00938ABA",
+    "Name": "AthenA800",
+    "Version": "0.7",
+    "Description": "A",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.8115,
+                0.7048
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3284,
+                0.5656,
+                0.5364,
+                0.2796,
+                0.4936
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.142,
+                0.4353,
+                0.6685
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.7171
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.5515,
+                0.3814,
+                0.7542,
+                0.6066,
+                0.8091,
+                0.6098,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.4086,
+                0.4262,
+                0.4505,
+                0.075,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

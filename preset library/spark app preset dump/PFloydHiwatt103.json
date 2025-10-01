@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "563E232FA4BA7E0E0061B0F7",
+    "Name": "P. Floyd Hiwatt103",
+    "Version": "0.7",
+    "Description": "Gilmore/Pink Floyd Another brick...",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.3465,
+                0.8411,
+                0.6968,
+                1
+            ]
+        },
+        {
+            "Name": "Hiwatt103",
+            "IsOn": true,
+            "Parameters": [
+                0.4193,
+                0.5114,
+                0.441,
+                0.5463,
+                0.6333,
+                0.7721,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.7519
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.7672
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2365,
+                0.2568,
+                0.2724,
+                0.4,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.5292,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5259CA3517B9F3001C000000",
+    "Name": "r",
+    "Version": "0.7",
+    "Description": "d",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.7,
+                0.7,
+                0,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.01,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0,
+                0.75,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.3,
+                0.7
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

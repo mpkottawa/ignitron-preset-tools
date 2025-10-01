@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51C8A3C0004BB4001A000000",
+    "Name": "Engl w/ tight screamer overdrive",
+    "Version": "0.7",
+    "Description": "good for extended range guitars with passive pickups sounds much like my Engl blackmoore. ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.7638,
+                0.2104,
+                0.35
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8505,
+                0.3686
+            ]
+        },
+        {
+            "Name": "ENGLJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6875,
+                0.4968,
+                0.5763,
+                0.6312,
+                0.6606,
+                0.5382,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5958,
+                0.65,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": true,
+            "Parameters": [
+                0.3314,
+                0.4699
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.5654,
+                0.6497
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.4834,
+                0.2119,
+                0.1945,
+                0,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

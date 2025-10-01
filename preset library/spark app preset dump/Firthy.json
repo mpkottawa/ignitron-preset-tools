@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A979E06BE880E00D89B15",
+    "Name": "Firthy",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.8622,
+                0.41,
+                0.5306,
+                0.712,
+                0.9974
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                1,
+                0.4,
+                0.6,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                1,
+                0.4827
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3208,
+                0.6,
+                0.3,
+                0.7
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.5401,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

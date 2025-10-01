@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "542240FA80B557000E000002",
+    "Name": "Fender w/LA2A",
+    "Version": "0.7",
+    "Description": "Fender rock bass w/comp",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5571,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "SuperBassman",
+            "IsOn": true,
+            "Parameters": [
+                0.275,
+                0.8891,
+                0.6,
+                0.4,
+                0.4,
+                0.5824,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.7252,
+                0.4912
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0.8,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.3,
+                0.7
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

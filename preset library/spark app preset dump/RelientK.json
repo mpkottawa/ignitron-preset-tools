@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "563811510885E80E00852883",
+    "Name": "Relient K",
+    "Version": "0.7",
+    "Description": "Relient K",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.3649,
+                0.4785,
+                0.5029,
+                1
+            ]
+        },
+        {
+            "Name": "SABdriver",
+            "IsOn": true,
+            "Parameters": [
+                0.6808,
+                0.6875,
+                0.3387,
+                0
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.625,
+                0.3148,
+                0.3,
+                0.6,
+                0.88,
+                0.6414,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4734,
+                0.6767,
+                0.6042,
+                0.7288,
+                0.4934
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2974,
+                0.6289,
+                0.1653,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

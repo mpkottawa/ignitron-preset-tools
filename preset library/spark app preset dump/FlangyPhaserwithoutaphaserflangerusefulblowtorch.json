@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5BA40C0233C96400128058E9",
+    "Name": "Flangy Phaser (without a phaser/flanger) - useful blowtorch",
+    "Version": "0.7",
+    "Description": "Gritty blowtorch with flangy/phaser overtones without a flanger or phaser. Optional auto wah for more \u201cmore\u201d.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4729,
+                0.8,
+                0.3729,
+                0.4514,
+                0.7
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.4117,
+                0.4423,
+                0.35
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": true,
+            "Parameters": [
+                0.4258,
+                0.7948,
+                0.5503
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6609,
+                0.7684,
+                0.3585,
+                0.8849
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8884,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.4421,
+                0.7478,
+                0.7886,
+                0.711
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": true,
+            "Parameters": [
+                0.3065,
+                0.2254,
+                0.3604,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

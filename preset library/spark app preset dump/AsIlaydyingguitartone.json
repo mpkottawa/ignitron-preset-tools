@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5491DC01E6476D0016000005",
+    "Name": "As I lay dying guitar tone ",
+    "Version": "0.7",
+    "Description": "As I lay dying guitar setup ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.3699,
+                0.2335,
+                0.4314,
+                1
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.5622,
+                0.6,
+                0.4729,
+                0.4289,
+                0.4094,
+                0.7197,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.3276,
+                0.6129,
+                0.5427,
+                0.59,
+                0.3942,
+                0.4406,
+                0.5
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3478,
+                0.4974,
+                0.3774,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

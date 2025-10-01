@@ -1,0 +1,89 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5F7547B665F5BA00165005C4",
+    "Name": "I Destroy Silence",
+    "Version": "0.7",
+    "Description": "Shmutty balls",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.0453,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5891,
+                0.5837,
+                0.662,
+                0.7239,
+                0.6132
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.7495,
+                0.6147,
+                0.8165
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.5663,
+                0.6307,
+                0.6488,
+                0.4011,
+                0.8049,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6062,
+                0.55,
+                0.7581,
+                0.6024,
+                0.6908,
+                0.4375,
+                0.6171
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2655,
+                0.2595,
+                0.4376,
+                0.7
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": false,
+            "Parameters": [
+                0.4173,
+                0.4155,
+                0.6681,
+                0.5845,
+                0,
+                0.4173,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

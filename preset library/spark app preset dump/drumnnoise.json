@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51F08CF7C42A5F0014000001",
+    "Name": "drum n' noise",
+    "Version": "0.7",
+    "Description": "another resource for reggae and dub ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.1631,
+                0.156,
+                0.5,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMultiHead",
+            "IsOn": false,
+            "Parameters": [
+                0.1731,
+                0.3835,
+                0.529,
+                0.34,
+                0
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.742,
+                0.6963,
+                0.2002,
+                0.4,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.65
+            ]
+        },
+        {
+            "Name": "OrangeAD200",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.798,
+                0.4,
+                0.807,
+                0.1607
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.9811
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                1,
+                0.4231
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

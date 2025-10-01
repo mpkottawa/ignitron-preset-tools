@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "60934E7D6B82330016F8425A",
+    "Name": "J&D Alive sanctuary",
+    "Version": "0.7",
+    "Description": "Alive",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5924,
+                0.3321
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.629,
+                0.5935
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": false,
+            "Parameters": [
+                0.0005,
+                0.5778,
+                0.1292
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.624,
+                0.6499,
+                0.5103,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "Acoustic360",
+            "IsOn": true,
+            "Parameters": [
+                0.4973,
+                0.1658,
+                0.5819,
+                0.6611,
+                0.4854,
+                0.57,
+                0.7448
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2062,
+                0.4411,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

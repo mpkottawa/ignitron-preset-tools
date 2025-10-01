@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "545607CAAFE3DF000E00000D",
+    "Name": "I Just Died In Your Arms",
+    "Version": "0.7",
+    "Description": "Cutting Crew",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.2974,
+                0.4049,
+                0.5115,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "ENGL",
+            "IsOn": true,
+            "Parameters": [
+                0.3729,
+                0.3701,
+                0.502,
+                0.6062,
+                0.3253,
+                0.498
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6727,
+                0.3728,
+                0.6173,
+                0.622,
+                0.5567
+            ]
+        },
+        {
+            "Name": "CryWah",
+            "IsOn": false,
+            "Parameters": [
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.6,
+                0.3819,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2293,
+                0.6289,
+                0.3732,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51F33682E284F60009000002",
+    "Name": "Distortion \\m/",
+    "Version": "0.7",
+    "Description": "good for slipknot  with perfect hermonic",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.561,
+                0.7061,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2434,
+                0,
+                0.7,
+                0.5949
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.4362,
+                0.8418,
+                0.5
+            ]
+        },
+        {
+            "Name": "ENGLJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6957,
+                0.6,
+                0.2951,
+                0.3121,
+                0.6451,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": true,
+            "Parameters": [
+                0.6551,
+                0.6778
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.064,
+                0.2152,
+                0.6918,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

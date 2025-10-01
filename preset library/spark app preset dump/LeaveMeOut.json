@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "ada3088f-ffa7-40a9-bfc6-a3f7978b2afc",
+    "Name": "Leave Me Out",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1432,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": false,
+            "Parameters": [
+                0.5064,
+                0.3565,
+                0.3489,
+                0.4075
+            ]
+        },
+        {
+            "Name": "GuitarMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.5165,
+                0.7562,
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.8058,
+                0.5766,
+                0.8176,
+                0.5833,
+                0.7795
+            ]
+        },
+        {
+            "Name": "Cloner",
+            "IsOn": false,
+            "Parameters": [
+                0.4345,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.1878,
+                0.2117,
+                0.3344,
+                0.4,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": false,
+            "Parameters": [
+                0.3159,
+                0.6522,
+                0.1114,
+                0.3578,
+                0.3393,
+                0.4899,
+                0.7,
+                0
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

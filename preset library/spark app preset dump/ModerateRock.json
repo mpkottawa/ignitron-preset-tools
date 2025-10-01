@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54EBB2E985534D0011000002",
+    "Name": "Moderate Rock",
+    "Version": "0.7",
+    "Description": "M",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.8262,
+                0.998,
+                0.5
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": true,
+            "Parameters": [
+                0.0482,
+                0.7225,
+                0.8776
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": true,
+            "Parameters": [
+                0.5895,
+                0.4456
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4,
+                0.6105,
+                0.2257,
+                0.6247,
+                0.8667
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.4631,
+                0.5,
+                0.1024,
+                0.7
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0,
+                0.3298,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

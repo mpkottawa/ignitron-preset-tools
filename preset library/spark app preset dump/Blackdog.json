@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "ddffc375-7779-43d1-a5fa-6027eacd394e",
+    "Name": "Black dog",
+    "Version": "0.7",
+    "Description": "A good approximation of JP's sound on the first two Led Zeppelin albums.",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.01
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.72,
+                0.44
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.46,
+                0.47,
+                0.77
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.87,
+                0.86,
+                0.34,
+                0.93,
+                0.55
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4541,
+                0.6999,
+                0.5962
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.3818,
+                0.3983,
+                0.7363,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.33,
+                0.64,
+                0.54,
+                0.27,
+                0.46,
+                0.44,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

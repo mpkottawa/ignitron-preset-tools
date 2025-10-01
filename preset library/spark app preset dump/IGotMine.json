@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56E0F790997A940E0051EAAA",
+    "Name": "I Got Mine",
+    "Version": "0.7",
+    "Description": "Black Keys: I Got Mine",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.001,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.2434,
+                0,
+                0.7,
+                0.5949
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.3616,
+                0.6,
+                0.25,
+                0.25,
+                0.4262,
+                1
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.97,
+                0.4266,
+                0.1481
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.3999,
+                0.4926,
+                0.6,
+                0.5743,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3833,
+                0.4399,
+                0.5529,
+                0.4274,
+                0.6184
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54C1CE100EB8EA0019000000",
+    "Name": "Jake d Bassman crunch",
+    "Version": "0.7",
+    "Description": "Hi jake ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.2125,
+                0.3718,
+                0.5
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6771,
+                1,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": false,
+            "Parameters": [
+                0.6726,
+                0.0625,
+                0.3626,
+                0
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.4,
+                0.664,
+                0.6,
+                0.6,
+                0.3732
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.5279,
+                0.622,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.5713,
+                0.3268,
+                0.6713,
+                0.8184,
+                1
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

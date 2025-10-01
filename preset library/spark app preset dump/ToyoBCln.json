@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51FF5D9F09F4940010000002",
+    "Name": "Toyo - B/Cln",
+    "Version": "0.7",
+    "Description": "Guitar",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.7942,
+                0.5916,
+                0.5
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.8499,
+                0.8754,
+                0.3385,
+                0.5513,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.6518,
+                0.6585,
+                0.558
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.8589,
+                0.4636,
+                0.7106
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.311,
+                0.48,
+                0.5839,
+                0.5364
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.4868,
+                0.4029,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.6368,
+                0.6538,
+                0.2779,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

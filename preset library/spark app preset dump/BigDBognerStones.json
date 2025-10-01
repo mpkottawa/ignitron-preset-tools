@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521D602A9D00A20011000000",
+    "Name": "Big D Bogner Stones",
+    "Version": "0.7",
+    "Description": "Roll back the volume on the guitar for an almost clean sound, or add the Booster for some extra dirt. Great rock or blues sound.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.6
+            ]
+        },
+        {
+            "Name": "Bogner",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.7,
+                0.8246,
+                0.6,
+                0.8286,
+                0.573,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.4738,
+                0.3892,
+                0.7225,
+                0.3682,
+                0.5275
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.2042,
+                0.3119,
+                0.5512,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.4707,
+                0,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2627,
+                0.2361,
+                0.7604,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

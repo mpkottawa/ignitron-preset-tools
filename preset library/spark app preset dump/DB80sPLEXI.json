@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "543E8B32C0573C001100000C",
+    "Name": "DB 80's PLEXI ",
+    "Version": "0.7",
+    "Description": "Good for 80's Rock/Metal",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6376,
+                0.4,
+                0.6025
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6124,
+                0.6289,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.6531,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3598,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.6022,
+                0.4919,
+                0.6148,
+                0.6,
+                0.6049,
+                0.7484
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.1534,
+                0,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.1486,
+                0.1466,
+                0.6061,
+                0.7,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

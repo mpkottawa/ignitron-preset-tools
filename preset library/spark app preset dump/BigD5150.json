@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521D5B1A9D00A2000A000002",
+    "Name": "Big D 5150 ",
+    "Version": "0.7",
+    "Description": "Going for Killswitch Engage tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1314,
+                0.1253,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6707,
+                0,
+                0.7111,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.3442,
+                0.0997,
+                0.3218,
+                0.5076
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.7254,
+                0.3374,
+                0.62,
+                0.6224,
+                0.6371,
+                0.6934,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5285,
+                0.3687,
+                0.6397,
+                0.4252,
+                0.3842
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2486,
+                0.267,
+                0.5761,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1293,
+                0.4805,
+                0.3473,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

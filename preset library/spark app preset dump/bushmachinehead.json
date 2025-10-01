@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "610d6122-3286-439d-8908-5b40a9830f12",
+    "Name": "bush machinehead",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4465,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.7126,
+                0.7248
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": true,
+            "Parameters": [
+                0.5428,
+                0.2961,
+                0.6444
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.4155,
+                0.7458,
+                0.175,
+                0.6687,
+                1
+            ]
+        },
+        {
+            "Name": "GuitarEQ6",
+            "IsOn": true,
+            "Parameters": [
+                0.7958,
+                0.7222,
+                0.6647,
+                0.5,
+                0.5,
+                0.5468,
+                0.5607
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.3818,
+                0.3983,
+                0.7363,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2857,
+                0.4084,
+                0.2895,
+                0.3883,
+                0.5821,
+                0.65,
+                0.2,
+                1
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

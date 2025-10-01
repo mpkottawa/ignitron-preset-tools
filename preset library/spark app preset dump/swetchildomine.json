@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "55831B721E1D830F004535B0",
+    "Name": "swet child o mine",
+    "Version": "0.7",
+    "Description": "slash afd sweet child o mine rhythm",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.3252,
+                0.328,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.1018,
+                0.6172,
+                0.948,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.8581,
+                0.6692,
+                0.4754,
+                0.5698,
+                0.7735
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.7341,
+                0.6,
+                0.6,
+                0,
+                0.6
+            ]
+        },
+        {
+            "Name": "JC120Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.85,
+                0.5399,
+                0.3799,
+                0.4219
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2072,
+                0.2625,
+                0.4459,
+                0.3
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.6641,
+                0.225,
+                0.5172,
+                0.4595
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5CD88C57900FB000142F1367",
+    "Name": "150 io e te ritt",
+    "Version": "0.7",
+    "Description": "SuperMe ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.625,
+                0.5522
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.3573,
+                0.575,
+                0.3899,
+                0.6339,
+                0.7,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.512,
+                0.6244,
+                0.8005,
+                0.8725,
+                0.604
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.1758,
+                0.5859,
+                0.4,
+                0
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2608,
+                0.2324,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

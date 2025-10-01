@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5311106A5EA58F000B000002",
+    "Name": "noy h",
+    "Version": "0.7",
+    "Description": "h",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.644,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.2189,
+                1,
+                0.9233,
+                0.6669,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.8655,
+                0.6384,
+                0.4107,
+                0.6562,
+                0.5759
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5229,
+                0.5062,
+                0.5021,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.1384,
+                0.1827,
+                0.6659,
+                0.8659,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

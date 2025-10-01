@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "523BF9CE68169C000E000002",
+    "Name": "U R so good 80",
+    "Version": "0.7",
+    "Description": "naytmayer",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.7523,
+                0.8989,
+                0.4692,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5249,
+                0.0496,
+                0.1756,
+                0.3452
+            ]
+        },
+        {
+            "Name": "Bogner",
+            "IsOn": true,
+            "Parameters": [
+                0.3881,
+                0.7,
+                0.3,
+                0.6,
+                0.5,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.3,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.4337,
+                0.6,
+                1,
+                0.5716,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.216,
+                0.5,
+                0.5,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

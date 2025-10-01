@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A985DDB0BE40E00149408",
+    "Name": "Jazz",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6135,
+                0.6495,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5365,
+                0.5262,
+                0.5281,
+                0.4558,
+                0.6316,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.6971,
+                0.2,
+                0.1204,
+                0.8
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0,
+                0.6
+            ]
+        },
+        {
+            "Name": "Whammy",
+            "IsOn": false,
+            "Parameters": [
+                0.1,
+                0.7935,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.1591,
+                1,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "4979d4e3-1e3c-475e-b641-eb66ab5ee0d6",
+    "Name": "Foo Fighters Breakout",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.0027,
+                0.061
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5627,
+                0.5732
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.3512,
+                0.4936,
+                0.3869
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.8362,
+                0.6927,
+                0.2013,
+                0.7139,
+                0.648
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4541,
+                1,
+                0.5962
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.3818,
+                0.3983,
+                0.7363,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": false,
+            "Parameters": [
+                0.3357,
+                0.6438,
+                0.5208,
+                0.2813,
+                0.4695,
+                0.4555,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

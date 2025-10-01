@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52F2C1628F20310011000003",
+    "Name": "Plexi Red 70's auto Wah",
+    "Version": "0.7",
+    "Description": "Classic 70's solid rock",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4205,
+                0.5962,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.4316,
+                0.6948
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.1885,
+                1,
+                0.3051,
+                0.8767,
+                0
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.4822,
+                0.3157,
+                0.8151,
+                0.6762,
+                0.8635,
+                0.7738
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.7296,
+                0.4286,
+                0.8393,
+                0.6027,
+                0.4375
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0,
+                0.75,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": false,
+            "Parameters": [
+                0.7086,
+                0.1129,
+                0.3628,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

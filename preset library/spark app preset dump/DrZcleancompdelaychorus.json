@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51E41E3E65D6230014000002",
+    "Name": "Dr. Z, clean, comp, delay, chorus",
+    "Version": "0.7",
+    "Description": "single coil, sonic port line 6",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DrZ",
+            "IsOn": true,
+            "Parameters": [
+                0.5683,
+                0.6606,
+                0.5889
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8983,
+                0.3867
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.3458,
+                0.2206,
+                0.8076,
+                0.7802,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5227,
+                0.3585,
+                0.3558,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2155,
+                0.7514,
+                0.4513,
+                0.3
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

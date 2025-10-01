@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "520ECD68E998EC0017000002",
+    "Name": "EL BAILE Y EL SALON",
+    "Version": "0.7",
+    "Description": "ricarteaga",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1753,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "Acoustic",
+            "IsOn": true,
+            "Parameters": [
+                0.3917,
+                0.4747,
+                0.522,
+                0.5698,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3504,
+                0.4509,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1104,
+                0.982,
+                0.2939,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.1119,
+                0.2364,
+                0.5378,
+                0.4379,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.3382,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

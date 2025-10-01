@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53160A57A7981E000A000001",
+    "Name": "Now that's what I call tone, VOL1",
+    "Version": "0.7",
+    "Description": "Djent metal ect..made tone on ibanez S series iron label 8. dimarzio deactivators ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.4
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.1825,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.3249,
+                0.7507,
+                0.5017
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5333,
+                0.6619,
+                0.8857,
+                0.6381,
+                0.8398
+            ]
+        },
+        {
+            "Name": "ENGLJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.4313,
+                0.3203,
+                0.6509,
+                0.6252,
+                0.6029,
+                0.6738,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6182,
+                0.5636,
+                0.6773,
+                0.4,
+                0.4136
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

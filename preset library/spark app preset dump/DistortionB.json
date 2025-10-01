@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5A95C22F30FE12001328FE11",
+    "Name": "Distortion B",
+    "Version": "0.7",
+    "Description": "B distortion",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.5,
+                0.6
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3571,
+                0.497,
+                0.7009,
+                0.574,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1612,
+                0.9336,
+                0
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.7524,
+                0.6023,
+                0.8539,
+                0.3419,
+                0.6805,
+                0.7826,
+                0.2246,
+                0.7272
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.0989,
+                1,
+                0.5122
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

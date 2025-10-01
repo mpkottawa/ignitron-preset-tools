@@ -1,0 +1,74 @@
+{
+    "PresetNumber": 127,
+    "UUID": "606A772B7E3CF50016438F73",
+    "Name": "Slow Dancing in a Burning Room",
+    "Version": "0.7",
+    "Description": "Strat neck/mid",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": false,
+            "Parameters": [
+                0.6
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.85,
+                0.85
+            ]
+        },
+        {
+            "Name": "Bassman",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.4,
+                0.664,
+                0.6,
+                0.6,
+                0.3732
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.1451,
+                0.1101,
+                0.6713,
+                0.2697,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.532,
+                0.6911,
+                0.4583,
+                0
+            ]
+        },
+        {
+            "Name": "NoiseFilter",
+            "IsOn": false,
+            "Parameters": [
+                0.7304
+            ]
+        },
+        {
+            "Name": "NoiseFilter",
+            "IsOn": false,
+            "Parameters": [
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

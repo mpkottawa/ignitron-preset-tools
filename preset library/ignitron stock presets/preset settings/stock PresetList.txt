@@ -1,0 +1,99 @@
+-- Bank 1 
+SweetChildOfMine.json
+SlashV2.json
+SlashAFD.json
+SlashDontCry.json
+-- Bank 2 
+NovemberRainSolo.json
+ParadiseCity.json
+KnockingOnHeaven.json
+GunsNRoses.json
+-- Bank 3 
+RockDistortion.json
+RageNowInTheFire.json
+ComfortablyNumbSolo.json
+StairwayToHeavenSolo.json
+-- Bank 4 
+BohemianRhapsody.json
+EricJohnsoncliffsofDover.json
+FinalCountdown.json
+AcDc.json
+-- Bank 5 
+TremontiAlternative.json
+TremontiClean.json
+FooFighters.json
+FooFightersEverlong.json
+-- Bank 6 
+EnterSandman.json
+NothingElseMatters.json
+NothingElseMattersAcous.json
+PapaResortLastResort.json
+-- Bank 7 
+HateToSay.json
+DookieSoundGreenDay.json
+Rush.json
+SantanaBlackMagicWoman.json
+-- Bank 8 
+SunshineOfMyLove.json
+SatrianiSatchBoogie.json
+WizoQuadrat1.json
+Wizo.json
+-- Bank 9  
+MasterOfPuppets.json
+Megadeth.json
+GhostDanceMacabreMart.json
+CrazyTrain.json
+-- Bank 10
+IronMaiden.json
+BangBang.json
+CleanForBallads.json
+OrangeAD30Arpeggio.json
+-- Bank 11
+ModernVintageClean.json
+Oasis.json
+LynyrdSkynyrd.json
+EnglFireball.json
+-- Bank 12
+Anastasia.json
+The1975.json
+PapaResortLastResort1.json
+DireStraits.json
+-- Bank 13
+SultansOfSwingKnopfler.json
+TornadoOfSouls.json
+AintTalkinBoutLoveLARSON.json
+VanHalen.json
+-- Bank 14
+SpookyMelody.json 
+NothingElseMattersMetall.json
+ZakkWyldeNoMoreTearsLead.json
+12stracoustrummingCN1.json
+-- Bank 15
+SilverShip.json
+SweetMemory.json 
+DancingInTheRoom.json
+RoyalCrown.json
+-- Bank 16
+WoodenBridge.json
+StoneBreaker.json 
+CountryRoad.json
+BluesArk.json
+-- Bank 17
+ModernStone.json
+CrazyCrue.json 
+DarkSoul.json
+BritishAccent.json
+-- Bank 18
+IronHammer.json
+MillenialLead.json 
+HeavyAxe.json
+DualTrain.json
+-- Bank 19
+SpookyMelody.json
+FuzzyJam.json 
+AngryMonkey.json
+HideAndSeek.json
+-- Bank 20
+CleanRB5001.json
+CleanRB500.json 
+muffRB500.json

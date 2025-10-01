@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5431DE30733D740015000002",
+    "Name": "do i",
+    "Version": "0.7",
+    "Description": "Abisal",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4867,
+                0.2075,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6618,
+                0.4505
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.4763,
+                0.8463,
+                0.4,
+                0.6901,
+                0.5559,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5857,
+                0.5476,
+                0.6571,
+                0.4524,
+                0.5
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.689,
+                0.6206,
+                0.5001
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.0742,
+                0.3104,
+                0.1527,
+                0.6,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

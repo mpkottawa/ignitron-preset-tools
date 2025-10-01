@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "55857BAA1259BE0F0030F616",
+    "Name": "80-s Shredding",
+    "Version": "0.7",
+    "Description": "80-s Style ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.2778,
+                0.5807,
+                0.65
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.7132,
+                0.7536,
+                0.8897
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.987,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.4435,
+                0.6836,
+                0.8071,
+                0.7887,
+                0.5977,
+                0.5052,
+                0.6478
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": true,
+            "Parameters": [
+                0.1,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2142,
+                0.6599,
+                0.4241,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.5794,
+                0.7857,
+                0.3588,
+                1,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

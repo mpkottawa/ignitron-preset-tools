@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54133040D76C480011000002",
+    "Name": "YNGWIE M.",
+    "Version": "0.7",
+    "Description": "Bbb",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8458,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5059,
+                0.4815
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5161,
+                0.5126,
+                0.0146,
+                0.2461,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5335,
+                0.6094,
+                0.7172,
+                0.5491,
+                0.5051
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1852,
+                1,
+                0.1407,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.083,
+                0.1547,
+                0.7405,
+                0.6586,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

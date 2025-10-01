@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "531CF5209A13C50017000002",
+    "Name": "Abhey b jent",
+    "Version": "0.7",
+    "Description": "Just messing around with a 5153 in drop B. Sorta djenty",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.0099,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.2321,
+                0.5089,
+                0.7589,
+                0.5982,
+                0.9152
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.8308,
+                1,
+                0.5094,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.01,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.7879,
+                0.6951
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.4528,
+                0.3069,
+                0.9699,
+                0.7649,
+                0.6645,
+                0.64,
+                1
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.6,
+                0.5,
+                0.5,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

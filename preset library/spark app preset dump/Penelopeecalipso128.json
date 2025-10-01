@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5CD88C788E73D40014E8C13A",
+    "Name": "Penelope e calipso128",
+    "Version": "0.7",
+    "Description": "SuperMe ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Fuzz",
+            "IsOn": false,
+            "Parameters": [
+                0.1928,
+                0.3136
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.3029,
+                0.575,
+                0.3899,
+                0.6339,
+                0.7,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.512,
+                0.6244,
+                0.8005,
+                0.8725,
+                0.5318
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0
+            ]
+        },
+        {
+            "Name": "DelayEchoFilt",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0.5,
+                0
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4809,
+                0.2324,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

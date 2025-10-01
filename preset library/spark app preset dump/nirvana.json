@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "3f7a653f-c9b4-496e-9c98-4d549da09591",
+    "Name": "nirvana ",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1162,
+                0.0606,
+                0
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.3029,
+                0.5233
+            ]
+        },
+        {
+            "Name": "SABdriver",
+            "IsOn": true,
+            "Parameters": [
+                0.1535,
+                1,
+                0.0746,
+                0
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.6748,
+                0.3566,
+                0.4016,
+                0.601,
+                1
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.4138,
+                0.663,
+                0.6552
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.0929,
+                0.1652,
+                0.5093,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1988,
+                0.8975,
+                0.6074,
+                0.2307,
+                0.5821,
+                0.65,
+                0.2
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

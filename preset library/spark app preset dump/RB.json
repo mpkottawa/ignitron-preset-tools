@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53A82DC825521D0012000002",
+    "Name": "R&B",
+    "Version": "0.7",
+    "Description": "Gumni",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Octave",
+            "IsOn": false,
+            "Parameters": [
+                0.2752,
+                0.8714,
+                0.6458
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.4264,
+                0.8644,
+                0.9083,
+                0.4,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.4582,
+                0.337,
+                0.5778,
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.4532,
+                0.429,
+                0.4254,
+                0.4504,
+                1
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.688
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.9409,
+                0.6
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.6254,
+                0.2363,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

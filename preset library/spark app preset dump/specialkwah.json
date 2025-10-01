@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5431DEBAE97A0A000F000004",
+    "Name": "special k wah",
+    "Version": "0.7",
+    "Description": "Abisal",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4867,
+                0.2075,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8061,
+                0.6792
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.0941,
+                0.8958,
+                0.384,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "Flanger",
+            "IsOn": false,
+            "Parameters": [
+                0.2379,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.5937,
+                0.8396,
+                0.7786,
+                0.6392,
+                0.565,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6048,
+                0.5476,
+                0.5381,
+                0.4,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1241,
+                0.1672,
+                0.1854,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54A4EBF03FACEE0010000002",
+    "Name": "The Djentlemans Tone I",
+    "Version": "0.7",
+    "Description": "Bright, Tight, Tonal",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6991,
+                0.8306,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.1988,
+                0.1529,
+                0.8674,
+                0.8324,
+                0.8528
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5697,
+                0.5896,
+                0.4326,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4959,
+                0.5997,
+                0
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.6173,
+                0.416,
+                0.0781,
+                0.7005,
+                0.5068,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.0867,
+                0.0557,
+                0.3379,
+                0.8171
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4847,
+                0.4031,
+                0.6293,
+                0.5609,
+                0.5305
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

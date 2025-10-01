@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51E2CB38B384510010000002",
+    "Name": "A British Toolbox",
+    "Version": "0.7",
+    "Description": "A Vox flavour that can turn into a 12 String too",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Whammy",
+            "IsOn": false,
+            "Parameters": [
+                0.1,
+                0.1517,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.5816,
+                0.7288,
+                1
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.4009,
+                0.65,
+                0.45,
+                0.0846,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.1303,
+                0.8566,
+                0.4172
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.5688,
+                0.572,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.1604,
+                0.3125,
+                0.6713,
+                0.5114,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2554,
+                0.403,
+                0.1864,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

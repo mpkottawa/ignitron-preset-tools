@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52EB06B9EF71F60018000000",
+    "Name": "7 string blend od w/delay",
+    "Version": "0.7",
+    "Description": "A touch heavier than normal od. similar to klon centaur. ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.7168,
+                1
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.556,
+                0.3314,
+                0.6156,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.0042,
+                0.35
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.7364,
+                1,
+                0.7682,
+                0.4955,
+                0.75
+            ]
+        },
+        {
+            "Name": "MaestroBassmaster",
+            "IsOn": true,
+            "Parameters": [
+                0.7965,
+                0.4013,
+                0.4454
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2085,
+                0.411,
+                0.6582,
+                0.364,
+                0.6197,
+                0
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.7277,
+                0.2046,
+                0.1541,
+                0,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

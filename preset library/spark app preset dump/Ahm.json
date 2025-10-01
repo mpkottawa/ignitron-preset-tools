@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A98132799F40E000436D5",
+    "Name": "Ahm",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "TrebleBooster",
+            "IsOn": false,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6133,
+                0.6235,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0.535,
+                0.2053,
+                1
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.4848,
+                0.5207,
+                0.3727,
+                0.3709,
+                0
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0885,
+                0.4831,
+                0.1323,
+                0.3,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3478,
+                0.4974,
+                0.3774,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

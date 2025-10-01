@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "50C96E42E5293B000D000000",
+    "Name": "PV 5150 w/ Delay",
+    "Version": "0.7",
+    "Description": "1D GM",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6608,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.2789,
+                0.5059,
+                0.6997,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.3112,
+                0,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6059,
+                0.4945,
+                0.68,
+                0.7527,
+                0.7876,
+                0.573,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5197,
+                0.3513,
+                0.6734,
+                0.4584,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2131,
+                0.0581,
+                0.518,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1376,
+                0.4805,
+                0.3473,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

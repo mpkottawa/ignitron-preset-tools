@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52A26366E812D40014000001",
+    "Name": "Ola clean 'n dream",
+    "Version": "0.7",
+    "Description": "with comp and ambiance",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.48,
+                0.4,
+                0.6
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.4764
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.1394,
+                0.6765,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0.63,
+                0.65,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.4414,
+                0.4135,
+                0,
+                0.3,
+                1
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.7154,
+                0.4245,
+                0.2384,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.201,
+                0.6,
+                0.5,
+                0.4647,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A988906BE880E00D89B1C",
+    "Name": "Industrial bass",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.8684,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6307,
+                0.2327,
+                1
+            ]
+        },
+        {
+            "Name": "GK700RBII",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.1968,
+                0.8267,
+                0.6,
+                0.4,
+                0.4,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1338,
+                0.6,
+                0.3,
+                0.7
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54C1755A3A8F51001900000D",
+    "Name": "Clean and compressed w Chorus",
+    "Version": "0.7",
+    "Description": "Pop and compressed sound with Chorus",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.85,
+                0.85
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.3292,
+                0.7706,
+                0.5228,
+                0.742,
+                0.5479
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.0958,
+                0.2157,
+                0.6713,
+                0.4726,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.0537,
+                0.1739,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

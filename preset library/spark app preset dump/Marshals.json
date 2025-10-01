@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "553228880A6452001B000000",
+    "Name": "Marshal s",
+    "Version": "0.7",
+    "Description": "Io",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.9136,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.2757,
+                0.3639,
+                0.257,
+                0.3814,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.601,
+                0.5991,
+                0.5685,
+                0.4963,
+                0.4598
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.0864,
+                0.9955,
+                0.1872,
+                0.3
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0837,
+                0.1155,
+                1,
+                0.5031,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

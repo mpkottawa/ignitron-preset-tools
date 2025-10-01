@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51D52161E6AAC5001C000002",
+    "Name": "Toyo - w/z Phz",
+    "Version": "0.7",
+    "Description": "Guitar",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7942,
+                0.5916,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.7799,
+                0.7886,
+                0.6575,
+                1
+            ]
+        },
+        {
+            "Name": "JCM900",
+            "IsOn": true,
+            "Parameters": [
+                0.6488,
+                0.3397,
+                0.3949,
+                0.9429,
+                0.8054,
+                0.944
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.6004,
+                0.5,
+                0.558
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": true,
+            "Parameters": [
+                0.099,
+                0.1511,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.4868,
+                0.4029,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.6368,
+                0.6538,
+                0.2779,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

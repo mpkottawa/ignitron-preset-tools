@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "59A1A95654935E02AF815291",
+    "Name": "J crunch 2",
+    "Version": "0.7",
+    "Description": "Rocky",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5505,
+                0.4315,
+                0.5934
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4156,
+                0.454,
+                0.6422,
+                0.7622,
+                0.5
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                0.5567,
+                0.5159,
+                0.3502,
+                0.5376,
+                0.831,
+                0
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.5434,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.3536,
+                0.1859,
+                0.6,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2475,
+                0.6057,
+                0.2887,
+                0.6
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2729,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

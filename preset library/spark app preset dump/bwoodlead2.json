@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521A1A9A31F5200011000002",
+    "Name": "b wood lead 2",
+    "Version": "0.7",
+    "Description": "my lead tone 2",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4912,
+                0.4985,
+                0.5
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.4,
+                0.4,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5129,
+                0.7216,
+                0.6754,
+                0.4411,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DistortionKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.748,
+                0.5,
+                0.7894
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.64,
+                0.6,
+                0.6124,
+                0.7504,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2803,
+                0.4491,
+                0.4106,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3085,
+                0.3493,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

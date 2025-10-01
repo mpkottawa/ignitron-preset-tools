@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "55EA8180CC19950F00EEC2DC",
+    "Name": "SzeKwan Lead",
+    "Version": "0.7",
+    "Description": "C",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.35
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.3788,
+                0.3543
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2678,
+                0.5969,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.7148,
+                0.4969,
+                0.6519,
+                0.7344,
+                0.7005,
+                0.7172,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6287,
+                0.4286,
+                0.5524,
+                0.6433,
+                0.4351
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2668,
+                0.2698,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2566,
+                0.627,
+                0.435,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

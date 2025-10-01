@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "31b7cd19-a61a-40a8-9beb-4c8984341787",
+    "Name": "Come As You Are",
+    "Version": "0.7",
+    "Description": "Nirvana Kurt Cobain ",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.2182,
+                0.0649
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.7126,
+                0.7248
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.767
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.3319,
+                1,
+                0.7267,
+                0.58
+            ]
+        },
+        {
+            "Name": "Cloner",
+            "IsOn": true,
+            "Parameters": [
+                0.142,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMultiHead",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.6,
+                0.63,
+                0
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.3593,
+                0.5067,
+                0.4179,
+                0.3008,
+                0.6023,
+                0.5941,
+                0
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

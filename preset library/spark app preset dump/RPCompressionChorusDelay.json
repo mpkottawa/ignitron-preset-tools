@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "576EEAF20BBE220E000E71AF",
+    "Name": "R/P Compression Chorus Delay ",
+    "Version": "0.7",
+    "Description": "Para Adoraci\u00f3n al estilo de Roberto Prado",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.48,
+                0.3688,
+                0.377
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.4289,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.3521,
+                0.6,
+                0.5142,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.722,
+                0.5471,
+                0.3348,
+                0.6742,
+                0.4866
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.01,
+                0.01,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

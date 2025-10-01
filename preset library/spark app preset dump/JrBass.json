@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "529E2690AB575C000F000000",
+    "Name": "Jr Bass",
+    "Version": "0.7",
+    "Description": "A",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Sansamp",
+            "IsOn": true,
+            "Parameters": [
+                0.3033,
+                0.4042,
+                0,
+                0,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4959,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "OrangeAD200",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0.4,
+                0.6,
+                0.7
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.6781,
+                0,
+                0.2733,
+                0.306,
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": false,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51FF5D7DB20EB10018000002",
+    "Name": "Toyo - w/z Wah",
+    "Version": "0.7",
+    "Description": "Guitar",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1012,
+                0.0977,
+                0.5
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.7193,
+                0.6,
+                0.2639,
+                0.9215,
+                0.9003,
+                0.8517,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.7031
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.3694,
+                0.8579,
+                0.8087,
+                0.4211,
+                0
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.5903,
+                0.6387,
+                0.6697,
+                0.3754
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.4868,
+                0.4029,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.32,
+                0.6933,
+                0.8054,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

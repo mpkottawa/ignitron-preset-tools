@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5BCF8960C228880012E10D54",
+    "Name": "Low L",
+    "Version": "0.7",
+    "Description": "Clavado en un bar - Man\u00e0",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.502,
+                0.5076,
+                0.5
+            ]
+        },
+        {
+            "Name": "SABdriver",
+            "IsOn": true,
+            "Parameters": [
+                0.5464,
+                0.7046,
+                0.2199,
+                0
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6667,
+                0.4118,
+                0.4992,
+                0.2818,
+                0.7932,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.4762,
+                0.2625,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4085,
+                0.5176,
+                0.5965,
+                0.6852,
+                0.6832
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.333,
+                0.5352,
+                0.1758,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.8967,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

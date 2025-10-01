@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54175A34EDAE470015000004",
+    "Name": "Polyphia w/o BIAS Amp",
+    "Version": "0.7",
+    "Description": "Download the amp Polyphia on BIAS",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.775,
+                0.0423
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.696,
+                1,
+                0.5,
+                0.5,
+                0.5,
+                0.8411
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.8282,
+                0.0055,
+                0.4
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.3657,
+                0.7962,
+                0.4139,
+                0.83,
+                1,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0,
+                0.5938,
+                0.8393,
+                0.2628
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

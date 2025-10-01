@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "55B7C9BE75B8C60F00C2F9EF",
+    "Name": "Townshend tweed",
+    "Version": "0.7",
+    "Description": "T",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7178,
+                0.6777,
+                0.5
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.6921,
+                0.6763,
+                0
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": false,
+            "Parameters": [
+                0.1484,
+                0.3218,
+                0.1864,
+                0
+            ]
+        },
+        {
+            "Name": "Deluxe57",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.838,
+                0.8219,
+                0.8325
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.722,
+                0.4286,
+                0.5688,
+                0.572,
+                0.4866
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0958,
+                0.3125,
+                0.6713,
+                0.8184,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                1,
+                0.1992,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

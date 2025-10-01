@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "54F0CC25E505CF001B000002",
+    "Name": "Renegade X",
+    "Version": "0.7",
+    "Description": "My all-purpose patch for recording lead and rhythm tracks. All knobs set to noon so you can adjust according to your equipment.",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8428,
+                0.8724
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3571,
+                0.497,
+                0.7009,
+                0.574,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1612,
+                0.9336,
+                0
+            ]
+        },
+        {
+            "Name": "RectifierOla",
+            "IsOn": true,
+            "Parameters": [
+                0.7524,
+                0.6023,
+                0.8539,
+                0.3419,
+                0.6805,
+                0.7826,
+                0.2246,
+                0.7272
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.0989,
+                1,
+                0.5122
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2593,
+                0.3551,
+                0,
+                0.3484,
+                0
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.7382,
+                0.4262,
+                0.4505,
+                0.1525,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5210F1112C4444001E000002",
+    "Name": "BD Electric Chorus w/Echo",
+    "Version": "0.7",
+    "Description": "Electric Guitar Chorus withEcho",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4841,
+                0.7661,
+                0
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6953,
+                0.5912
+            ]
+        },
+        {
+            "Name": "JC120Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.6,
+                0.4,
+                0.8,
+                0.6
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4821,
+                0.6652,
+                0.3839,
+                0.5402,
+                0.707
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.2,
+                0.5,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.3313,
+                0.2135,
+                0.6833,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2974,
+                0.6289,
+                0.2649,
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

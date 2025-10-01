@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "521D634F9D00A20012000004",
+    "Name": "Big D Ratt Orange",
+    "Version": "0.7",
+    "Description": "Big Turbo Ratt!",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.4624,
+                0.6962
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.0994,
+                0.2,
+                0.7,
+                0.4825
+            ]
+        },
+        {
+            "Name": "OrangeAD30",
+            "IsOn": true,
+            "Parameters": [
+                0.5588,
+                0.8264,
+                0.3725,
+                0.3343,
+                0.7818,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6071,
+                0.4621,
+                0.6652,
+                0.506,
+                0.5269
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.3364,
+                0.5082,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.1483,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "528B8EAA4F7D2F001B000000",
+    "Name": "\\m/0.O\\m/ ",
+    "Version": "0.7",
+    "Description": "Metal",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.3398,
+                0.6991
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2061,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.3923,
+                0,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.2545,
+                0.5171,
+                0.817,
+                0.6521,
+                0.9196
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.7,
+                0.6,
+                0.6757,
+                1,
+                0.4083,
+                0.605,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.0271,
+                0.0,
+                1,
+                0.8
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.2311,
+                0.1805,
+                0.6679,
+                0.6,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "533DD0E5C95FC20018000000",
+    "Name": "Clean LUX BJ",
+    "Version": "0.7",
+    "Description": "J",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.503,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.8323,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "ProCoRat",
+            "IsOn": false,
+            "Parameters": [
+                0.7692,
+                0.1476,
+                0.1616
+            ]
+        },
+        {
+            "Name": "Deluxe65",
+            "IsOn": true,
+            "Parameters": [
+                0.5233,
+                0.5806,
+                0.8399,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5982,
+                0.5938,
+                0.5536,
+                0.6473,
+                0.5536
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": false,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": false,
+            "Parameters": [
+                0.6219,
+                0.4928,
+                0.6,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

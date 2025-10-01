@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5E29CCBB7D07310016D5F062",
+    "Name": "SG Kick Off R",
+    "Version": "0.7",
+    "Description": "16/06/2020",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5323,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.6397,
+                1
+            ]
+        },
+        {
+            "Name": "EvhKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.4964,
+                0.6,
+                0.3,
+                0.7,
+                0.6019,
+                0.64,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.7574,
+                0.625,
+                0.3248,
+                0.6132,
+                0.3056,
+                0.2933,
+                0.4036
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.4794,
+                0.359,
+                0.355,
+                0.3437
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.8559,
+                0.0141,
+                0.1892,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3326,
+                0.175,
+                0.2812,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

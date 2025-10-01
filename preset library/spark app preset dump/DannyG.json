@@ -1,0 +1,78 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5D64025A85CC8D0016AEBF09",
+    "Name": "Danny G",
+    "Version": "0.7",
+    "Description": "Gatton",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.8536,
+                0.2003,
+                0
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": true,
+            "Parameters": [
+                0.6
+            ]
+        },
+        {
+            "Name": "Tremolo",
+            "IsOn": true,
+            "Parameters": [
+                0.3214,
+                0.6918,
+                0.5661
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.8021,
+                0.7237,
+                0.4936,
+                0
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.7811,
+                0.63,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3372,
+                0.4491,
+                0.6527,
+                0.3982,
+                0.5
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": false,
+            "Parameters": [
+                0.6445,
+                0.6465,
+                0.0014
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

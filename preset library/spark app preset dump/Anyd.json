@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5711136E05354F0E00880E10",
+    "Name": "Any d",
+    "Version": "0.7",
+    "Description": "Polyphia tone for ibanez RG421",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.159,
+                0.0781,
+                0
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.0907,
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5382,
+                0.563,
+                0.6741,
+                0.8536,
+                0.8967
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.3295,
+                0.1408,
+                0.2577,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6801,
+                1,
+                0.3625,
+                0.9656,
+                0.7,
+                0.64,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "52273B679DD5590015000002",
+    "Name": "Sweet Child O Mine",
+    "Version": "0.7",
+    "Description": "setup",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.4,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "ENGLKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.6663,
+                0.6,
+                0.6,
+                0.4,
+                0.7573,
+                0.6
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3,
+                0.3,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.4,
+                0.6,
+                0.8,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.4,
+                0.6,
+                0.3,
+                0.7
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "520EAAAFE998EC0010000000",
+    "Name": "y se acabo",
+    "Version": "0.7",
+    "Description": "meal",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.7781,
+                0.4427,
+                0.5
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "OverdriveJeff",
+            "IsOn": true,
+            "Parameters": [
+                0.3287,
+                0.497,
+                0.7185
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.9828,
+                0.6355,
+                0.6502,
+                0.2025,
+                0.6122,
+                0.7349,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5134,
+                0.3884,
+                0.317,
+                0.5067,
+                0.6719
+            ]
+        },
+        {
+            "Name": "DelayOla",
+            "IsOn": false,
+            "Parameters": [
+                0.6844,
+                0.3036,
+                0.3846,
+                0,
+                0.6
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.3085,
+                0.541,
+                0.3652,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

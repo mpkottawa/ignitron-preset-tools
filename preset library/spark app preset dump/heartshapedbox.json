@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "3b523180-2914-4553-82af-5720245a0d6c",
+    "Name": "heart shaped box",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2191,
+                0.2478,
+                1
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.3828,
+                0.3948
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": false,
+            "Parameters": [
+                0.4469,
+                0.4012,
+                0.9312
+            ]
+        },
+        {
+            "Name": "AmericanHighGain",
+            "IsOn": true,
+            "Parameters": [
+                0.418,
+                0.4311,
+                0.5208,
+                0.8256,
+                1
+            ]
+        },
+        {
+            "Name": "Cloner",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "VintageDelay",
+            "IsOn": false,
+            "Parameters": [
+                0.2782,
+                0.3566,
+                0.2119,
+                0
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.7228,
+                0.3714,
+                0.5964,
+                0.3607,
+                0.6429,
+                0.3393,
+                0.4,
+                1
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

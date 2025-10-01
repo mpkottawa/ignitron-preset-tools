@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5C7C7B2941DB11001404C86D",
+    "Name": "Eric J",
+    "Version": "0.7",
+    "Description": "Eric J tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3,
+                0.16,
+                0
+            ]
+        },
+        {
+            "Name": "Sansamp",
+            "IsOn": true,
+            "Parameters": [
+                0.4621,
+                0.5987,
+                0.8332,
+                0.3847,
+                1,
+                0.6669
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6776,
+                0.4478,
+                0.625,
+                0.7934,
+                0.6298
+            ]
+        },
+        {
+            "Name": "MatchlessDC30",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4877,
+                0.484,
+                0.5022,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.8967,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.5,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.6,
+                0,
+                0.3696,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

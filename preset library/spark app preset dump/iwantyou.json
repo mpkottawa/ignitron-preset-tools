@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53345F3CAB8E01000B000000",
+    "Name": "i want you",
+    "Version": "0.7",
+    "Description": "Pipo",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3769,
+                0.4421,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.7273,
+                1,
+                0.7773,
+                0.4864,
+                0.3727
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": true,
+            "Parameters": [
+                0.7928,
+                0.6113
+            ]
+        },
+        {
+            "Name": "JCM900",
+            "IsOn": false,
+            "Parameters": [
+                0.9112,
+                1,
+                1,
+                1,
+                0.396,
+                1
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": false,
+            "Parameters": [
+                0.6806,
+                0.3401,
+                0.0326,
+                0.5042,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.2773,
+                0.7422,
+                0.8808,
+                1
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.1613
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

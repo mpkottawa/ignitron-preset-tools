@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53A2F976ED31960018000000",
+    "Name": "Q o t R",
+    "Version": "0.7",
+    "Description": "Queen of the Reich",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.6693,
+                0.3479,
+                0.6346,
+                0.5966,
+                0.2501,
+                0.5497
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.7655,
+                0.2915,
+                0.3151,
+                0.5673,
+                0.5344,
+                0.8315,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6129,
+                0.4487,
+                0.7476,
+                0.608,
+                0.6498
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3981,
+                0.541,
+                0.5145,
+                0.7
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.2715,
+                0,
+                1,
+                0.5159
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": false,
+            "Parameters": [
+                0.092,
+                0.2454,
+                0.0547,
+                0.7,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3736,
+                0.7719,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

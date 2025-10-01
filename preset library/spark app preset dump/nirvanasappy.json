@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5f7a2514-8919-401a-bef7-3c964d29fdd8",
+    "Name": "nirvana - sappy",
+    "Version": "0.7",
+    "Description": "",
+    "Icon": "icon.png",
+    "BPM": 120,
+    "Pedals": [
+        {
+            "Name": "bias.noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.137,
+                0,
+                1
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.3132
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.3482,
+                1
+            ]
+        },
+        {
+            "Name": "OverDrivenLuxVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2736,
+                0.7014,
+                0.6,
+                0.7953,
+                0.3529
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.0952,
+                0.2324,
+                1,
+                0.66
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.0937,
+                0.2235,
+                0.1314,
+                0.4,
+                1
+            ]
+        },
+        {
+            "Name": "bias.reverb",
+            "IsOn": true,
+            "Parameters": [
+                0.1935,
+                0.5067,
+                0.4179,
+                0.3008,
+                0.6023,
+                0.5941,
+                0,
+                1
+            ]
+        }
+    ],
+    "Checksum": "CA"
+}

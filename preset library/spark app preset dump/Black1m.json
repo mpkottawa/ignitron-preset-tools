@@ -1,0 +1,81 @@
+{
+    "PresetNumber": 127,
+    "UUID": "554F463E79E5860016000004",
+    "Name": "Black 1 m",
+    "Version": "0.7",
+    "Description": "M",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.0413,
+                0.025,
+                0.65
+            ]
+        },
+        {
+            "Name": "Fuzz",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.8125
+            ]
+        },
+        {
+            "Name": "Overdrive",
+            "IsOn": true,
+            "Parameters": [
+                0.905,
+                0.3622,
+                1
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.5367,
+                0.63,
+                0.6,
+                0.4527,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.3651,
+                0.5979,
+                0.7184,
+                0.6381,
+                0.3533
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.2261,
+                0.1561,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0987,
+                0.0957,
+                0.3569,
+                0.5558,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

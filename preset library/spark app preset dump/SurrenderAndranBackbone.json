@@ -1,0 +1,91 @@
+{
+    "PresetNumber": 127,
+    "UUID": "56289682B1047F0E00D77EDE",
+    "Name": "Surrender - Andra n Backbone",
+    "Version": "0.7",
+    "Description": "Surrender",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.1755,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.6,
+                0.4364,
+                0.0792,
+                0.4281,
+                0.8266,
+                0.6517
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.6594,
+                0.6458,
+                0.6614,
+                0.5764,
+                0.7438,
+                0.7027,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.4337,
+                0.694,
+                0.6243,
+                0.4101,
+                0.6558,
+                0.5
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.2279,
+                0.5881,
+                0.1772,
+                0.6692,
+                0
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.125,
+                0.302,
+                0.3042,
+                0.4337,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2223,
+                0.627,
+                0.1597,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

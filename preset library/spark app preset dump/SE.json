@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "562422C8B717F60F000D211A",
+    "Name": "S-E",
+    "Version": "0.7",
+    "Description": "fhbass",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4663,
+                0.6564,
+                0.8119,
+                0.8065,
+                0.5376
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.2125,
+                0.3718,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.2419,
+                0.7146
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.5713,
+                0.3268,
+                0.6713,
+                0.8184,
+                1
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0.405,
+                0.162,
+                0.3192,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3356,
+                0.8127,
+                0.5446,
+                0.7
+            ]
+        },
+        {
+            "Name": "Twin",
+            "IsOn": true,
+            "Parameters": [
+                0.7736,
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

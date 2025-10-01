@@ -1,0 +1,82 @@
+{
+    "PresetNumber": 127,
+    "UUID": "530939799BEC330018000006",
+    "Name": "B as Guitar",
+    "Version": "0.7",
+    "Description": "rock the ground with 4 string",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "MetalZoneMT2",
+            "IsOn": true,
+            "Parameters": [
+                0.7635,
+                0.3201,
+                0.5838,
+                0.25,
+                0.969,
+                0.9358
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.3542,
+                0.8333,
+                0.7161,
+                0.6317,
+                0
+            ]
+        },
+        {
+            "Name": "BassOctaveEBS",
+            "IsOn": false,
+            "Parameters": [
+                0.3386,
+                0.2086,
+                1
+            ]
+        },
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.4137,
+                0.6333,
+                0.65
+            ]
+        },
+        {
+            "Name": "Rectifier",
+            "IsOn": true,
+            "Parameters": [
+                0.9646,
+                0.3621,
+                0.9229,
+                0.3396,
+                0.5545,
+                0.7854,
+                0
+            ]
+        },
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                0.6
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

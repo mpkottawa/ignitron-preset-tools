@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5AA79B2012546800134C2A42",
+    "Name": "A Holdsworthian",
+    "Version": "0.7",
+    "Description": "A H",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.0872,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4247,
+                1
+            ]
+        },
+        {
+            "Name": "Plexi",
+            "IsOn": true,
+            "Parameters": [
+                0.6576,
+                0.6999,
+                0.5726,
+                0.6,
+                0.0841,
+                1
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": false,
+            "Parameters": [
+                0.0805,
+                0.017,
+                0.6713,
+                0.3434,
+                1
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                0.5152,
+                0.148,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6148,
+                0.6779,
+                0.8833,
+                0.6465,
+                0.8097
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.1695,
+                0.536,
+                0.1684,
+                0.4707
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

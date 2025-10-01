@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "51EAF06728F5E70012000000",
+    "Name": "Bass-o-matic",
+    "Version": "0.7",
+    "Description": "Funktified",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.4851,
+                0.4972,
+                0
+            ]
+        },
+        {
+            "Name": "AutoWah01",
+            "IsOn": true,
+            "Parameters": [
+                0.4898,
+                0.4789,
+                0.4863,
+                0.4805,
+                0
+            ]
+        },
+        {
+            "Name": "QTron",
+            "IsOn": true,
+            "Parameters": [
+                0.31,
+                0.6,
+                0.6,
+                0.4861,
+                0.4946,
+                0.4
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.4922,
+                0.4934,
+                0.5
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.5122,
+                1
+            ]
+        },
+        {
+            "Name": "BlueComp",
+            "IsOn": true,
+            "Parameters": [
+                0.476,
+                0.48,
+                0.4883,
+                0.4713
+            ]
+        },
+        {
+            "Name": "GK700RBII",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.493,
+                0.4978,
+                0.511,
+                0.5112,
+                0.5082,
+                0.5023
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

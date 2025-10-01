@@ -1,0 +1,86 @@
+{
+    "PresetNumber": 127,
+    "UUID": "59662F78B03317015DFE57D7",
+    "Name": "B tuning",
+    "Version": "0.7",
+    "Description": "B tuning ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.831,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.3572,
+                0.5704,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6208,
+                0.85,
+                0.3952,
+                0.6943,
+                0.6501,
+                0.7582,
+                1
+            ]
+        },
+        {
+            "Name": "PQ4Jeff",
+            "IsOn": true,
+            "Parameters": [
+                0.4805,
+                0.5,
+                0.8338,
+                0.5369,
+                0.2286,
+                0.4889,
+                0.5
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4375,
+                0.5,
+                0.442,
+                0.5357,
+                0.5
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.565,
+                0.6027
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": false,
+            "Parameters": [
+                0.2501,
+                0.4743,
+                0.5965,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

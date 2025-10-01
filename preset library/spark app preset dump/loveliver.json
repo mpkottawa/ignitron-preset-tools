@@ -1,0 +1,87 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53567EFA0A60290017000000",
+    "Name": "lovelive r",
+    "Version": "0.7",
+    "Description": "fuck",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3222,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.2973,
+                0.5,
+                0.5,
+                1
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.5752,
+                0.7914,
+                0.3678,
+                0.5191,
+                0.6172,
+                0.7941,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4295,
+                0.525,
+                0.7705,
+                0.622,
+                0.525
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.0887,
+                0.6,
+                0.5,
+                0.0899,
+                0
+            ]
+        },
+        {
+            "Name": "DelayMono",
+            "IsOn": true,
+            "Parameters": [
+                0.3304,
+                0.3412,
+                0.5384,
+                0.6,
+                1
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": false,
+            "Parameters": [
+                0.6,
+                0.3,
+                1,
+                0.5
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

@@ -1,0 +1,79 @@
+{
+    "PresetNumber": 127,
+    "UUID": "554A74E15A1491001B000010",
+    "Name": "MUSE B.1",
+    "Version": "0.7",
+    "Description": "Version Bass.1",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": false,
+            "Parameters": [
+                0.644,
+                0,
+                0.5
+            ]
+        },
+        {
+            "Name": "Octave",
+            "IsOn": true,
+            "Parameters": [
+                0.0277,
+                0.8325,
+                0.9422
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.8592,
+                0.6771,
+                0.5
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.9174,
+                0.7655,
+                0.5
+            ]
+        },
+        {
+            "Name": "BassBigMuff",
+            "IsOn": true,
+            "Parameters": [
+                0.7633,
+                0.8952,
+                0.3586
+            ]
+        },
+        {
+            "Name": "OrangeAD200",
+            "IsOn": true,
+            "Parameters": [
+                0.4491,
+                0.7595,
+                0.8614,
+                0.9552,
+                0.2474
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.6645,
+                0.5164,
+                0.963,
+                0.8845,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

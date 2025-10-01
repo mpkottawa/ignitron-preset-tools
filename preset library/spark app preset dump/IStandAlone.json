@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5457357D2E88940016000006",
+    "Name": "I Stand Alone",
+    "Version": "0.7",
+    "Description": "Godsmack",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.5455,
+                0.5695,
+                0.5
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.8568,
+                0.627,
+                0.6016,
+                1
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": false,
+            "Parameters": [
+                0.5,
+                0.2,
+                0.7,
+                0.8
+            ]
+        },
+        {
+            "Name": "AC Boost",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.7789,
+                0.45,
+                0.3262,
+                0.6786,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5465,
+                0.4942,
+                0.6377,
+                0.2976,
+                0.5134
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.187,
+                0.2098,
+                0.2994,
+                0.5072,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.3408,
+                0.4805,
+                0.1274,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

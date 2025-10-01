@@ -1,0 +1,80 @@
+{
+    "PresetNumber": 127,
+    "UUID": "50C9729DE5293B0010000000",
+    "Name": "AC Guitar w dly leslie",
+    "Version": "0.7",
+    "Description": "3C GM",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoiseFilter",
+            "IsOn": true,
+            "Parameters": [
+                1
+            ]
+        },
+        {
+            "Name": "Booster",
+            "IsOn": false,
+            "Parameters": [
+                0.598
+            ]
+        },
+        {
+            "Name": "PowerAmp",
+            "IsOn": true,
+            "Parameters": [
+                0.8543,
+                0,
+                0.4946,
+                0.2782,
+                0.4958
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.3318,
+                0.5091,
+                0.4955,
+                0.5318,
+                0.5391
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.0586,
+                0.1578,
+                0,
+                0.698,
+                1
+            ]
+        },
+        {
+            "Name": "Leslie01",
+            "IsOn": true,
+            "Parameters": [
+                0.3103,
+                0.6131,
+                0.6,
+                0.8
+            ]
+        },
+        {
+            "Name": "RevbRoom",
+            "IsOn": true,
+            "Parameters": [
+                0.2754,
+                0.3254,
+                0.5458,
+                0.3021,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

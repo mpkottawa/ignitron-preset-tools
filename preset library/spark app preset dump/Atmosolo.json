@@ -1,0 +1,84 @@
+{
+    "PresetNumber": 127,
+    "UUID": "569A98A806BE880E00D89B1D",
+    "Name": "Atmosolo",
+    "Version": "0.7",
+    "Description": "P",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.8701,
+                0.9017
+            ]
+        },
+        {
+            "Name": "MaestroBassmaster",
+            "IsOn": true,
+            "Parameters": [
+                0.5356,
+                1,
+                0.7616
+            ]
+        },
+        {
+            "Name": "GK800",
+            "IsOn": true,
+            "Parameters": [
+                0.8609,
+                0.6,
+                0.4,
+                0.5661,
+                0.761,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Name": "ChorusOla",
+            "IsOn": true,
+            "Parameters": [
+                0.0768,
+                0.8708,
+                0.9974,
+                1
+            ]
+        },
+        {
+            "Name": "DelayEchoFilt",
+            "IsOn": false,
+            "Parameters": [
+                0.8907,
+                0.6,
+                0.656,
+                0.6962,
+                0
+            ]
+        },
+        {
+            "Name": "SpringReverb",
+            "IsOn": true,
+            "Parameters": [
+                1,
+                0.4339,
+                0.782,
+                0
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

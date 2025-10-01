@@ -1,0 +1,88 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5BCA0FFFFF4B9E0012E92FFF",
+    "Name": "Laney C",
+    "Version": "0.7",
+    "Description": "Clean ",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "QTron",
+            "IsOn": false,
+            "Parameters": [
+                0.66,
+                0.6,
+                0.4,
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5573,
+                0.7177,
+                0.6373,
+                0.6242,
+                0.7061
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": false,
+            "Parameters": [
+                0,
+                0.508,
+                0.5002
+            ]
+        },
+        {
+            "Name": "AcousticImg",
+            "IsOn": false,
+            "Parameters": [
+                0.3487,
+                0.004,
+                0.7,
+                0.6,
+                0.4,
+                0.6,
+                0.004
+            ]
+        },
+        {
+            "Name": "Phaser",
+            "IsOn": true,
+            "Parameters": [
+                0.0963,
+                0.158,
+                1,
+                0.5
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.2314,
+                0.3711,
+                0.2584,
+                0.6
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2417,
+                0.2083,
+                0.6,
+                0.4356,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

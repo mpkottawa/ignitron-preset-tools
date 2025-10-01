@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "5BD07D6E3EC47700123AF8F8",
+    "Name": "x\u2006x\u2006x\u2006x\u2006x",
+    "Version": "0.7",
+    "Description": "Gojira tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.8757,
+                0.2264,
+                0
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.5052,
+                0.75
+            ]
+        },
+        {
+            "Name": "EVH",
+            "IsOn": true,
+            "Parameters": [
+                0.6412,
+                0.6817,
+                0.3519,
+                0.6438,
+                0.7193,
+                0.7879,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1873,
+                0.6641,
+                0.288,
+                0.6
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.5712,
+                0.6908,
+                0.757,
+                0.874,
+                0.6501
+            ]
+        },
+        {
+            "Name": "HPFPRObass",
+            "IsOn": true,
+            "Parameters": [
+                0.2564,
+                0.6763
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.4077,
+                0.1317,
+                0.1753,
+                0.75,
+                1
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

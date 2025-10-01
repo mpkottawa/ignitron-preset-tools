@@ -1,0 +1,85 @@
+{
+    "PresetNumber": 127,
+    "UUID": "534C79EAA06FB5000E000000",
+    "Name": "Alx - 80's Hard Rock!",
+    "Version": "0.7",
+    "Description": "80's JCM 800 Hard Rock tone",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "NoisegateKeith",
+            "IsOn": true,
+            "Parameters": [
+                0.5,
+                0.5,
+                0.4
+            ]
+        },
+        {
+            "Name": "DistortionTS9",
+            "IsOn": true,
+            "Parameters": [
+                0.5255,
+                0.3802,
+                0.4767,
+                1
+            ]
+        },
+        {
+            "Name": "JCM800",
+            "IsOn": true,
+            "Parameters": [
+                0.6129,
+                0.2964,
+                0.3896,
+                0.6219,
+                0.8789,
+                0.8848,
+                1
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": true,
+            "Parameters": [
+                0.4911,
+                0.6518,
+                0.6741,
+                0.4598,
+                0.5
+            ]
+        },
+        {
+            "Name": "LA2AComp",
+            "IsOn": true,
+            "Parameters": [
+                0,
+                0.9453,
+                0.171
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.2992,
+                0.0863,
+                0.3623,
+                0.6166,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.1642,
+                0.3775,
+                0.1465,
+                0.4
+            ]
+        }
+    ],
+    "Checksum": "33"
+}

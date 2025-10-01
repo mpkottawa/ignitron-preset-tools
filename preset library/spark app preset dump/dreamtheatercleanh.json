@@ -1,0 +1,83 @@
+{
+    "PresetNumber": 127,
+    "UUID": "53D450A7793FA4000F000000",
+    "Name": "dreamt heater clean h",
+    "Version": "0.7",
+    "Description": "h",
+    "Icon": "icon.png",
+    "BPM": 120.0,
+    "Pedals": [
+        {
+            "Name": "Noisegate",
+            "IsOn": true,
+            "Parameters": [
+                0.3887,
+                0.6592,
+                0.5
+            ]
+        },
+        {
+            "Name": "Compressor",
+            "IsOn": false,
+            "Parameters": [
+                0.85,
+                0
+            ]
+        },
+        {
+            "Name": "TwinOla",
+            "IsOn": true,
+            "Parameters": [
+                0.6645,
+                0.8864,
+                0.6,
+                0.587,
+                1,
+                0
+            ]
+        },
+        {
+            "Name": "GraphicalEQ7",
+            "IsOn": false,
+            "Parameters": [
+                0.6308,
+                0.5586,
+                0.6652,
+                0.75,
+                0.5762
+            ]
+        },
+        {
+            "Name": "ChorusAnalog",
+            "IsOn": true,
+            "Parameters": [
+                0.7324,
+                0.154,
+                0.5507,
+                0.7064
+            ]
+        },
+        {
+            "Name": "DelayRe201",
+            "IsOn": true,
+            "Parameters": [
+                0.0977,
+                0.5183,
+                0.6659,
+                0.5661,
+                1
+            ]
+        },
+        {
+            "Name": "FreeVerb",
+            "IsOn": true,
+            "Parameters": [
+                0.8805,
+                0.7344,
+                0.4336,
+                0.7
+            ]
+        }
+    ],
+    "Checksum": "33"
+}
