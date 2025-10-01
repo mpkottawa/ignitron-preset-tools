@@ -14,7 +14,8 @@ This application will allow you to do 3 things:
 ---
 
 this program was coded 100% with chatgpt. I wanted a way to backup presets with ignitron, and struggled with pulling data back from the esp32 and converting it.  i simply asked chatgpt if it could
-convert extracted raw preset data into usable .json files .  Then I just kept asking for more.
+convert extracted raw preset data into usable .json files .  Then I just kept asking for more iterations. 
+Included is a preset library folder with 700+ presets I automatically scraped from the spark app 
 
 INSTALLATION
 ---
