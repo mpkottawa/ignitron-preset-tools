@@ -25,7 +25,7 @@ jobs:
 
       - name: Build Mac app
         run: |
-          pyinstaller --noconfirm --onefile --name "IgnitronPresetTools" ignitron_preset_tools.py
+          pyinstaller --noconfirm --onefile --name "IgnitronPresetTools" ignitron_preset_tools_V1.0.0.py
           cd dist
           zip -r IgnitronPresetTools-macOS.zip IgnitronPresetTools
 
