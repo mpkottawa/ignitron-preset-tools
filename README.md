@@ -19,7 +19,7 @@ Included is a preset library folder with 700+ presets I automatically scraped fr
 
 INSTALLATION
 ---
-Extract IGNITRON PRESET TOOLS to the root folder of your Ignitron project (/ignitron/ignitron preset tools/)  run Ignitron Preset Tools.exe.  It also includes 3 standalone .exe's(preset_picker.exe, preset_puller.exe, and app_scraper.exe) which are all integrated within Ignitron Preset tools.exe
+Extract IGNITRON PRESET TOOLS to anywhere on your computer. Run Ignitron Preset Tools.exe.  It also includes 3 standalone .exe's(preset_picker.exe, preset_puller.exe, and app_scraper.exe) which are all integrated within Ignitron Preset tools.exe
 ---
 FIRMWARE SETUP
 ---
