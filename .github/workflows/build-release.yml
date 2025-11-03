@@ -7,13 +7,13 @@ on:
   push:
     tags:
       - 'v*'
-  workflow_dispatch: {}   # <-- NEW: let me run this manually if needed
+  workflow_dispatch: {}   # Allow manual runs from the Actions tab
 
 permissions:
   contents: write  # REQUIRED so the workflow can create/update releases
 
 env:
-  VERSION: ${{ github.ref_name }}   # <-- NEW: re-use the tag (e.g., v1.0.1)
+  VERSION: ${{ github.ref_name }}   # e.g., v1.0.1
 
 jobs:
   build-windows:
@@ -22,11 +22,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Echo version
+        shell: bash
+        run: echo "Building for VERSION=${VERSION}"
 
       - name: Install dependencies
         shell: pwsh
@@ -74,7 +80,7 @@ jobs:
       - name: Upload Windows artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: windows-binaries
+          name: windows-binaries-${{ env.VERSION }}
           path: release/*.exe
           if-no-files-found: ignore
 
@@ -84,11 +90,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Echo version
+        shell: bash
+        run: echo "Building for VERSION=${VERSION}"
 
       - name: Install dependencies
         run: |
@@ -96,7 +108,7 @@ jobs:
           pip install pyinstaller
 
       # NOTE: For macOS GUI apps (Tkinter), --windowed produces a .app bundle.
-      # We skip --icon on mac to avoid .icns complexity. You can add it later.
+      # You can add an .icns later with --icon if desired.
       - name: Build: Ignitron Preset Tools (all-in-one)
         run: |
           if [ -f ./ignitron_preset_tools.py ]; then
@@ -131,7 +143,7 @@ jobs:
       - name: Upload macOS artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: macos-bundles
+          name: macos-bundles-${{ env.VERSION }}
           path: release/*.zip
           if-no-files-found: ignore
 
@@ -143,12 +155,13 @@ jobs:
       - name: Download Windows artifacts
         uses: actions/download-artifact@v4
         with:
-          name: windows-binaries
+          name: windows-binaries-${{ env.VERSION }}
           path: collected/windows
+
       - name: Download macOS artifacts
         uses: actions/download-artifact@v4
         with:
-          name: macos-bundles
+          name: macos-bundles-${{ env.VERSION }}
           path: collected/macos
 
       - name: List collected files (debug)
