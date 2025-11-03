@@ -1,0 +1,176 @@
+# .github/workflows/build-release.yml
+# Triggers on version tags like v1.0.1 and builds Windows .exe and macOS .app,
+# then publishes a GitHub Release with those artifacts.
+name: Build and Release (Windows + macOS)
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write  # REQUIRED so the workflow can create/update releases
+
+jobs:
+  build-windows:
+    name: Build Windows executables
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        shell: pwsh
+        run: |
+          if (Test-Path requirements.txt) { pip install -r requirements.txt }
+          pip install pyinstaller
+
+      # TODO: adjust entry points to your actual scripts
+      - name: Build: Ignitron Preset Tools (all-in-one, if you have one)
+        shell: pwsh
+        run: |
+          if (Test-Path .\ignitron_preset_tools.py) {
+            pyinstaller --noconfirm --onefile --windowed .\ignitron_preset_tools.py
+          }
+
+      - name: Build: Preset Picker
+        shell: pwsh
+        run: |
+          if (Test-Path .\preset_picker.py) {
+            pyinstaller --noconfirm --onefile --windowed .\preset_picker.py
+          }
+
+      - name: Build: Preset Puller
+        shell: pwsh
+        run: |
+          if (Test-Path .\preset_puller.py) {
+            pyinstaller --noconfirm --onefile --windowed .\preset_puller.py
+          }
+
+      - name: Build: App Scraper
+        shell: pwsh
+        run: |
+          if (Test-Path .\app_scraper.py) {
+            pyinstaller --noconfirm --onefile --windowed .\app_scraper.py
+          }
+
+      - name: Collect Windows artifacts
+        shell: pwsh
+        run: |
+          mkdir release
+          if (Test-Path .\dist) {
+            Copy-Item ".\dist\*.exe" -Destination ".\release" -ErrorAction SilentlyContinue
+          }
+
+      - name: Upload Windows artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: windows-binaries
+          path: release/*.exe
+          if-no-files-found: ignore
+
+  build-macos:
+    name: Build macOS apps
+    runs-on: macos-14
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install pyinstaller
+
+      # NOTE: For macOS GUI apps (Tkinter), --windowed produces a .app bundle.
+      # We skip --icon on mac to avoid .icns complexity. You can add it later.
+      - name: Build: Ignitron Preset Tools (all-in-one)
+        run: |
+          if [ -f ./ignitron_preset_tools.py ]; then
+            pyinstaller --noconfirm --windowed ./ignitron_preset_tools.py
+          fi
+
+      - name: Build: Preset Picker
+        run: |
+          if [ -f ./preset_picker.py ]; then
+            pyinstaller --noconfirm --windowed ./preset_picker.py
+          fi
+
+      - name: Build: Preset Puller
+        run: |
+          if [ -f ./preset_puller.py ]; then
+            pyinstaller --noconfirm --windowed ./preset_puller.py
+          fi
+
+      - name: Build: App Scraper
+        run: |
+          if [ -f ./app_scraper.py ]; then
+            pyinstaller --noconfirm --windowed ./app_scraper.py
+          fi
+
+      - name: Zip .app bundles
+        run: |
+          mkdir -p release
+          if [ -d dist ]; then
+            find dist -maxdepth 1 -name "*.app" -exec sh -c 'zip -r "release/$(basename "{}").zip" "{}"' \;
+          fi
+
+      - name: Upload macOS artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: macos-bundles
+          path: release/*.zip
+          if-no-files-found: ignore
+
+  publish:
+    name: Publish GitHub Release
+    runs-on: ubuntu-latest
+    needs: [build-windows, build-macos]
+    steps:
+      - name: Download Windows artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: windows-binaries
+          path: collected/windows
+      - name: Download macOS artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: macos-bundles
+          path: collected/macos
+
+      - name: List collected files (debug)
+        run: |
+          echo "Windows:"
+          ls -la collected/windows || true
+          echo "macOS:"
+          ls -la collected/macos || true
+
+      - name: Create/Update Release and Upload Assets
+        uses: ncipollo/release-action@v1
+        with:
+          tag: ${{ github.ref_name }}
+          name: Ignitron Preset Tools ${{ github.ref_name }}
+          body: |
+            ✨ Automated build for ${{ github.ref_name }}
+
+            Includes:
+            - Windows .exe builds (PyInstaller)
+            - macOS .app bundles (zipped)
+
+            Note (macOS): These apps are unsigned. On first run, right-click the app → Open.
+          artifacts: |
+            collected/windows/*.exe
+            collected/macos/*.zip
+          allowUpdates: true
+          replacesArtifacts: true
+          draft: false
+          prerelease: false
