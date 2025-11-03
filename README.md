@@ -1,6 +1,11 @@
 <img width="1024" height="1024" alt="IPT" src="https://github.com/mpkottawa/ignitron-preset-tools/blob/main/Ignitron%20preset%20tools%20logo.png" />
 
-# Ignitron Preset Tools release v 1.0.0 #
+# Ignitron Preset Tools release v 1.0.1 #
+## v1.0.1 — November 2025
+- Improved Spark App Scraper: Presets stream and save correctly
+- Adjusted Picker layout for macOS display scaling (all 4 banks now visible)
+- Updated icons and resource bundling
+- Minor UI cleanup and tooltips
 
 *Shoutout to stangreg for this great project `https://github.com/stangreg/Ignitron` *
 
