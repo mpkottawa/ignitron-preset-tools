@@ -306,7 +306,7 @@ it makes a presetlist.txt file like:
 and the PresetListUUIDs.txt file like:
 <img width="690" height="684" alt="Screenshot 2025-09-19 211746" src="https://github.com/user-attachments/assets/d68d71a6-bfbc-4f44-9d12-d7c4d5dd2ffa" />
 
-which are formatted correctly, and directly ready to upload to your pedal upon save.  this tool also exports a puff of your current preset layout for easy reference:
+which are formatted correctly, and directly ready to upload to your pedal upon save.  this tool also exports a pdf of your current preset layout for easy reference:
 
 
 
